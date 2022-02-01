@@ -1,0 +1,28 @@
+{
+  "name": "pernik-bot",
+  "version": "1.0.0",
+  "description": "Pernik bot by OlueTheYeeter",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlueTheYeeter/pernik-bot.git"
+  },
+  "author": "OlueTheYeeter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlueTheYeeter/pernik-bot/issues"
+  },
+  "homepage": "https://github.com/OlueTheYeeter/pernik-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^15.0.0",
+    "fs": "^0.0.1-security",
+    "node.js": "^0.0.1-security"
+  }
+}
