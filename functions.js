@@ -1,27 +1,33 @@
-function changePrefix(message) {
+const fs = require('fs');
+let config = JSON.parse(fs.readFileSync('config.json'));
+module.exports = {
+changePrefix: function (message) {
 	const index1 = message.content.indexOf("\"");
 	const out = message.content.replace("\"", " ");
 	const index2 = out.indexOf("\"");
 	config.prefix = message.content.substring(index1 + 1, index2);
 	configUpdate();
-}
-function changeStatus(message) {
+},
+changeStatus: function (message) {
 	const index1 = message.content.indexOf("\"")
 		, out = message.content.replace("\"", " ")
 		, index2 = out.indexOf("\"");
 	config.status = message.content.substring(index1 + 1, index2);
 	client.user.setActivity(config.status);
 	configUpdate();
-}
-function configUpdate() {
+},
+configValue: function () {
+	return config;
+},
+configUpdate: function () {
 	fs.writeFile('config.json', JSON.stringify(config, null, 2), (err) => {
 		if (err) throw err;
 		console.log('Config saved.\n\n');
 		console.log(config);
 		console.log("\n\n\n");
 	});
-}
-function configEmbed(message) {
+},
+configEmbed: function (message) {
 	message.channel.send({
 		embed: {
 			color: '#99AAB5',
@@ -39,8 +45,8 @@ function configEmbed(message) {
 		}
 	})
 	console.log("Config embed sent.")
-}
-async function configChangeEmbed(message, setting) {
+},
+configChangeEmbed: async function (message, setting) {
 	let configsetting;
 	let color1;
 	switch (setting) {
@@ -105,9 +111,9 @@ async function configChangeEmbed(message, setting) {
 			}
 		})
 
-}
+},
 
-function helpEmbed(message) {
+helpEmbed: function (message) {
 	message.channel.send({
 		embed: {
 			color: '#dab420',
@@ -127,12 +133,12 @@ function helpEmbed(message) {
 
 		}
 	})
-}
-function findChannel(channelId) {
+},
+findChannel: function (channelId) {
 	return client.channels.cache.find(channel => channel.id === channelId);
-}
+},
 
-function clear(amount, message, out) {
+clear: function (amount, message, out) {
 	if (!amount) return message.reply('*Instructions unclear, my bin exploded.* Please try again and enter the amount of messages you want me to delete.');
 	else if (isNaN(amount)) return message.reply(':x: *Instructions unclear, my bin exploded.* Please enter a **number**.');
 	else if (amount > 100) return message.reply(':x: :face_with_raised_eyebrow: U wot m8? You can only delete up to 100 messages');
@@ -156,9 +162,9 @@ function clear(amount, message, out) {
 
 
 	}
-}
+},
 //racism detection
-function RacismCheck(message) {
+RacismCheck: function (message) {
 	if (config.RacismDetection === 'off') return;
 	for (let i = 0; i < racist.length; i++) {
 		if (message.content.indexOf(racist[i]) != -1) {
@@ -169,9 +175,9 @@ function RacismCheck(message) {
 		}
 
 	}
-}
+},
 //rickroll detection
-function RickRollCheck(message) {
+RickRollCheck: function (message) {
 	if (config.RickRollDetection === 'off') return;
 	for (let i = 0; i < rick.length; i++) {
 		if (message.content.indexOf(rick[i]) != -1) {
@@ -180,5 +186,5 @@ function RickRollCheck(message) {
 		}
 
 	}
-}
-export {changePrefix,changeStatus,configUpdate,configEmbed,configChangeEmbed,RickRollCheck,RacismCheck,clear,findChannel,helpEmbed};
+},
+};

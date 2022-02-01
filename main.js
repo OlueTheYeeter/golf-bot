@@ -1,10 +1,13 @@
+//import {changePrefix,changeStatus,configUpdate,configEmbed,configChangeEmbed,RickRollCheck,RacismCheck,clear,findChannel,helpEmbed} from './functions.js';
+
 const Discord = require('discord.js');
 const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS] });
 const fs = require('fs');
+const functions = eval(fs.readFileSync('functions.js')+'');
 //const { token } = require('./config.json');
 
 let config = JSON.parse(fs.readFileSync('config.json'));
-import {changePrefix,changeStatus,configUpdate,configEmbed,configChangeEmbed,RickRollCheck,RacismCheck,clear,findChannel,helpEmbed} from '/functions.js';
+
 client.login(config.token);
 client.once('ready', ()=>{
     console.log(`Logged in as ${client.user.tag}`);
