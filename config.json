@@ -1,15 +1,14 @@
 {
-    "clientId": "913541366229913611",
-    "token": "OTEzNTQxMzY2MjI5OTEzNjEx.YZ__sg.PbhpQLYO4dIFSTsYQ65p8mAD7_A",
-    "prefix": "mangusta ",
-    "verifyRole": "Member",
-    "verify": "on",
-    "RacismDetection": "off",
-    "RickRollDetection": "on",
-    "status": "v1.2",
-    "version": "1.2",
-    "messageLogging": "on",
-    "minecraftSmpIP": "213.214.94.248",
-    "minecraftSmpPort": "25565",
-    "timezone": 2
+  "clientId": "913541366229913611",
+  "prefix": "pernik ",
+  "verifyRole": "Member",
+  "verify": "on",
+  "RacismDetection": "off",
+  "RickRollDetection": "on",
+  "status": "v1.2",
+  "version": "1.2",
+  "messageLogging": "on",
+  "minecraftSmpIP": "213.214.94.248",
+  "minecraftSmpPort": "25565",
+  "timezone": 2
 }
