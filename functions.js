@@ -1,93 +1,99 @@
 const fs = require('fs');
+let configFile = 'config.json';
 let config = JSON.parse(fs.readFileSync('config.json'));
+function configUpdate() {
+	fs.writeFile('config.json', JSON.stringify(config, null, 2), (err) => {
+		if (err) throw err;
+		console.log('Config saved.\n\n');
+		console.log(config);
+		console.log("\n\n\n");
+	});
+}
+function betweenQuotes(string) {
+	return string.substring(
+		string.indexOf("\"") + 1,
+		string.lastIndexOf("\"")
+	);
+}
+function configEmbed(message) {
+	message.channel.send({
+		embeds: [{
+			color: '#99AAB5',
+			title: 'Config',
+			fields: [
+				{ name: 'Prefix', value: `\`\`\`${config.prefix}\`\`\`` },
+				{ name: 'Anti-Racism', value: `\`\`\`${config.RacismDetection}\`\`\`` },
+				{ name: 'Anti-Rickroll', value: `\`\`\`${config.RickRollDetection}\`\`\`` },
+				{ name: 'Status', value: `\`\`\`${config.status}\`\`\`` },
+				{ name: 'Message Logging', value: `\`\`\`${config.messageLogging}\`\`\`` },
+				{ name: 'Version', value: `\`\`\`${config.version}\`\`\`` },
+			],
+			description: 'Config embed'
+		}]
+	});
+	console.log("Config embed sent.")
+}
 module.exports = {
 	betweenQuotes: function (string) {
-		return string.substring(
-			string.indexOf("\"") + 1,
-			string.lastIndexOf("\"")
-		);
+		return betweenQuotes(string);
 	},
 	changePrefix: function (message) {
-		/*const index1 = message.content.indexOf("\"");
-		const out = message.content.replace("\"", " ");
-		const index2 = out.indexOf("\"");
-		config.prefix = message.content.substring(index1 + 1, index2);*/
-
-		config.prefix = message.content.betweenQuotes();
+		config.prefix = betweenQuotes(message.content);
 		configUpdate();
 	},
-	changeStatus: function (message) {
-		/*const index1 = message.content.indexOf("\"")
-			, out = message.content.replace("\"", " ")
-			, index2 = out.indexOf("\"");
-		config.status = message.content.substring(index1 + 1, index2);*/
-		config.status = message.content.betweenQuotes();
-		
+	changeStatus: function (message, client) {
+		config.status = betweenQuotes(message.content);
+
 		client.user.setActivity(config.status);
-		
+
 		configUpdate();
 	},
 	configValue: function () {
 		return config;
 	},
-	configUpdate: function () {
-		fs.writeFile('config.json', JSON.stringify(config, null, 2), (err) => {
+	fileUpdate: function (fileName, fileContent) {
+		fs.writeFile(fileName, JSON.stringify(fileContent, null, 2), (err) => {
 			if (err) throw err;
-			console.log('Config saved.\n\n');
-			console.log(config);
+			console.log('File:' + fileName + 'saved.\n\n');
+			console.log(fileContent);
 			console.log("\n\n\n");
 		});
 	},
 	configEmbed: function (message) {
-		message.channel.send({
-			embeds: [{
-				color: '#99AAB5',
-				title: 'Config',
-				fields: [
-					{ name: 'Prefix', value: `\`\`\`${config.prefix}\`\`\`` },
-					{ name: 'Anti-Racism', value: `\`\`\`${config.RacismDetection}\`\`\`` },
-					{ name: 'Anti-Rickroll', value: `\`\`\`${config.RickRollDetection}\`\`\`` },
-					{ name: 'Status', value: `\`\`\`${config.status}\`\`\`` },
-					{ name: 'Message Logging', value: `\`\`\`${config.messageLogging}\`\`\`` },
-					{ name: 'Version', value: `\`\`\`${config.version}\`\`\`` },
-				],
-				description: 'Config embed'
-			}]
-		});
-		console.log("Config embed sent.")
+		return configEmbed(message);
 	},
-	configChangeEmbed: async function (message, setting) {
+	configChangeEmbed: async function (message, setting,config1) {
 		let configsetting;
 		let color1;
 		switch (setting) {
 			case "Prefix": {
 				color1 = '#427b7d'
-				configsetting = config.prefix;
+				configsetting = config1.prefix;
 				break;
 			}
 			case "Verify": {
 				color1 = '#00d407'
-				configsetting = config.verify;
+				configsetting = config1.verify;
 				break;
 			}
 			case "RacismDetection": {
 				color1 = '#000000'
-				configsetting = config.RacismDetection;
+				configsetting = config1.RacismDetection;
 				break;
 			}
 			case "RickRollDetection": {
 				color1 = '#d1d1ba'
-				configsetting = config.RickRollDetection;
+				configsetting = config1.RickRollDetection;
 				break;
 			}
 			case "Status": {
 				color1 = '#6a04c9'
-				configsetting = config.status;
+				configsetting = config1.status;
 				break;
 			}
 			case "MessageLogging": {
 				color1 = '#7289DA'
-				configsetting = config.messageLogging;
+				configsetting = config1.messageLogging;
 				break;
 			}
 
@@ -112,7 +118,7 @@ module.exports = {
 		};
 
 		configEmbedUpdateMessage
-			.awaitReactions({filter,  max: 1, time: 60000, errors: ['time'] })
+			.awaitReactions({ filter, max: 1, time: 60000, errors: ['time'] })
 			.then(collected => {
 				const reaction = collected.first();
 				if (reaction.emoji.name === '⚙️') {
@@ -120,6 +126,7 @@ module.exports = {
 					configEmbed(message);
 				}
 			})
+			.catch(console.error);
 
 	},
 
@@ -143,6 +150,7 @@ module.exports = {
 			}]
 		});
 	},
+
 	findChannel: function (channelId) {
 		return client.channels.cache.find(channel => channel.id === channelId);
 	},
@@ -160,7 +168,7 @@ module.exports = {
 						message.channel.send(`Deleted **${amount}** messages.`);
 						console.log(`Deleted ${amount} messages.`);
 						// setTimeout(clear(1,message,true), 5000) //in ms
-						setTimeout(() => clear(1, message, true), 5000); //in ms
+						setTimeout(() => message.channel.bulkDelete(1), 5000); //in ms
 					}
 
 
@@ -173,27 +181,16 @@ module.exports = {
 		}
 	},
 	//racism detection
-	RacismCheck: function (message) {
-		if (config.RacismDetection === 'off') return;
-		for (let i = 0; i < racist.length; i++) {
-			if (message.content.indexOf(racist[i]) != -1) {
-				//clear(1, message);
-				message.channel.bulkDelete(1) /**/.then(messages => console.log(`Deleted racist message.`)) /**/.catch(console.error);
-				message.channel.send(`${message.author} was racist.`);
-				console.log(`${message.author.username} was racist.`)
+	
+	emojify: function (string) {
+		let result = string.toLowerCase().split('').map(letter => {
+			if (/[a-z]/g.test(letter)) {
+				return `:regional_indicator_${letter}:`
 			}
-
-		}
+			return letter;
+		}).join('');
+		return result;
 	},
 	//rickroll detection
-	RickRollCheck: function (message) {
-		if (config.RickRollDetection === 'off') return;
-		for (let i = 0; i < rick.length; i++) {
-			if (message.content.indexOf(rick[i]) != -1) {
-				clear(1, message);
-				message.channel.send(`${message.author}, get rekt.`);
-			}
-
-		}
-	},
+	
 };

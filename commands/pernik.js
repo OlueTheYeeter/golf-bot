@@ -1,8 +1,10 @@
+const {MessageAttachment} = require("discord.js");
 module.exports = {
     name : 'pernik',
-    aliases: ['pernik'],
+    aliases: ['pernik','golf'],
     description : "Sends an image of a golf",
     execute (message,cmd,args,functions){
-        message.channel.send(new Discord.MessageAttachment('golf4.jpg'));
+        const golf = new MessageAttachment('golf4.jpg');
+        message.reply({files:[golf]});
     }
 }

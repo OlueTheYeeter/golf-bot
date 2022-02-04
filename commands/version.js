@@ -4,13 +4,13 @@ module.exports = {
     description : "Sends version embed",
     execute (message,cmd,args,functions){
         message.channel.send({
-			embed: {
+			embeds: [{
 				color: '#c3c908',
 				title: 'Mangusta Botka by Olue',
 				fields: [
-					{ name: 'Version: ', value: `\`\`\`${config.version}\`\`\`` },
+					{ name: 'Version: ', value: `\`\`\`${functions.configValue().version}\`\`\`` },
 				]
-			}
+			}]
 		})
     }
 }
