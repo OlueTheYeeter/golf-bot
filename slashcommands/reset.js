@@ -7,7 +7,7 @@ module.exports = {
 		.setName('reset')
 		.setDescription('Resets bot prefix(does not affect slash commands)'),
 	async execute(interaction, client,functions) {
-		config.prefix = "mangusta ";
+		config.prefix = "golf ";
 		functions.fileUpdate('config.json',config);
         interaction.reply('Bot prefix reset to: '+config.prefix);
 	},

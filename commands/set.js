@@ -6,7 +6,7 @@ module.exports = {
     aliases: ['setting','settings','config','configuration','s','conf'],
     description : "Config change",
     execute (message,cmd,args,functions,DiscordClient){
-       //config embed (mangusta set)
+       //config embed (golf set)
 		if (!args[0]) {
 			functions.configEmbed(message);
 			return;

@@ -12,7 +12,7 @@ let config = JSON.parse(fs.readFileSync('config.json'));
 require('dotenv').config();
 client.login(process.env.TOKEN);
 client.once('ready', () => {
-	console.log('\nMangustata e online');
+	console.log('\nGolfa e online');
 	console.log(`\nLogged in as ${client.user.tag}`);
 	console.log('Servers: \n'); client.guilds.cache.forEach(g => { console.log(g.name) });
 	console.log('\nConfig:');
@@ -27,7 +27,7 @@ client.once('ready', () => {
 		user.send({
 			embeds: [{
 				color: '#99AAB5',
-				title: 'Mangusta is online!\nConfig:',
+				title: 'Golfa is online!\nConfig:',
 				fields: [
 					{ name: 'Prefix', value: `\`\`\`${config.prefix}\`\`\`` },
 					{ name: 'Anti-Racism', value: `\`\`\`${config.RacismDetection}\`\`\`` },
@@ -74,15 +74,15 @@ client.on('messageCreate', message => {
 			console.log(`Bot mentioned.`);
 			//prefix reset
 			if (message.content.includes('reset')) {
-				config.prefix = "mangusta ";
+				config.prefix = "golf ";
 				console.log('Prefix reset.');
-				message.channel.send('Prefix reset to "mangusta "');
+				message.channel.send('Prefix reset to "golf "');
 				configUpdate();
 				configEmbed(message);
 
 			}
 			else {
-				message.channel.send(`Hello, comrade, I am Mangusta and I am at your service. My prefix is "**${config.prefix}**"`);
+				message.channel.send(`Hello, comrade, I am The Golf 4ka and I am at your service. My prefix is "**${config.prefix}**"`);
 				console.log(`Hello message sent.`);
 			}
 		}

@@ -1,21 +1,21 @@
 {
-  "name": "pernik-bot",
-  "version": "1.0.0",
-  "description": "Pernik bot by OlueTheYeeter",
+  "name": "golf-bot",
+  "version": "2.0.2",
+  "description": "Golf bot by OlueTheYeeter",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlueTheYeeter/pernik-bot.git"
+    "url": "git+https://github.com/OlueTheYeeter/golf-bot.git"
   },
   "author": "OlueTheYeeter",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OlueTheYeeter/pernik-bot/issues"
+    "url": "https://github.com/OlueTheYeeter/golf-bot/issues"
   },
-  "homepage": "https://github.com/OlueTheYeeter/pernik-bot#readme",
+  "homepage": "https://github.com/OlueTheYeeter/golf-bot#readme",
   "dependencies": {
     "@discordjs/builders": "^0.12.0",
     "@discordjs/rest": "^0.3.0",
