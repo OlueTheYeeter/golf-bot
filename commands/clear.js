@@ -4,8 +4,8 @@ module.exports = {
     description : "Clears messages",
     execute (message,cmd,args,functions){
         if (message.member.permissions.has('MANAGE_MESSAGES')) {
-			if (args[0] === 'a' || args[0] === 'all') args[0] = 100;
-			functions.clear(args[0], message);
+			if (args[0] === 'a' || args[0] === 'all') args[0] = 99;
+			functions.clear(parseInt(args[0]), message);
 		}
 		else message.channel.send(':x: Nice try, you do not have the right permissions.');
     }

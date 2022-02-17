@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { isMainThread } = require('worker_threads');
 let configFile = 'config.json';
 let config = JSON.parse(fs.readFileSync('config.json'));
 function configUpdate() {
@@ -62,7 +63,7 @@ module.exports = {
 	configEmbed: function (message) {
 		return configEmbed(message);
 	},
-	configChangeEmbed: async function (message, setting,config1) {
+	configChangeEmbed: async function (message, setting, config1) {
 		let configsetting;
 		let color1;
 		switch (setting) {
@@ -140,8 +141,6 @@ module.exports = {
 					{ name: 'Prefix', value: `\`\`\`${functions.configValue().prefix}\`\`\`` },
 					{ name: 'Prefix reset', value: `\`\`\`@${client.user.tag} reset\`\`\`` },
 					{ name: 'Purge Commands - delete, purge, clear', value: `\`\`\`${functions.configValue().prefix}delete 69\`\`\`` },
-					{ name: 'Mute Commands - mute', value: `\`\`\`${functions.configValue().prefix}mute @target <time>\`\`\`` },
-					{ name: 'Unmute Commands - unmute', value: `\`\`\`${functions.configValue().prefix}unmute @target\`\`\`` },
 					{ name: 'Minecraft Commands -  ', value: `\`\`\`${functions.configValue().prefix}mc <minecraft-server-ip>\`\`\`` },
 					{ name: 'Help', value: `\`\`\`${functions.configValue().prefix}help\`\`\`` },
 					{ name: 'Settings/functions.config/Set', value: `\`\`\`${functions.configValue().prefix}set\`\`\`` },
@@ -154,43 +153,75 @@ module.exports = {
 	findChannel: function (channelId) {
 		return client.channels.cache.find(channel => channel.id === channelId);
 	},
+	leaveServer: function (type, server) {
+		let srever;
+		if (type == "name") {
+			client.guilds.cache.find(guild => guild.name == server).leave();
+		}
+		if (type == "id") {
+			client.guilds.cache.find(guild => guild.id == server).leave();
+		}
 
-	clear: function (amount, message, out) {
+		return 0;
+	},
+
+	clear: function (amount, message) {
 		if (!amount) return message.reply('*Instructions unclear, my bin exploded.* Please try again and enter the amount of messages you want me to delete.');
 		else if (isNaN(amount)) return message.reply(':x: *Instructions unclear, my bin exploded.* Please enter a **number**.');
 		else if (amount > 100) return message.reply(':x: :face_with_raised_eyebrow: U wot m8? You can only delete up to 100 messages');
 		else if (amount < 1) return message.reply(':x: Enter a positive number please.');
-		else {
+		/*else {
 			try {
 				message.channel.messages.fetch({ limit: amount }).then(messages => {
 					message.channel.bulkDelete(messages, true);
-					if (!out) {
-						message.channel.send(`Deleted **${amount}** messages.`);
+						//let deletMessage = message.channel.send(`Deleted **${amount}** messages.`);
+						//message.channel.send("Hello World!").then(msg=>msg.delete({timeout:"10000"}))
 						console.log(`Deleted ${amount} messages.`);
+						//setTimeout(() => message.channel.bulkDelete(1), 5000); //in ms
 						// setTimeout(clear(1,message,true), 5000) //in ms
-						setTimeout(() => message.channel.bulkDelete(1), 5000); //in ms
-					}
-
-
+						
 				});
 			} catch (err) {
 				console.log(err);
 			}
+			
 
+		}*/
+		if (!amount) return message.reply(" How many messages do you want to delete (limit 99)");
+		/*if(parseInt(amount) > 99) return message.reply("You can't delete more than 99 messages at once dude!!");
+	    
+		message.channel.bulkDelete(parseInt(amount) + 1 ).then(message =>{
+			message.channel.send(`Cleared ${amount} messages!`).then (message =>message.delete({timeout: 300}));
+			message.react("ðŸ‘Œ")
+		}).catch((err) =>{
+			console.log(err)
+			return message.reply("An error occurred!")
+		})*/
+		const deleteCount = parseInt(amount, 10);
 
-		}
+		if (!deleteCount || deleteCount < 1 || deleteCount > 100) return;
+		message.channel
+			.bulkDelete(deleteCount + 1)
+			.then(messages => console.log(`Bulk deleted ${messages.size} messages`))
+		message.channel.send(`Deleted ${deleteCount} messages.`)
+			.catch(console.error);
+
 	},
 	//racism detection
-	
+
 	emojify: function (string) {
 		let result = string.toLowerCase().split('').map(letter => {
 			if (/[a-z]/g.test(letter)) {
 				return `:regional_indicator_${letter}:`
 			}
+
 			return letter;
 		}).join('');
+		result.replace(" ", "\n");
 		return result;
 	},
+
+
 	//rickroll detection
-	
+
 };
