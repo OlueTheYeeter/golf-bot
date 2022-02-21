@@ -16,8 +16,6 @@ module.exports = {
 					{ name: 'Prefix', value: `\`\`\`${functions.configValue().prefix}\`\`\`` },
 					{ name: 'Prefix reset', value: `\`\`\`@${client.user.tag} reset\`\`\`` },
 					{ name: 'Purge Commands - delete, purge, clear', value: `\`\`\`${functions.configValue().prefix}delete 69\`\`\`` },
-					{ name: 'Mute Commands - mute', value: `\`\`\`${functions.configValue().prefix}mute @target <time>\`\`\`` },
-					{ name: 'Unmute Commands - unmute', value: `\`\`\`${functions.configValue().prefix}unmute @target\`\`\`` },
 					{ name: 'Minecraft Commands -  ', value: `\`\`\`${functions.configValue().prefix}mc <minecraft-server-ip>\`\`\`` },
 					{ name: 'Help', value: `\`\`\`${functions.configValue().prefix}help\`\`\`` },
 					{ name: 'Settings/functions.config/Set', value: `\`\`\`${functions.configValue().prefix}set\`\`\`` },

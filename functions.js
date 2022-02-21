@@ -1,6 +1,4 @@
 const fs = require('fs');
-const { isMainThread } = require('worker_threads');
-let configFile = 'config.json';
 let config = JSON.parse(fs.readFileSync('config.json'));
 function configUpdate() {
 	fs.writeFile('config.json', JSON.stringify(config, null, 2), (err) => {
@@ -148,13 +146,13 @@ module.exports = {
 				],
 			}]
 		});
+		
 	},
 
 	findChannel: function (channelId) {
 		return client.channels.cache.find(channel => channel.id === channelId);
 	},
 	leaveServer: function (type, server) {
-		let srever;
 		if (type == "name") {
 			client.guilds.cache.find(guild => guild.name == server).leave();
 		}
