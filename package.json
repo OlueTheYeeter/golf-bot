@@ -23,7 +23,6 @@
     "discord.js": "^13.6.0",
     "dotenv": "^15.0.1",
     "fs": "^0.0.1-security",
-    "git": "^0.1.5",
     "minecraft-server-util": "^3.6.0",
     "node.js": "^0.0.1-security"
   }
