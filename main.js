@@ -12,8 +12,8 @@ let config = JSON.parse(fs.readFileSync('config.json'));
 require('dotenv').config();
 client.login(process.env.TOKEN);
 client.once('ready', () => {
-	console.log('\nGolfa e online');
-	console.log(`\nLogged in as ${client.user.tag}`);
+	console.log('\nGolfa e online');	
+	console.log(`\nLogged in as ${client.user.tag}`);	
 	console.log('Servers: \n'); client.guilds.cache.forEach(g => { console.log(g.name) });
 	console.log('\nConfig:');
 	console.log(config);
@@ -100,7 +100,7 @@ client.on('messageCreate', message => {
 
 	const TMfilters = ["maika", "majka", "maina", 'majka', 'майна', 'майка']
 	if (message.content.split(" ").filter(w => TMfilters.indexOf(w) != -1).length > 0) {
-		if (Math.floor(Math.random() * 2)) message.channel.send(functions.emojify("twoqta majka"));
+		if (functions.rng(0,2)) message.channel.send(functions.emojify("twoqta majka"));
 		else message.channel.send(functions.emojify("maika ti"));
 	}
 

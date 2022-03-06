@@ -18,7 +18,7 @@ module.exports = {
 				if (!args[1]) message.channel.send('Enter prefix in " ", please.');
 				else {
 					functions.changePrefix(message);
-					functions.configChangeEmbed(message, "Prefix"),config;
+					functions.configChangeEmbed(message, "Prefix",functions.configValue());
 
 				}
 			}
@@ -27,7 +27,7 @@ module.exports = {
 					config.RacismDetection = args[1];
 
 					functions.fileUpdate('config.json',config);
-					functions.configChangeEmbed(message, "RacismDetection",config);
+					functions.configChangeEmbed(message, "RacismDetection",functions.configValue());
 					//message.channel.send(`Anti-Racism is now **${config.RacismDetection}**`);
 					//console.log('Anti-Racism ' + config.RacismDetection);
 				} else message.channel.send('Detection commands can only be ```**ON**``` or ```**OFF**```');
@@ -38,7 +38,7 @@ module.exports = {
 					config.RickRollDetection = args[1];
 
 					functions.fileUpdate('config.json',config);
-					functions.configChangeEmbed(message, "RickRollDetection",config);
+					functions.configChangeEmbed(message, "RickRollDetection",functions.configValue());
 					//message.channel.send(`Anti-Rickroll is now **${config.RickRollDetection}**`);
 					//console.log('Anti-RickRoll' + config.RickRollDetection);
 				}
@@ -47,7 +47,7 @@ module.exports = {
 			else if (args[0] === 'status') {
 				if (message.author.id == functions.configValue().botOwner) {
 					functions.changeStatus(message,DiscordClient);
-					functions.configChangeEmbed(message, "Status",config);
+					functions.configChangeEmbed(message, "Status",functions.configValue());
 				}
 				else message.reply(`You can't do this.`);
 			}
@@ -56,7 +56,7 @@ module.exports = {
 					if (message.author.id == functions.configValue().botOwner) {
 						config.messageLogging = args[1];
 						functions.fileUpdate('config.json',config);;
-						functions.configChangeEmbed(message, "MessageLogging",config);
+						functions.configChangeEmbed(message, "MessageLogging",functions.configValue());
 						console.log('Message Logging' + config.messageLogging);
 					} else message.reply(`You can't do this.`);
 				} else message.channel.send('Logging can only be ```ON``` or ```OFF```');
@@ -67,7 +67,7 @@ module.exports = {
 						config.verify = args[1];
 
 						functions.fileUpdate('config.json',config);;
-						functions.configChangeEmbed(message, "Verify",config);
+						functions.configChangeEmbed(message, "Verify",functions.configValue());
 					} else message.reply(`You can't do this.`);
 				} else message.channel.send('Detection commands can only be ```ON``` or ```OFF```');
 			}

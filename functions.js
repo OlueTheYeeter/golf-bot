@@ -33,6 +33,9 @@ function configEmbed(message) {
 	console.log("Config embed sent.")
 }
 module.exports = {
+	rng: function (min,max){
+		return Math.floor((Math.random() * max) + min);
+	},
 	betweenQuotes: function (string) {
 		return betweenQuotes(string);
 	},
