@@ -1,7 +1,7 @@
 const fs = require('fs');
-let config = JSON.parse(fs.readFileSync('config.json'));
+let config = JSON.parse(fs.readFileSync('essential/config.json'));
 function configUpdate() {
-	fs.writeFile('config.json', JSON.stringify(config, null, 2), (err) => {
+	fs.writeFile('essential/config.json', JSON.stringify(config, null, 2), (err) => {
 		if (err) throw err;
 		console.log('Config saved.\n\n');
 		console.log(config);
@@ -32,9 +32,51 @@ function configEmbed(message) {
 	});
 	console.log("Config embed sent.")
 }
+function letterToUnicode(L) {
+	if (L == 'a') return '🇦 ';
+	else if (L == 'b') return '🇧 ';
+	else if (L == 'c') return '🇨 ';
+	else if (L == 'd') return '🇩 ';
+	else if (L == 'e') return '🇪 ';
+	else if (L == 'f') return '🇫 ';
+	else if (L == 'g') return '🇬 ';
+	else if (L == 'h') return '🇭 ';
+	else if (L == 'i') return '🇮 ';
+	else if (L == 'j') return '🇯 ';
+	else if (L == 'k') return '🇰 ';
+	else if (L == 'l') return '🇱 ';
+	else if (L == 'm') return '🇲 ';
+	else if (L == 'n') return '🇳 ';
+	else if (L == 'o') return '🇴 ';
+	else if (L == 'p') return '🇵 ';
+	else if (L == 'q') return '🇶 ';
+	else if (L == 'r') return '🇷 ';
+	else if (L == 's') return '🇸 ';
+	else if (L == 't') return '🇹 ';
+	else if (L == 'u') return '🇺 ';
+	else if (L == 'v') return '🇻 ';
+	else if (L == 'w') return '🇼 ';
+	else if (L == 'x') return '🇽 ';
+	else if (L == 'y') return '🇾 ';
+	else if (L == 'z') return '🇿 ';
+	else return L;
+}
 module.exports = {
-	rng: function (min,max){
-		return Math.floor((Math.random() * max) + min);
+	test: 1,
+	permissionCheck: function (messageOrInteraction, permission) {
+		if (messageOrInteraction.member.permissions.has(permission)) {
+			return true;
+		}
+		else {
+			messageOrInteraction.reply("You don't have the permission: `"+permission+"`.");
+			return false;
+		}
+	},
+	letterToUnicode: function (L) {
+		return letterToUnicode(L);
+	},
+	rng: function (min, max) {
+		return Math.round((Math.random() * max) + min);
 	},
 	betweenQuotes: function (string) {
 		return betweenQuotes(string);
@@ -139,17 +181,17 @@ module.exports = {
 				title: 'Help',
 				description: 'Help embed',
 				fields: [
-					{ name: 'Prefix', value: `\`\`\`${functions.configValue().prefix}\`\`\`` },
-					{ name: 'Prefix reset', value: `\`\`\`@${client.user.tag} reset\`\`\`` },
-					{ name: 'Purge Commands - delete, purge, clear', value: `\`\`\`${functions.configValue().prefix}delete 69\`\`\`` },
-					{ name: 'Minecraft Commands -  ', value: `\`\`\`${functions.configValue().prefix}mc <minecraft-server-ip>\`\`\`` },
-					{ name: 'Help', value: `\`\`\`${functions.configValue().prefix}help\`\`\`` },
-					{ name: 'Settings/functions.config/Set', value: `\`\`\`${functions.configValue().prefix}set\`\`\`` },
+					{ name: 'Prefix', value: `\`\`\`${config.prefix}\`\`\`` },
+					{ name: 'Prefix reset', value: `\`\`\`@${config.clientId} reset\`\`\`` },
+					{ name: 'Purge Commands - delete, purge, clear', value: `\`\`\`${config.prefix}delete 69\`\`\`` },
+					{ name: 'Minecraft Commands -  ', value: `\`\`\`${config.prefix}mc <minecraft-server-ip>\`\`\`` },
+					{ name: 'Help', value: `\`\`\`${config.prefix}help\`\`\`` },
+					{ name: 'Settings/functions.config/Set', value: `\`\`\`${config.prefix}set\`\`\`` },
 
 				],
 			}]
 		});
-		
+
 	},
 
 	findChannel: function (channelId) {
@@ -171,38 +213,11 @@ module.exports = {
 		else if (isNaN(amount)) return message.reply(':x: *Instructions unclear, my bin exploded.* Please enter a **number**.');
 		else if (amount > 100) return message.reply(':x: :face_with_raised_eyebrow: U wot m8? You can only delete up to 100 messages');
 		else if (amount < 1) return message.reply(':x: Enter a positive number please.');
-		/*else {
-			try {
-				message.channel.messages.fetch({ limit: amount }).then(messages => {
-					message.channel.bulkDelete(messages, true);
-						//let deletMessage = message.channel.send(`Deleted **${amount}** messages.`);
-						//message.channel.send("Hello World!").then(msg=>msg.delete({timeout:"10000"}))
-						console.log(`Deleted ${amount} messages.`);
-						//setTimeout(() => message.channel.bulkDelete(1), 5000); //in ms
-						// setTimeout(clear(1,message,true), 5000) //in ms
-						
-				});
-			} catch (err) {
-				console.log(err);
-			}
-			
-
-		}*/
-		if (!amount) return message.reply(" How many messages do you want to delete (limit 99)");
-		/*if(parseInt(amount) > 99) return message.reply("You can't delete more than 99 messages at once dude!!");
-	    
-		message.channel.bulkDelete(parseInt(amount) + 1 ).then(message =>{
-			message.channel.send(`Cleared ${amount} messages!`).then (message =>message.delete({timeout: 300}));
-			message.react("ðŸ‘Œ")
-		}).catch((err) =>{
-			console.log(err)
-			return message.reply("An error occurred!")
-		})*/
-		const deleteCount = parseInt(amount, 10);
+		const deleteCount = parseInt(amount);
 
 		if (!deleteCount || deleteCount < 1 || deleteCount > 100) return;
 		message.channel
-			.bulkDelete(deleteCount + 1)
+			.bulkDelete(deleteCount + 1,true)
 			.then(messages => console.log(`Bulk deleted ${messages.size} messages`))
 		message.channel.send(`Deleted ${deleteCount} messages.`)
 			.catch(console.error);
@@ -211,9 +226,11 @@ module.exports = {
 	//racism detection
 
 	emojify: function (string) {
-		let result = string.toLowerCase().split('').map(letter => {
+		let result = string.replace(' ', '\n');
+		result = result.toLowerCase().split('').map(letter => {
 			if (/[a-z]/g.test(letter)) {
-				return `:regional_indicator_${letter}:`
+				//return `:regional_indicator_${letter}:`
+				return letterToUnicode(letter);
 			}
 
 			return letter;

@@ -3,7 +3,7 @@ module.exports = {
     aliases: ['delete','purge'],
     description : "Clears messages",
     execute (message,cmd,args,functions){
-        if (message.member.permissions.has('MANAGE_MESSAGES')) {
+        if (functions.permissionCheck(message,'MANAGE_MESSAGES')) {
 			if (args[0] === 'a' || args[0] === 'all') args[0] = 99;
 			functions.clear(parseInt(args[0]), message);
 		}

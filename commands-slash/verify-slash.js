@@ -10,7 +10,7 @@ module.exports = {
 				.setRequired(true)),
 	async execute(interaction, client, functions, config) {
 		let target = interaction.options.getMentionable('user');
-		if (interaction.member.permissions.has('MANAGE_ROLES')) {
+		if (functions.permissionCheck(interaction,'MANAGE_ROLES')) {
 
 			if (target) {
 				let memberTarget = interaction.guild.members.cache.get(target.id);

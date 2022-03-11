@@ -5,13 +5,12 @@ const client = new Discord.Client({
 })
 
 const fs = require('fs');
-const functions = eval(fs.readFileSync('functions.js') + '');
-//const { token } = require('./config.json');
-let configFile = 'config.json';
-let config = JSON.parse(fs.readFileSync('config.json'));
+const functions = require('./essential/functions.js');
+let config = JSON.parse(fs.readFileSync('essential/config.json'));
 require('dotenv').config();
 client.login(process.env.TOKEN);
 client.once('ready', () => {
+
 	console.log('\nGolfa e online');	
 	console.log(`\nLogged in as ${client.user.tag}`);	
 	console.log('Servers: \n'); client.guilds.cache.forEach(g => { console.log(g.name) });
@@ -42,9 +41,9 @@ client.once('ready', () => {
 	});*/
 })
 client.slashCommands = new Discord.Collection();
-const slashCommandFiles = fs.readdirSync('./slashcommands').filter(file => file.endsWith('.js'));
+const slashCommandFiles = fs.readdirSync('./commands-slash').filter(file => file.endsWith('.js'));
 for (const file of slashCommandFiles) {
-	const slashCommand = require(`./slashcommands/${file}`);
+	const slashCommand = require(`./commands-slash/${file}`);
 	// Set a new item in the Collection
 	// With the key as the command name and the value as the exported module
 	client.slashCommands.set(slashCommand.data.name, slashCommand);
@@ -57,18 +56,23 @@ for (const file of commandFiles) {
 	// With the key as the command name and the value as the exported module
 	client.commands.set(command.name, command);
 }
-
+client.on('guildMemberAdd', guildMember => {
+	if (config.verify === 'on') {
+		guildMember.roles.add(guildMember.guild.roles.cache.find(role => role.name === config.verifyRole));
+		guildMember.guild.channels.cache.get('815985682303680547')
+			.send(` <@${guildMember.user.id}> was verified by ***The Golf Advanced Mafia Verification System™***  Provided By **The Olue® Company**.`);
+	}
+});
 client.on('messageCreate', message => {
 
 	if (message.guild) {
-		//if(config.messageLogging=="on") mafia.log('Message: '+message.channel.name+' - ' + message.author.username + ' - ' + message.content	);
 		if (config.messageLogging == "on") {
 			var month = message.createdAt.getMonth() + 1;
 			var hour = message.createdAt.getUTCHours() + config.timezone;
 			var date = message.createdAt.getUTCDate;
 			if (message.createdAt.getUTCHours() < 0 && hour > 0) date = date + 1;
 			if (message.guild.name == "Mafia")
-				fs.appendFileSync('message-logs/messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
+				fs.appendFileSync('data/txt/messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
 		}
 		if (message.content.includes("825440225999192084")) {
 			console.log(`Bot mentioned.`);
@@ -88,7 +92,7 @@ client.on('messageCreate', message => {
 		}
 	}
 
-	if (config.RickRollDetection === 'off') return;
+	if (config.RickRollDetection === 'on'){
 	const RickFilters = ["dQw4w9WgXcQ", "iik25wqIuFo", 'HIcSWuKMwOw',]
 	if (message.content.split(" ").filter(w => RickFilters.indexOf(w) != -1).length > 0) {
 
@@ -96,7 +100,7 @@ client.on('messageCreate', message => {
 		message.channel.send(`${message.author} get rekt.`);
 		console.log(`${message.author.username} got rekt.`);
 
-	}
+	}}
 
 	const TMfilters = ["maika", "majka", "maina", 'majka', 'майна', 'майка']
 	if (message.content.split(" ").filter(w => TMfilters.indexOf(w) != -1).length > 0) {
@@ -105,20 +109,25 @@ client.on('messageCreate', message => {
 	}
 
 
-	if (config.RacismDetection === 'off') return;
+	if (config.RacismDetection === 'on'){
 	const RacistFilters = ["nigga", "niger", "негър", 'nigger',]
 	if (message.content.split(" ").filter(w => RacistFilters.indexOf(w) != -1).length > 0) {
 		message.delete().then(messages => console.log(`Deleted racist message.`)).catch(console.error);
 		message.channel.send(`${message.author} was racist.`);
 		console.log(`${message.author.username} was racist.`)
-	}
+	}}
 	if (message.content.indexOf(config.prefix) != 0 || message.author.bot) return;
-
 	const args = message.content.slice(config.prefix.length).split(/ +/);
 	const cmd = args.shift().toLowerCase();
 	const command = client.commands.get(cmd) ||
 		client.commands.find(a => a.aliases.indexOf(cmd) + 1);
 	if (!command) return;
+	if(command.permissions){
+		for(perm of command.permissions){
+			if(functions.permissionCheck(message,perm));
+			else return;
+		}
+	}
 	try {
 		command.execute(message, cmd, args, functions, client);
 	} catch (error) {

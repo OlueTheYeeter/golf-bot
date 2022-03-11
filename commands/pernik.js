@@ -4,7 +4,7 @@ module.exports = {
     aliases: ['pernik','golf'],
     description : "Sends an image of a golf",
     execute (message,cmd,args,functions){
-        const golf = new MessageAttachment('golf4.jpg');
+        const golf = new MessageAttachment('data/images/golf4.jpg');
         message.reply({files:[golf]});
     }
 }

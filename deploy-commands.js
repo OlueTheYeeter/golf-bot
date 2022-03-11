@@ -7,17 +7,17 @@ const token = process.env.TOKEN, id = process.env.CLIENT_ID;
 
 // Global commands
 const commands = [];
-const commandFiles = fs.readdirSync('./slashcommands').filter(file => file.endsWith('.js'));
+const commandFiles = fs.readdirSync('./commands-slash').filter(file => file.endsWith('.js'));
 
 for (const file of commandFiles) {
-	const command = require(`./slashcommands/${file}`);
+	const command = require(`./commands-slash/${file}`);
 	commands.push(command.data.toJSON());
 }
 
 const slashCommands = [];
-const slashCommandFiles = fs.readdirSync('./slashcommands').filter(file => file.endsWith('.js'));
+const slashCommandFiles = fs.readdirSync('./commands-slash').filter(file => file.endsWith('.js'));
 for (const file of slashCommandFiles) {
-	const slashCommand = require(`./slashcommands/${file}`);
+	const slashCommand = require(`./commands-slash/${file}`);
 	// Set a new item in the Collection
 	// With the key as the command name and the value as the exported module
 	slashCommands.push(slashCommand.data.toJSON());

@@ -3,7 +3,7 @@ module.exports = {
     aliases: ['verify'],
     description : "Clears messages",
     execute (message,cmd,args,functions,client){
-        if (message.member.permissions.has('MANAGE_ROLES')) {
+        if (functions.permissionCheck(message,'MANAGE_ROLES')) {
 			const target = message.mentions.users.first();
 			if (target) {
 				let memberTarget = message.guild.members.cache.get(target.id);

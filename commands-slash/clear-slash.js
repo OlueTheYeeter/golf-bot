@@ -14,7 +14,7 @@ module.exports = {
         interaction.reply('Command is bwoken.');
         /*let msg = interaction.options.getInteger('messages');
         client.on('messageCreate', message => {
-        if (interaction.member.permissions.has('MANAGE_MESSAGES')) {
+        if (functions.permissionCheck(interaction,'MANAGE_MESSAGES')) {
             //if (args[0] === 'a' || args[0] === 'all') args[0] = 99;
             
                 functions.clear(parseInt(msg), message);

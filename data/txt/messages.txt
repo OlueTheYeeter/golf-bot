@@ -14264,11 +14264,11 @@ cvb
 ghg
 ==========
 25/1/2022 - 11:57:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
-fs.appendFileSync('message-logs/messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
+fs.appendFileSync('data\txt\messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
 ==========
 25/1/2022 - 11:58:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
 ```js
-    fs.appendFileSync('message-logs/messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
+    fs.appendFileSync('data\txt\messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
 ```
 ==========
 25/1/2022 - 11:58:4 - 🤖-bot-commands-🤖 - Terminal-bot#3526
@@ -28510,4 +28510,3251 @@ debel loop
 ==========
 6/3/2022 - 16:57:43 - 🤖-bot-commands-🤖 - Debeliq#6723
 Repeat mode **enabled** the current music will be repeated endlessly (you can loop the queue with the <queue> option) 🔂
+==========
+6/3/2022 - 17:27:10 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+6/3/2022 - 17:27:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+🇦
+==========
+6/3/2022 - 17:28:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+6/3/2022 - 17:29:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+6/3/2022 - 17:30:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+6/3/2022 - 17:30:18 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:18 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:19 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:19 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:19 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:24 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:24 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:30:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:31:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+6/3/2022 - 17:31:18 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:31:19 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+6/3/2022 - 17:34:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+6/3/2022 - 17:34:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf emojify maina
+==========
+6/3/2022 - 17:34:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹🇼🇴🇶🇹🇦 🇲🇦🇯🇰🇦
+==========
+6/3/2022 - 17:34:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇲🇦🇮🇳🇦
+==========
+6/3/2022 - 17:34:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+....
+==========
+6/3/2022 - 17:36:34 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf emojify test
+==========
+6/3/2022 - 17:36:34 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹🇪🇸🇹
+==========
+6/3/2022 - 17:36:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf emojify a
+==========
+6/3/2022 - 17:36:42 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦🇦
+==========
+6/3/2022 - 17:36:44 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel play hymn for the weekend
+==========
+6/3/2022 - 17:36:54 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel play hymn for the weekend
+==========
+6/3/2022 - 17:36:56 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+6/3/2022 - 17:36:57 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track Coldplay - Hymn For The Weekend (Official Video) added in the queue ✅
+==========
+6/3/2022 - 17:36:59 - 🤖-bot-commands-🤖 - Debeliq#6723
+Started playing Coldplay - Hymn For The Weekend (Official Video) in **💬| Just Chatting 1 |💬** 🎧
+==========
+6/3/2022 - 17:37:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf emojify a
+==========
+6/3/2022 - 17:37:7 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇦
+==========
+6/3/2022 - 17:37:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf emojify b
+==========
+6/3/2022 - 17:37:14 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇧
+==========
+6/3/2022 - 17:37:16 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel loop
+==========
+6/3/2022 - 17:37:16 - 🤖-bot-commands-🤖 - Debeliq#6723
+Repeat mode **enabled** the current music will be repeated endlessly (you can loop the queue with the <queue> option) 🔂
+==========
+6/3/2022 - 17:39:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf emojify b
+==========
+6/3/2022 - 17:39:13 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇧
+==========
+6/3/2022 - 17:39:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf emojify begaj se
+==========
+6/3/2022 - 17:39:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇧 🇪 🇬 🇦 🇯 
+🇸 🇪
+==========
+6/3/2022 - 17:40:34 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+6/3/2022 - 17:56:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf load
+==========
+6/3/2022 - 17:56:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+6/3/2022 - 17:57:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf load
+==========
+6/3/2022 - 17:57:7 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 17:58:43 - 👋-welcome-👋 - Neshtastnik#1059
+
+==========
+6/3/2022 - 17:59:2 - 🤖-bot-commands-🤖 - Neshtastnik#1059
+golf load
+==========
+6/3/2022 - 17:59:2 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+You don't have the permission: `ADMINISTRATOR`.
+==========
+6/3/2022 - 18:12:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf load
+==========
+6/3/2022 - 18:12:8 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:12:18 - 🤖-bot-commands-🤖 - Neshtastnik#1059
+golf load
+==========
+6/3/2022 - 18:12:18 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+You don't have the permission: `ADMINISTRATOR`.
+==========
+6/3/2022 - 18:17:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf delete a
+==========
+6/3/2022 - 18:18:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf delete a
+==========
+6/3/2022 - 18:18:56 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+6/3/2022 - 18:21:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set
+==========
+6/3/2022 - 18:21:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:21:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set anti-racism of
+==========
+6/3/2022 - 18:21:33 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Detection commands can only be ```**ON**``` or ```**OFF**```
+==========
+6/3/2022 - 18:21:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set anti-racism off
+==========
+6/3/2022 - 18:21:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:21:47 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:22:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set
+==========
+6/3/2022 - 18:22:8 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:22:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set anti-rickroll off
+==========
+6/3/2022 - 18:22:32 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:22:34 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:22:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set
+==========
+6/3/2022 - 18:22:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set
+==========
+6/3/2022 - 18:22:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set
+==========
+6/3/2022 - 18:22:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf tesat
+==========
+6/3/2022 - 18:22:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+6/3/2022 - 18:23:7 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+6/3/2022 - 18:24:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set
+==========
+6/3/2022 - 18:24:15 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:26:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set anti-racism on
+==========
+6/3/2022 - 18:26:16 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+6/3/2022 - 18:28:12 - 💬-general-chat-💬 - Amah_1113#1361
+ili ako si na win 11 i puskash wslq
+==========
+6/3/2022 - 18:29:1 - 💬-general-chat-💬 - N1tronsZ#6265
+кво е тва
+==========
+6/3/2022 - 18:31:2 - 💬-general-chat-💬 - Amah_1113#1361
+neshtoto det ti dava da runvash linux app-ove
+==========
+6/3/2022 - 18:31:6 - 💬-general-chat-💬 - Amah_1113#1361
+na windows
+==========
+6/3/2022 - 18:31:12 - 💬-general-chat-💬 - N1tronsZ#6265
+и за какво ти е това
+==========
+6/3/2022 - 18:31:18 - 💬-general-chat-💬 - N1tronsZ#6265
+това е абсолютно безполезно
+==========
+6/3/2022 - 18:31:32 - 💬-general-chat-💬 - Amah_1113#1361
+ami....
+==========
+6/3/2022 - 18:31:36 - 💬-general-chat-💬 - Amah_1113#1361
+sushtnost ne e
+==========
+6/3/2022 - 18:31:46 - 💬-general-chat-💬 - Amah_1113#1361
+ama vijdam che ne razbirash
+==========
+6/3/2022 - 18:31:49 - 💬-general-chat-💬 - N1tronsZ#6265
+кажи ми някое приложение без windows support
+==========
+6/3/2022 - 18:31:59 - 💬-general-chat-💬 - N1tronsZ#6265
+което да не е терминалът
+==========
+6/3/2022 - 18:32:22 - 💬-general-chat-💬 - Amah_1113#1361
+emi... mousepad, kate....
+==========
+6/3/2022 - 18:32:31 - 💬-general-chat-💬 - Amah_1113#1361
+smis win si ima tehni versii
+==========
+6/3/2022 - 18:32:34 - 💬-general-chat-💬 - Amah_1113#1361
+ama ne gi ima
+==========
+6/3/2022 - 18:33:16 - 💬-general-chat-💬 - N1tronsZ#6265
+е уау
+==========
+6/3/2022 - 18:33:18 - 💬-general-chat-💬 - Bankenstein#9377
+е нямате ли wsl
+==========
+6/3/2022 - 18:33:28 - 💬-general-chat-💬 - N1tronsZ#6265
+еми... не ми е трябвал
+==========
+6/3/2022 - 18:33:42 - 💬-general-chat-💬 - Bankenstein#9377
+е той е мега шит ама
+==========
+6/3/2022 - 18:33:53 - 💬-general-chat-💬 - Amah_1113#1361
+e te sa si izbrali da sa na windows
+==========
+6/3/2022 - 18:34:11 - 💬-general-chat-💬 - N1tronsZ#6265
+е всяка игра, която играя е silver на protondb
+==========
+6/3/2022 - 18:34:14 - 💬-general-chat-💬 - Amah_1113#1361
+plus-a e che linux app-ovete sa po burzi
+==========
+6/3/2022 - 18:34:28 - 💬-general-chat-💬 - Bankenstein#9377
+еми значи сменяй, силвър е добре
+==========
+6/3/2022 - 18:34:40 - 💬-general-chat-💬 - Amah_1113#1361
+mhm
+==========
+6/3/2022 - 18:34:41 - 💬-general-chat-💬 - N1tronsZ#6265
+и "no force feedback, no rumble" си е голям deal-breaker за мен
+==========
+6/3/2022 - 18:38:47 - 💾-admin-stuff-💾 - Amah_1113#1361
+az imam takuv kod
+==========
+6/3/2022 - 18:38:56 - 💾-admin-stuff-💾 - Amah_1113#1361
+i moga da si go prenastroq
+==========
+6/3/2022 - 18:39:6 - 💾-admin-stuff-💾 - N1tronsZ#6265
+`akam "ama"
+==========
+6/3/2022 - 18:39:9 - 💾-admin-stuff-💾 - Amah_1113#1361
+smis kazvam mu id i to si go setva
+==========
+6/3/2022 - 18:39:29 - 💾-admin-stuff-💾 - Amah_1113#1361
+taka che go mahaite, ne mi trqbva
+==========
+6/3/2022 - 18:39:34 - 💾-admin-stuff-💾 - N1tronsZ#6265
+а ок
+==========
+6/3/2022 - 18:39:49 - 💾-admin-stuff-💾 - N1tronsZ#6265
+готово
+==========
+6/3/2022 - 18:39:56 - 💾-admin-stuff-💾 - Amah_1113#1361
+az go iskah samo za da vi pokaja kakvo moje da mi pravi bota
+==========
+6/3/2022 - 18:40:12 - 💾-admin-stuff-💾 - Amah_1113#1361
+i za da ne spama drugite channeli
+==========
+6/3/2022 - 18:44:42 - 💬-general-chat-💬 - Amah_1113#1361
+pri mene mi e drugo
+==========
+6/3/2022 - 18:45:16 - 💬-general-chat-💬 - Amah_1113#1361
+i tva me radva poveche
+==========
+7/3/2022 - 19:39:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+7/3/2022 - 19:39:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+test
+==========
+7/3/2022 - 19:39:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+7/3/2022 - 19:43:42 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+test
+==========
+7/3/2022 - 19:55:15 - 💬-general-chat-💬 - Stefcho#4035
+a kak tochno da senda message v chanel s id 782582793024700446
+==========
+7/3/2022 - 19:55:25 - 💬-general-chat-💬 - N1tronsZ#6265
+кога искаш да го прави
+==========
+7/3/2022 - 19:55:48 - 💬-general-chat-💬 - Stefcho#4035
+kato stane ready
+==========
+7/3/2022 - 19:56:0 - 💬-general-chat-💬 - Stefcho#4035
+v client on ready
+==========
+7/3/2022 - 19:56:16 - 💬-general-chat-💬 - N1tronsZ#6265
+client.guilds.cache.get('782582793024700446').send("test");
+==========
+7/3/2022 - 19:56:36 - 💬-general-chat-💬 - Stefcho#4035
+ahaa ok
+==========
+7/3/2022 - 19:56:38 - 💬-general-chat-💬 - Stefcho#4035
+mersi
+==========
+7/3/2022 - 19:56:42 - 💬-general-chat-💬 - N1tronsZ#6265
+няма защо
+==========
+8/3/2022 - 22:10:38 - 💾-admin-stuff-💾 - N1tronsZ#6265
+golf delete 10
+==========
+8/3/2022 - 22:10:38 - 💾-admin-stuff-💾 - Golf-Bot#6724
+Deleted 10 messages.
+==========
+8/3/2022 - 22:10:38 - 💾-admin-stuff-💾 - _Phantoma_#2433
+https://tenor.com/view/sad-cry-crying-tears-broken-gif-15062040
+==========
+8/3/2022 - 22:10:56 - 💾-admin-stuff-💾 - saythealphabet#8331
+perfect timing
+==========
+8/3/2022 - 22:11:0 - 💾-admin-stuff-💾 - _Phantoma_#2433
+https://tenor.com/view/cat-meme-funny-gif-5754572
+==========
+8/3/2022 - 22:11:5 - 💾-admin-stuff-💾 - N1tronsZ#6265
+
+==========
+8/3/2022 - 22:11:18 - 💾-admin-stuff-💾 - _Phantoma_#2433
+gosho chaja
+==========
+8/3/2022 - 22:11:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set anti-rickroll on
+==========
+8/3/2022 - 22:11:24 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+8/3/2022 - 22:11:32 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+8/3/2022 - 22:11:33 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+golf set anti-rickroll off
+==========
+8/3/2022 - 22:11:33 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+8/3/2022 - 22:11:46 - 💾-admin-stuff-💾 - saythealphabet#8331
+https://youtube.com/watch?=dQw4wsk7aoxyr
+==========
+8/3/2022 - 22:11:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set anti-rickroll off
+==========
+8/3/2022 - 22:11:52 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+8/3/2022 - 22:11:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf set anti-rickroll on
+==========
+8/3/2022 - 22:11:55 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+8/3/2022 - 22:12:22 - 💾-admin-stuff-💾 - _Phantoma_#2433
+https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018
+==========
+8/3/2022 - 22:12:42 - 💾-admin-stuff-💾 - saythealphabet#8331
+dQw4w9WgXcQ
+==========
+8/3/2022 - 22:12:58 - 💾-admin-stuff-💾 - _Phantoma_#2433
+Q
+==========
+8/3/2022 - 22:13:20 - 💾-admin-stuff-💾 - saythealphabet#8331
+Q
+==========
+8/3/2022 - 22:15:5 - 💾-admin-stuff-💾 - saythealphabet#8331
+
+==========
+8/3/2022 - 22:17:19 - 💾-admin-stuff-💾 - saythealphabet#8331
+me and ur mom every night
+==========
+8/3/2022 - 22:18:5 - 💬-general-chat-💬 - saythealphabet#8331
+ne me banvai diskord ne me banvai discord ne me banvani discokr
+==========
+8/3/2022 - 22:18:19 - 💬-general-chat-💬 - N1tronsZ#6265
+/nbjnjakfnkjajd j@kostah
+==========
+8/3/2022 - 22:18:46 - 💬-general-chat-💬 - saythealphabet#8331
+
+==========
+8/3/2022 - 22:19:13 - 💬-general-chat-💬 - N1tronsZ#6265
+
+==========
+8/3/2022 - 22:20:16 - 💬-general-chat-💬 - Bankenstein#9377
+https://krita.org/en/
+==========
+8/3/2022 - 22:20:45 - 🤣-memes-🤣 - saythealphabet#8331
+
+==========
+8/3/2022 - 22:21:39 - 💬-general-chat-💬 - saythealphabet#8331
+microsoft paint is a professional free and closed source painting program. It is made by bill gates that wants to see affordable money for himself only.
+==========
+8/3/2022 - 22:22:18 - 💬-general-chat-💬 - Bankenstein#9377
+🇹 🇪🇪 🇵 🇮🇹 🇦🇱
+==========
+8/3/2022 - 22:22:26 - 💬-general-chat-💬 - N1tronsZ#6265
+btwe
+==========
+8/3/2022 - 22:22:28 - 💬-general-chat-💬 - N1tronsZ#6265
+*btw
+==========
+8/3/2022 - 22:22:52 - 💬-general-chat-💬 - N1tronsZ#6265
+i made the golf-bot emojify do this by mistake
+==========
+8/3/2022 - 22:23:20 - 💬-general-chat-💬 - Bankenstein#9377
+why do you think regional indicators are called regional indicators
+==========
+8/3/2022 - 22:23:38 - 💬-general-chat-💬 - N1tronsZ#6265
+i used unicode for every letter to try it
+==========
+8/3/2022 - 22:23:45 - 💬-general-chat-💬 - Bankenstein#9377
+an unprofessional
+==========
+8/3/2022 - 22:23:59 - 🤣-memes-🤣 - Stefcho#4035
+lol
+==========
+8/3/2022 - 22:24:16 - 🤣-memes-🤣 - Stefcho#4035
+kolko struva nftiti
+==========
+8/3/2022 - 22:24:43 - 💬-general-chat-💬 - saythealphabet#8331
+kak she e unprofessional kato go polzvam da pravq high-quality memeove kato "rhodosus collossus"
+==========
+8/3/2022 - 22:24:48 - 💬-general-chat-💬 - N1tronsZ#6265
+btw
+==========
+8/3/2022 - 22:24:49 - 🤣-memes-🤣 - Bankenstein#9377
+
+==========
+8/3/2022 - 22:25:10 - 🤣-memes-🤣 - saythealphabet#8331
+кой следвате те е питал
+==========
+8/3/2022 - 22:25:21 - 💬-general-chat-💬 - Bankenstein#9377
+trqbwat_mi_accounti@abv.bg
+==========
+8/3/2022 - 22:25:22 - 🤣-memes-🤣 - saythealphabet#8331
+@here vc сори за пинга ама ми се лафи
+==========
+8/3/2022 - 22:25:26 - 🤣-memes-🤣 - N1tronsZ#6265
+кой следователно ти е отговорил
+==========
+8/3/2022 - 22:25:34 - 💬-general-chat-💬 - N1tronsZ#6265
+да хаха
+==========
+8/3/2022 - 22:25:44 - 🤣-memes-🤣 - Stefcho#4035
+
+==========
+8/3/2022 - 22:26:2 - 🤣-memes-🤣 - Stefcho#4035
+idiot.
+==========
+8/3/2022 - 22:26:4 - 🤣-memes-🤣 - saythealphabet#8331
+баратунгел
+==========
+8/3/2022 - 22:26:5 - 🤣-memes-🤣 - Bankenstein#9377
+
+==========
+8/3/2022 - 22:26:9 - 🤣-memes-🤣 - Stefcho#4035
+lmao
+==========
+8/3/2022 - 22:26:11 - 🤣-memes-🤣 - saythealphabet#8331
+баратунгел 2.0
+==========
+8/3/2022 - 22:26:15 - 🤣-memes-🤣 - Stefcho#4035
+sex
+==========
+8/3/2022 - 22:26:21 - 🤣-memes-🤣 - Stefcho#4035
+btw general
+==========
+8/3/2022 - 22:26:25 - 🤣-memes-🤣 - N1tronsZ#6265
+da
+==========
+8/3/2022 - 22:26:29 - 🤣-memes-🤣 - _Phantoma_#2433
+koj ma tugna
+==========
+8/3/2022 - 22:26:29 - 🤣-memes-🤣 - saythealphabet#8331
+
+==========
+8/3/2022 - 22:26:33 - 💬-general-chat-💬 - Stefcho#4035
+
+==========
+8/3/2022 - 22:26:37 - 💬-general-chat-💬 - N1tronsZ#6265
+трябва да направим automod-like дискорд бот
+==========
+8/3/2022 - 22:26:43 - 💬-general-chat-💬 - Bankenstein#9377
+кво
+==========
+8/3/2022 - 22:26:44 - 💬-general-chat-💬 - Stefcho#4035
+da
+==========
+8/3/2022 - 22:26:44 - 🤣-memes-🤣 - saythealphabet#8331
+твойта мама
+==========
+8/3/2022 - 22:26:48 - 💬-general-chat-💬 - Bankenstein#9377
+къв automod
+==========
+8/3/2022 - 22:27:3 - 💬-general-chat-💬 - saythealphabet#8331
+not surprised u got all da bitches ngl
+==========
+8/3/2022 - 22:27:8 - 💬-general-chat-💬 - saythealphabet#8331
+https://tenor.com/view/foss-no-bitches-no-hoes-0bitches-no-gif-24529727
+==========
+8/3/2022 - 22:27:13 - 💬-general-chat-💬 - N1tronsZ#6265
+r/shitposting main entertainment
+==========
+8/3/2022 - 22:27:33 - 💬-general-chat-💬 - Bankenstein#9377
+r/scheissepfostieren
+==========
+8/3/2022 - 22:27:33 - 💬-general-chat-💬 - saythealphabet#8331
+vc maika vi
+==========
+8/3/2022 - 22:27:34 - 💬-general-chat-💬 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+8/3/2022 - 22:27:35 - 🤣-memes-🤣 - _Phantoma_#2433
+get demoted kid
+==========
+8/3/2022 - 22:27:41 - 💬-general-chat-💬 - Stefcho#4035
+Bitches ???
+==========
+8/3/2022 - 22:27:53 - 💬-general-chat-💬 - Stefcho#4035
+
+==========
+8/3/2022 - 22:27:58 - 💬-general-chat-💬 - N1tronsZ#6265
+
+==========
+8/3/2022 - 22:28:6 - 💬-general-chat-💬 - _Phantoma_#2433
+general?
+==========
+8/3/2022 - 22:28:9 - 🤣-memes-🤣 - saythealphabet#8331
+L + ratio + wrong + get a job + unfunny + you fell off + never liked you anyway + cope + ur allergic to gluten + don't care + cringe ur a kid + literally shut the fuck up + galileo did it better + your avi was made in MS Excel + ur bf is kinda ugly + i have more subscribers + owned + ur a toddler + reverse double take back + u sleep in a different bedroom from your wife + get rekt + i said it better + u smell + copy + who asked + dead game + seethe + ur a coward + stay mad + you main yuumi + aired + you drive a fiat 500 + the hood watches xqc now + yo mama + ok + currently listening to rizzle kicks without u. plus ur mind numbingly stupid plus ur voice is ronald mcdonald.
+==========
+8/3/2022 - 22:28:14 - 💬-general-chat-💬 - N1tronsZ#6265
+трябва ни #shitposting
+==========
+8/3/2022 - 22:28:14 - 💬-general-chat-💬 - Stefcho#4035
+
+==========
+8/3/2022 - 22:28:17 - 💬-general-chat-💬 - Bankenstein#9377
+fuck linus sebastian
+==========
+8/3/2022 - 22:28:28 - 💬-general-chat-💬 - Stefcho#4035
+linus sex tips
+==========
+8/3/2022 - 22:28:29 - 💬-general-chat-💬 - saythealphabet#8331
+no dont
+==========
+8/3/2022 - 22:28:31 - 💬-general-chat-💬 - Bankenstein#9377
+<#748573404759589062>
+==========
+8/3/2022 - 22:28:33 - 💬-general-chat-💬 - saythealphabet#8331
+no baby linuses
+==========
+8/3/2022 - 22:28:40 - 💬-general-chat-💬 - saythealphabet#8331
+<#781123464324972564>
+==========
+8/3/2022 - 22:28:42 - 🤣-memes-🤣 - Amah_1113#1361
+Linus Torvalds and Richard Stallman
+==========
+8/3/2022 - 22:28:45 - 🤣-memes-🤣 - _Phantoma_#2433
+https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018
+==========
+8/3/2022 - 22:28:53 - 🤣-memes-🤣 - _Phantoma_#2433
+https://media.discordapp.net/attachments/789300160764444679/890957316411756584/yellowdude_1.gif
+==========
+8/3/2022 - 22:29:1 - 💬-general-chat-💬 - Stefcho#4035
+
+==========
+8/3/2022 - 22:29:8 - 💬-general-chat-💬 - Stefcho#4035
+the roook
+==========
+8/3/2022 - 22:29:17 - 🤣-memes-🤣 - Bankenstein#9377
+the fiat cinquecenti is literally the best car in existence
+==========
+8/3/2022 - 22:29:19 - 💬-general-chat-💬 - _Phantoma_#2433
+<#781123464324972564>
+==========
+8/3/2022 - 22:29:26 - 💬-general-chat-💬 - saythealphabet#8331
+MAIKA VI VLIZAITE V SMOTAN VC @here SHTO STE TUKA AKO NQMA DA GOVORITE EGATI NISHTOGOVORQSHTITE
+==========
+8/3/2022 - 22:29:29 - 💬-general-chat-💬 - Stefcho#4035
+the cock 😳
+==========
+8/3/2022 - 22:29:40 - 🤣-memes-🤣 - saythealphabet#8331
+ratei
+==========
+8/3/2022 - 22:29:42 - 🤖how-to-use-bots - _Phantoma_#2433
+https://tenor.com/view/foss-no-bitches-no-hoes-0bitches-no-gif-24529727
+==========
+8/3/2022 - 22:29:45 - 🤣-memes-🤣 - N1tronsZ#6265
+golf 3 would like to know your location
+==========
+8/3/2022 - 22:29:58 - 💬-general-chat-💬 - BlepAn#6600
+https://tenor.com/view/cat-gif-20538192
+==========
+8/3/2022 - 22:30:3 - 💬-general-chat-💬 - Stefcho#4035
+
+==========
+8/3/2022 - 22:30:23 - 💬-general-chat-💬 - Amah_1113#1361
+linus sex tips
+==========
+8/3/2022 - 22:30:42 - 💬-general-chat-💬 - Stefcho#4035
+az sled linus sex tips
+==========
+8/3/2022 - 22:31:26 - 💬-general-chat-💬 - Bankenstein#9377
+<@640282146732245013> you're about to get signora'd
+==========
+8/3/2022 - 22:31:44 - 💬-general-chat-💬 - N1tronsZ#6265
+the fuck?
+==========
+8/3/2022 - 22:31:53 - 💬-general-chat-💬 - saythealphabet#8331
+hold on I have a secret weapon
+==========
+8/3/2022 - 22:31:58 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#RVFF
+==========
+8/3/2022 - 22:32:25 - 💬-general-chat-💬 - Stefcho#4035
+
+==========
+8/3/2022 - 22:32:59 - 💬-general-chat-💬 - saythealphabet#8331
+https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/t918nw/please_make_this_the_subreddit_banner_please_it/?utm_source=share&utm_medium=web2x&context=3
+==========
+8/3/2022 - 23:6:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+8/3/2022 - 23:6:39 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa ebi se
+==========
+8/3/2022 - 23:6:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play maika ti
+==========
+8/3/2022 - 23:6:52 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+8/3/2022 - 23:6:53 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Майка ти**
+==========
+8/3/2022 - 23:7:11 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa stop
+==========
+8/3/2022 - 23:11:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+8/3/2022 - 23:11:39 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa fs
+==========
+8/3/2022 - 23:11:39 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Skipped **1/2**
+==========
+8/3/2022 - 23:11:48 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa play dic
+==========
+8/3/2022 - 23:11:50 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Disseminated intravascular coagulation - causes, symptoms, diagnosis, treatment, pathology**
+==========
+8/3/2022 - 23:12:9 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa skip
+==========
+8/3/2022 - 23:12:10 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Skipped **1/2**
+==========
+8/3/2022 - 23:12:10 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa die
+==========
+8/3/2022 - 23:12:20 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa play the baby fcking dies
+==========
+8/3/2022 - 23:12:21 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa become gay rn
+==========
+8/3/2022 - 23:12:35 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa, why are you gae
+==========
+8/3/2022 - 23:12:47 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa play the math was done by a woman
+==========
+8/3/2022 - 23:12:49 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Norm Macdonald - The Math Was Done by a Woman**
+==========
+8/3/2022 - 23:13:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play A Haunted House 2 Mark Henry scene
+==========
+8/3/2022 - 23:13:17 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**A Haunted House 2 Mark Henry scene (good version HD)** added to queue!
+==========
+8/3/2022 - 23:13:20 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **A Haunted House 2 Mark Henry scene (good version HD)**
+==========
+8/3/2022 - 23:14:30 - 🤣-memes-🤣 - Amah_1113#1361
+https://www.youtube.com/watch?v=1cfKc8U4iwg
+==========
+8/3/2022 - 23:14:43 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play nvidia bread
+==========
+8/3/2022 - 23:14:45 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Nvidia Bread - The Future of Bread**
+==========
+8/3/2022 - 23:15:35 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa skip
+==========
+8/3/2022 - 23:15:35 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Skipped **1/2**
+==========
+8/3/2022 - 23:15:38 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa play top 10 numbers from 1 to 10
+==========
+8/3/2022 - 23:15:40 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Top 10 Numbers from One through Ten!** added to queue!
+==========
+8/3/2022 - 23:16:3 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Top 10 Numbers from One through Ten!**
+==========
+8/3/2022 - 23:16:17 - 🤖-bot-commands-🤖 - Amah_1113#1361
+unikalna klasaciq
+==========
+8/3/2022 - 23:17:4 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa play top 10 n words
+==========
+8/3/2022 - 23:17:5 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Top 10 N Words**
+==========
+8/3/2022 - 23:17:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play The IT Crowd - Series 1 - Episode 2: New emergency number
+==========
+8/3/2022 - 23:17:17 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**The IT Crowd - Series 1 - Episode 2: New emergency number** added to queue!
+==========
+8/3/2022 - 23:17:28 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **The IT Crowd - Series 1 - Episode 2: New emergency number**
+==========
+8/3/2022 - 23:18:46 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=KdftbYqA_VQ
+==========
+8/3/2022 - 23:18:47 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**WHERE'S THE MONEY LEBOWSKI** added to queue!
+==========
+8/3/2022 - 23:18:54 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **WHERE'S THE MONEY LEBOWSKI**
+==========
+8/3/2022 - 23:19:18 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa play e
+==========
+8/3/2022 - 23:19:20 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **RUSH E**
+==========
+8/3/2022 - 23:19:26 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa stop
+==========
+8/3/2022 - 23:19:29 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa play ee
+==========
+8/3/2022 - 23:19:31 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **The "Dirty" Economy Of Australia**
+==========
+8/3/2022 - 23:19:35 - 🤖-bot-commands-🤖 - saythealphabet#8331
+alexa play
+==========
+8/3/2022 - 23:19:35 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+You need to send the second argument!
+==========
+8/3/2022 - 23:19:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=LiT9xP-DVMo
+==========
+8/3/2022 - 23:19:39 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**YouTube Soundboard - Why are you gae?** added to queue!
+==========
+8/3/2022 - 23:19:44 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:19:44 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+8/3/2022 - 23:19:45 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **YouTube Soundboard - Why are you gae?**
+==========
+8/3/2022 - 23:21:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=f2bHoTUiMpI
+==========
+8/3/2022 - 23:21:28 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**SCOTLAND FOREVER** added to queue!
+==========
+8/3/2022 - 23:21:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:21:45 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:21:48 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:21:50 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:21:53 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:21:55 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:21:57 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:21:59 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa stop
+==========
+8/3/2022 - 23:22:0 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+8/3/2022 - 23:22:4 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa gay
+==========
+8/3/2022 - 23:22:12 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play https://www.youtube.com/watch?v=f2bHoTUiMpI
+==========
+8/3/2022 - 23:22:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=f2bHoTUiMpI
+==========
+8/3/2022 - 23:22:13 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **SCOTLAND FOREVER**
+==========
+8/3/2022 - 23:22:13 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **SCOTLAND FOREVER**
+==========
+8/3/2022 - 23:22:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa fs
+==========
+8/3/2022 - 23:22:30 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+8/3/2022 - 23:22:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa fs
+==========
+8/3/2022 - 23:22:31 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+There are no songs in queue :x:
+==========
+8/3/2022 - 23:22:31 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+8/3/2022 - 23:22:50 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=ZjBDlpeGmto
+==========
+8/3/2022 - 23:22:51 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Shrek Is Love, Shrek Is Life (Little Girl/Female Version)**
+==========
+8/3/2022 - 23:22:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa fs
+==========
+8/3/2022 - 23:22:59 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+8/3/2022 - 23:23:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=Jb9Ebe_rA8M
+==========
+8/3/2022 - 23:23:39 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **sweaty gamer speedrun meme original**
+==========
+8/3/2022 - 23:24:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play shreksophone
+==========
+8/3/2022 - 23:24:39 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**1 hour of shreksophone** added to queue!
+==========
+8/3/2022 - 23:24:45 - 🤖-bot-commands-🤖 - Gogo#2091
+alexa play https://www.youtube.com/results?search_query=shrekophone+10+hours
+==========
+8/3/2022 - 23:24:46 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**10 hours of shreksophone** added to queue!
+==========
+8/3/2022 - 23:24:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa fs
+==========
+8/3/2022 - 23:24:54 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+8/3/2022 - 23:24:54 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **1 hour of shreksophone**
+==========
+8/3/2022 - 23:25:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=dDakzFJfZ4c
+==========
+8/3/2022 - 23:25:15 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Bad History - ELON MUSK (Singularity)** added to queue!
+==========
+8/3/2022 - 23:25:29 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa no focking shrek today]
+==========
+8/3/2022 - 23:25:49 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=dDakzFJfZ4c
+==========
+8/3/2022 - 23:25:50 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Bad History - ELON MUSK (Singularity)**
+==========
+8/3/2022 - 23:25:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+
+==========
+8/3/2022 - 23:28:5 - 🤖-bot-commands-🤖 - Gogo#2091
+alexa fs
+==========
+8/3/2022 - 23:28:6 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+8/3/2022 - 23:28:24 - 🤖-bot-commands-🤖 - Gogo#2091
+alexa play https://www.youtube.com/results?search_query=shrekophone+10+hours
+==========
+8/3/2022 - 23:28:25 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **10 hours of shreksophone**
+==========
+8/3/2022 - 23:28:44 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=dQw4w9WgXcQ
+==========
+8/3/2022 - 23:28:47 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa fs
+==========
+8/3/2022 - 23:28:47 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+8/3/2022 - 23:28:47 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Rick Astley - Never Gonna Give You Up (Official Music Video)** added to queue!
+==========
+8/3/2022 - 23:28:58 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play https://www.youtube.com/watch?v=dQw4w9WgXcQ
+==========
+8/3/2022 - 23:28:59 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Rick Astley - Never Gonna Give You Up (Official Music Video)**
+==========
+8/3/2022 - 23:29:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa fs
+==========
+8/3/2022 - 23:29:3 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+9/3/2022 - 24:25:45 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+9/3/2022 - 20:1:48 - 🤖-bot-commands-🤖 - Stefcho#4035
+user
+==========
+9/3/2022 - 20:2:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+9/3/2022 - 20:2:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf help
+==========
+9/3/2022 - 20:2:51 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+9/3/2022 - 20:3:10 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇰 🇴 🇦 🇸 🇱 🇩 🇰 🇲 🇦 🇩 🇲 🇦 🇸
+==========
+9/3/2022 - 20:3:12 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+9/3/2022 - 20:3:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf golf
+==========
+9/3/2022 - 20:3:22 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+9/3/2022 - 20:3:24 - 🤖-bot-commands-🤖 - YAGPDB.xyz#8760
+
+==========
+9/3/2022 - 20:3:33 - 🤖-bot-commands-🤖 - YAGPDB.xyz#8760
+
+==========
+9/3/2022 - 20:3:50 - 🤣-memes-🤣 - N1tronsZ#6265
+
+==========
+9/3/2022 - 20:4:40 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+9/3/2022 - 20:4:43 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+9/3/2022 - 20:4:48 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Command is bwoken.
+==========
+9/3/2022 - 20:4:56 - 🤖-bot-commands-🤖 - Stefcho#4035
+golf help
+==========
+9/3/2022 - 20:4:56 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+9/3/2022 - 20:6:2 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel help
+==========
+9/3/2022 - 20:6:2 - 🤖-bot-commands-🤖 - Debeliq#6723
+
+==========
+9/3/2022 - 20:6:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto
+==========
+9/3/2022 - 20:6:29 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel toto 1 2 3 4 5 6
+==========
+9/3/2022 - 20:6:29 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you win **1$**
+==========
+9/3/2022 - 20:6:46 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel toto 1 2 3 4 5 6
+==========
+9/3/2022 - 20:6:46 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:6:48 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel toto 1 2 3 4 5 6
+==========
+9/3/2022 - 20:6:48 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:6:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 69 420 1 5 6 3
+==========
+9/3/2022 - 20:6:49 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you win **1$**
+==========
+9/3/2022 - 20:6:49 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel toto 1 2 3 4 5 6
+==========
+9/3/2022 - 20:6:49 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23
+==========
+9/3/2022 - 20:7:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:17 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23
+==========
+9/3/2022 - 20:7:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:25 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:27 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:28 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:29 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:30 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:31 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:31 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:32 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:36 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you win **1$**
+==========
+9/3/2022 - 20:7:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel toto 7 14 9 31 23 19
+==========
+9/3/2022 - 20:7:38 - 🤖-bot-commands-🤖 - Debeliq#6723
+Sorry, you didn't win anything
+==========
+9/3/2022 - 20:7:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel cb
+==========
+9/3/2022 - 20:7:49 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:7:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+6969
+==========
+9/3/2022 - 20:8:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1234
+==========
+9/3/2022 - 20:8:1 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:8:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+5678
+==========
+9/3/2022 - 20:8:7 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 1 cow
+==========
+9/3/2022 - 20:8:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1256
+==========
+9/3/2022 - 20:8:20 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 2 cows
+==========
+9/3/2022 - 20:8:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1259
+==========
+9/3/2022 - 20:8:29 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:8:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1569
+==========
+9/3/2022 - 20:8:35 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 0 cows
+==========
+9/3/2022 - 20:8:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+6129
+==========
+9/3/2022 - 20:8:47 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:8:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+5269
+==========
+9/3/2022 - 20:8:56 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:9:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1062
+==========
+9/3/2022 - 20:9:46 - 🤖-bot-commands-🤖 - Debeliq#6723
+4 bulls 0 cows
+==========
+9/3/2022 - 20:9:46 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you guess the number from the 9 time
+==========
+9/3/2022 - 20:9:47 - 🤖-bot-commands-🤖 - Stefcho#4035
+1259
+==========
+9/3/2022 - 20:9:55 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel cb
+==========
+9/3/2022 - 20:9:56 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:9:59 - 🤖-bot-commands-🤖 - Stefcho#4035
+1234
+==========
+9/3/2022 - 20:9:59 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 0 cows
+==========
+9/3/2022 - 20:10:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+5678
+==========
+9/3/2022 - 20:10:3 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:10:12 - 🤖-bot-commands-🤖 - Stefcho#4035
+5679
+==========
+9/3/2022 - 20:10:13 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:10:21 - 🤖-bot-commands-🤖 - Stefcho#4035
+7560
+==========
+9/3/2022 - 20:10:21 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 4 cows
+==========
+9/3/2022 - 20:10:52 - 🤖-bot-commands-🤖 - Stefcho#4035
+6057
+==========
+9/3/2022 - 20:10:53 - 🤖-bot-commands-🤖 - Debeliq#6723
+4 bulls 0 cows
+==========
+9/3/2022 - 20:10:53 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you guess the number from the 5 time
+==========
+9/3/2022 - 20:11:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel cb
+==========
+9/3/2022 - 20:11:3 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:11:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1234
+==========
+9/3/2022 - 20:11:7 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:11:11 - 💬-general-chat-💬 - Stefcho#4035
+
+==========
+9/3/2022 - 20:11:13 - 💬-general-chat-💬 - Stefcho#4035
+nov record
+==========
+9/3/2022 - 20:11:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+7890
+==========
+9/3/2022 - 20:11:17 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:11:38 - 🤖-bot-commands-🤖 - Stefcho#4035
+2198
+==========
+9/3/2022 - 20:11:38 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:12:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+7034
+==========
+9/3/2022 - 20:12:16 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:12:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+8934
+==========
+9/3/2022 - 20:12:23 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 4 cows
+==========
+9/3/2022 - 20:12:52 - 🤖-bot-commands-🤖 - Stefcho#4035
+9384
+==========
+9/3/2022 - 20:12:52 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 4 cows
+==========
+9/3/2022 - 20:13:29 - 🤖-bot-commands-🤖 - Stefcho#4035
+89 43
+==========
+9/3/2022 - 20:13:36 - 🤖-bot-commands-🤖 - Stefcho#4035
+4398
+==========
+9/3/2022 - 20:13:37 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 4 cows
+==========
+9/3/2022 - 20:14:1 - 🤖-bot-commands-🤖 - Stefcho#4035
+3849
+==========
+9/3/2022 - 20:14:2 - 🤖-bot-commands-🤖 - Debeliq#6723
+4 bulls 0 cows
+==========
+9/3/2022 - 20:14:2 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you guess the number from the 11 time
+==========
+9/3/2022 - 20:14:12 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel cb
+==========
+9/3/2022 - 20:14:12 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:14:18 - 🤖-bot-commands-🤖 - Stefcho#4035
+1234
+==========
+9/3/2022 - 20:14:18 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 1 cow
+==========
+9/3/2022 - 20:14:23 - 🤖-bot-commands-🤖 - Stefcho#4035
+5678
+==========
+9/3/2022 - 20:14:23 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 0 cows
+==========
+9/3/2022 - 20:14:37 - 🤖-bot-commands-🤖 - Stefcho#4035
+9047
+==========
+9/3/2022 - 20:14:37 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:14:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+9120
+==========
+9/3/2022 - 20:14:49 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:15:11 - 🤖-bot-commands-🤖 - Stefcho#4035
+3068
+==========
+9/3/2022 - 20:15:12 - 🤖-bot-commands-🤖 - Debeliq#6723
+3 bulls 0 cows
+==========
+9/3/2022 - 20:15:27 - 🤖-bot-commands-🤖 - Stefcho#4035
+3098
+==========
+9/3/2022 - 20:15:27 - 🤖-bot-commands-🤖 - Debeliq#6723
+4 bulls 0 cows
+==========
+9/3/2022 - 20:15:27 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you guess the number from the 6 time
+==========
+9/3/2022 - 20:15:45 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel cb
+==========
+9/3/2022 - 20:15:45 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:15:47 - 🤖-bot-commands-🤖 - Stefcho#4035
+1234
+==========
+9/3/2022 - 20:15:48 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:15:51 - 🤖-bot-commands-🤖 - Stefcho#4035
+5678
+==========
+9/3/2022 - 20:15:51 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:16:3 - 🤖-bot-commands-🤖 - Stefcho#4035
+7812
+==========
+9/3/2022 - 20:16:4 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:17:9 - 🤖-bot-commands-🤖 - Stefcho#4035
+2835
+==========
+9/3/2022 - 20:17:9 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:18:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+6382
+==========
+9/3/2022 - 20:18:19 - 🤖-bot-commands-🤖 - Stefcho#4035
+82 56
+==========
+9/3/2022 - 20:18:19 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:19:1 - 🤖-bot-commands-🤖 - Stefcho#4035
+6251
+==========
+9/3/2022 - 20:19:1 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:19:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+8512
+==========
+9/3/2022 - 20:19:20 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:19:35 - 🤖-bot-commands-🤖 - Stefcho#4035
+7183
+==========
+9/3/2022 - 20:19:35 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:19:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1728щ
+==========
+9/3/2022 - 20:19:49 - 🤖-bot-commands-🤖 - Stefcho#4035
+9014
+==========
+9/3/2022 - 20:19:49 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 0 cows
+==========
+9/3/2022 - 20:20:32 - 🤖-bot-commands-🤖 - Stefcho#4035
+2378
+==========
+9/3/2022 - 20:20:32 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:20:54 - 🤖-bot-commands-🤖 - Stefcho#4035
+235678
+==========
+9/3/2022 - 20:21:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+5732
+==========
+9/3/2022 - 20:21:2 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 2 cows
+==========
+9/3/2022 - 20:21:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+3752
+==========
+9/3/2022 - 20:21:31 - 🤖-bot-commands-🤖 - Debeliq#6723
+4 bulls 0 cows
+==========
+9/3/2022 - 20:21:31 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you guess the number from the 15 time
+==========
+9/3/2022 - 20:21:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel cb
+==========
+9/3/2022 - 20:21:49 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:21:50 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel cb
+==========
+9/3/2022 - 20:21:50 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:21:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1234
+==========
+9/3/2022 - 20:21:51 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 0 cows
+==========
+9/3/2022 - 20:22:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+5678
+==========
+9/3/2022 - 20:22:6 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:22:17 - 🤖-bot-commands-🤖 - Stefcho#4035
+2780
+==========
+9/3/2022 - 20:22:17 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:22:22 - 🤖-bot-commands-🤖 - Stefcho#4035
+2789
+==========
+9/3/2022 - 20:22:23 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:22:28 - 🤖-bot-commands-🤖 - Stefcho#4035
+7208
+==========
+9/3/2022 - 20:22:29 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 1 cow
+==========
+9/3/2022 - 20:22:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+7250
+==========
+9/3/2022 - 20:22:55 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 2 cows
+==========
+9/3/2022 - 20:23:9 - 🤖-bot-commands-🤖 - Stefcho#4035
+0286
+==========
+9/3/2022 - 20:23:13 - 🤖-bot-commands-🤖 - Stefcho#4035
+2086
+==========
+9/3/2022 - 20:23:13 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:23:38 - 🤖-bot-commands-🤖 - Stefcho#4035
+7260
+==========
+9/3/2022 - 20:23:38 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 3 cows
+==========
+9/3/2022 - 20:24:29 - 🤖-bot-commands-🤖 - Stefcho#4035
+7602
+==========
+9/3/2022 - 20:24:29 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 3 cows
+==========
+9/3/2022 - 20:24:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+6702
+==========
+9/3/2022 - 20:24:42 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 2 cows
+==========
+9/3/2022 - 20:24:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+6720
+==========
+9/3/2022 - 20:24:46 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 3 cows
+==========
+9/3/2022 - 20:25:1 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ restart
+==========
+9/3/2022 - 20:25:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+6702
+==========
+9/3/2022 - 20:25:3 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 2 cows
+==========
+9/3/2022 - 20:25:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+6207
+==========
+9/3/2022 - 20:25:7 - 🤖-bot-commands-🤖 - Debeliq#6723
+4 bulls 0 cows
+==========
+9/3/2022 - 20:25:7 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you guess the number from the 15 time
+==========
+9/3/2022 - 20:25:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:25:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:25:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:25:28 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:25:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:25:31 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:25:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:25:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:26:12 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:26:12 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:26:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:26:13 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:26:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear agolf clear a
+==========
+9/3/2022 - 20:26:15 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+*Instructions unclear, my bin exploded.* Please try again and enter the amount of messages you want me to delete.
+==========
+9/3/2022 - 20:26:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:26:17 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:26:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:26:18 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:26:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:26:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:26:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:26:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:26:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:26:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:28:51 - 💬-general-chat-💬 - N1tronsZ#6265
+aged like pure milk
+==========
+9/3/2022 - 20:31:15 - 🤖how-to-use-bots - saythealphabet#8331
+E
+==========
+9/3/2022 - 20:32:3 - 🤖how-to-use-bots - _Phantoma_#2433
+DONT USE BOTS
+==========
+9/3/2022 - 20:32:10 - 🤖how-to-use-bots - saythealphabet#8331
+A taja
+==========
+9/3/2022 - 20:32:27 - 🤖how-to-use-bots - saythealphabet#8331
+Nigg
+==========
+9/3/2022 - 20:33:20 - 💬-general-chat-💬 - _Phantoma_#2433
+nigga
+==========
+9/3/2022 - 20:33:21 - 💬-general-chat-💬 - Golf-Bot#6724
+<@735141010971295804> was racist.
+==========
+9/3/2022 - 20:34:11 - 💬-general-chat-💬 - saythealphabet#8331
+Always has been
+==========
+9/3/2022 - 20:34:39 - 🤖-bot-commands-🤖 - saythealphabet#8331
+Alexa play top 10 N words
+==========
+9/3/2022 - 20:34:41 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:34:41 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track Top 10 N Words added in the queue ✅
+==========
+9/3/2022 - 20:34:44 - 🤖-bot-commands-🤖 - Debeliq#6723
+Started playing Top 10 N Words in **💬| Just Chatting 1 |💬** 🎧
+==========
+9/3/2022 - 20:35:6 - 🤖-bot-commands-🤖 - Debeliq#6723
+I finished reading the whole queue ✅
+==========
+9/3/2022 - 20:35:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+<@!568496102127566873> ima[ da obqsnqwa[
+==========
+9/3/2022 - 20:35:24 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+play j
+==========
+9/3/2022 - 20:35:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+12345 test
+==========
+9/3/2022 - 20:35:41 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+alexa play john cena prank call
+==========
+9/3/2022 - 20:35:42 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:35:43 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track John Cena Prank Call added in the queue ✅
+==========
+9/3/2022 - 20:35:43 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **John Cena Prank Call**
+==========
+9/3/2022 - 20:35:46 - 🤖-bot-commands-🤖 - Debeliq#6723
+Started playing John Cena Prank Call in **💬| Just Chatting 1 |💬** 🎧
+==========
+9/3/2022 - 20:36:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+mango play super max
+==========
+9/3/2022 - 20:36:19 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:36:19 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track Pitstop Boys - Super Max  F1 fans Max Verstappen (originele video) added in the queue ✅
+==========
+9/3/2022 - 20:36:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+?
+==========
+9/3/2022 - 20:36:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+koi
+==========
+9/3/2022 - 20:36:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+nqkoi
+==========
+9/3/2022 - 20:36:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+кой
+==========
+9/3/2022 - 20:36:39 - 🤖-bot-commands-🤖 - saythealphabet#8331
+Alexa play dic what we're you really thinking
+==========
+9/3/2022 - 20:36:40 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:36:41 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track Dic Logo - What Were You Really Thinking? added in the queue ✅
+==========
+9/3/2022 - 20:36:47 - 🤖-bot-commands-🤖 - saythealphabet#8331
+Debel bk
+==========
+9/3/2022 - 20:36:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+debel cb
+==========
+9/3/2022 - 20:36:51 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:36:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1234
+==========
+9/3/2022 - 20:36:53 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:36:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+5678
+==========
+9/3/2022 - 20:36:55 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 1 cow
+==========
+9/3/2022 - 20:37:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1256
+==========
+9/3/2022 - 20:37:1 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 1 cow
+==========
+9/3/2022 - 20:37:3 - 🤖-bot-commands-🤖 - saythealphabet#8331
+9123
+==========
+9/3/2022 - 20:37:3 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 1 cow
+==========
+9/3/2022 - 20:37:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1278
+==========
+9/3/2022 - 20:37:6 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:37:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+3478
+==========
+9/3/2022 - 20:37:14 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:37:14 - 🤖-bot-commands-🤖 - saythealphabet#8331
+1234
+==========
+9/3/2022 - 20:37:15 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:37:17 - 🤖-bot-commands-🤖 - saythealphabet#8331
+1234
+==========
+9/3/2022 - 20:37:17 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:37:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+1378
+==========
+9/3/2022 - 20:37:21 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:37:22 - 🤖-bot-commands-🤖 - saythealphabet#8331
+4321
+==========
+9/3/2022 - 20:37:23 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 0 cows
+==========
+9/3/2022 - 20:37:29 - 🤖-bot-commands-🤖 - saythealphabet#8331
+4231
+==========
+9/3/2022 - 20:37:30 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 0 cows
+==========
+9/3/2022 - 20:37:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+4387
+==========
+9/3/2022 - 20:37:30 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 0 cows
+==========
+9/3/2022 - 20:37:35 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+your
+==========
+9/3/2022 - 20:37:39 - 🤖-bot-commands-🤖 - saythealphabet#8331
+4701
+==========
+9/3/2022 - 20:37:39 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 1 cow
+==========
+9/3/2022 - 20:37:39 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+mumy
+==========
+9/3/2022 - 20:37:45 - 🤖-bot-commands-🤖 - saythealphabet#8331
+4971
+==========
+9/3/2022 - 20:37:45 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 0 cows
+==========
+9/3/2022 - 20:37:48 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+9013
+==========
+9/3/2022 - 20:37:48 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:37:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+twoqta
+==========
+9/3/2022 - 20:37:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+2923
+==========
+9/3/2022 - 20:37:57 - 🤖-bot-commands-🤖 - saythealphabet#8331
+4501
+==========
+9/3/2022 - 20:37:58 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 1 cow
+==========
+9/3/2022 - 20:37:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+2134
+==========
+9/3/2022 - 20:37:59 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:38:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+129
+==========
+9/3/2022 - 20:38:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+2139
+==========
+9/3/2022 - 20:38:5 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 1 cow
+==========
+9/3/2022 - 20:38:10 - 🤖-bot-commands-🤖 - saythealphabet#8331
+4071
+==========
+9/3/2022 - 20:38:11 - 🤖-bot-commands-🤖 - Debeliq#6723
+3 bulls 0 cows
+==========
+9/3/2022 - 20:38:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+01234
+==========
+9/3/2022 - 20:38:22 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:38:22 - 🤖-bot-commands-🤖 - saythealphabet#8331
+4061
+==========
+9/3/2022 - 20:38:22 - 🤖-bot-commands-🤖 - Debeliq#6723
+3 bulls 0 cows
+==========
+9/3/2022 - 20:38:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+06969
+==========
+9/3/2022 - 20:38:29 - 🤖-bot-commands-🤖 - saythealphabet#8331
+4081
+==========
+9/3/2022 - 20:38:29 - 🤖-bot-commands-🤖 - Debeliq#6723
+4 bulls 0 cows
+==========
+9/3/2022 - 20:38:29 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you guess the number from the 28 time
+==========
+9/3/2022 - 20:38:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+01234
+==========
+9/3/2022 - 20:38:49 - 🤖-bot-commands-🤖 - saythealphabet#8331
+Ez clap
+==========
+9/3/2022 - 20:38:54 - 🤖-bot-commands-🤖 - saythealphabet#8331
+Nai dobriq bker
+==========
+9/3/2022 - 20:38:56 - 🤖-bot-commands-🤖 - saythealphabet#8331
+Bk gamer
+==========
+9/3/2022 - 20:40:54 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+https://tenor.com/view/rock-one-eyebrow-raised-rock-staring-the-rock-gif-22113367
+==========
+9/3/2022 - 20:41:0 - 🤖how-to-use-bots - _Phantoma_#2433
+https://tenor.com/view/rock-one-eyebrow-raised-rock-staring-the-rock-gif-22113367
+==========
+9/3/2022 - 20:41:2 - 🤖how-to-use-bots - _Phantoma_#2433
+https://tenor.com/view/karlson-vibe-dani-yeet-dance-gif-17483408
+==========
+9/3/2022 - 20:46:40 - 🎮-games-chat-🎮 - Stefcho#4035
+ce25
+==========
+9/3/2022 - 20:46:47 - 🎮-games-chat-🎮 - Stefcho#4035
+elate
+==========
+9/3/2022 - 20:46:52 - 🎮-games-chat-🎮 - Stefcho#4035
+eho
+==========
+9/3/2022 - 20:46:54 - 🎮-games-chat-🎮 - Stefcho#4035
+avalon
+==========
+9/3/2022 - 20:47:42 - 🎮-games-chat-🎮 - Stefcho#4035
+kostaa
+==========
+9/3/2022 - 20:47:50 - 🎮-games-chat-🎮 - Stefcho#4035
+idvai
+==========
+9/3/2022 - 20:48:18 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel cb
+==========
+9/3/2022 - 20:48:18 - 🤖-bot-commands-🤖 - Debeliq#6723
+I'm ready
+==========
+9/3/2022 - 20:48:20 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel help
+==========
+9/3/2022 - 20:48:21 - 🤖-bot-commands-🤖 - Debeliq#6723
+
+==========
+9/3/2022 - 20:48:21 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+1234
+==========
+9/3/2022 - 20:48:21 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 0 cows
+==========
+9/3/2022 - 20:48:25 - 🤖-bot-commands-🤖 - Stefcho#4035
+5678
+==========
+9/3/2022 - 20:48:25 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 2 cows
+==========
+9/3/2022 - 20:48:26 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+5678
+==========
+9/3/2022 - 20:48:26 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 2 cows
+==========
+9/3/2022 - 20:48:28 - 🤖-bot-commands-🤖 - kaltass#9845
+6969
+==========
+9/3/2022 - 20:48:29 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+9801
+==========
+9/3/2022 - 20:48:29 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 1 cow
+==========
+9/3/2022 - 20:48:31 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+8263
+==========
+9/3/2022 - 20:48:32 - 🤖-bot-commands-🤖 - Debeliq#6723
+2 bulls 0 cows
+==========
+9/3/2022 - 20:48:34 - 🤖-bot-commands-🤖 - kaltass#9845
+234
+==========
+9/3/2022 - 20:48:34 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+9283
+==========
+9/3/2022 - 20:48:34 - 🤖-bot-commands-🤖 - kaltass#9845
+5
+==========
+9/3/2022 - 20:48:34 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:48:36 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+1239
+==========
+9/3/2022 - 20:48:36 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 0 cows
+==========
+9/3/2022 - 20:48:37 - 🤖-bot-commands-🤖 - kaltass#9845
+1243
+==========
+9/3/2022 - 20:48:37 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 0 cows
+==========
+9/3/2022 - 20:48:38 - 🤖-bot-commands-🤖 - kaltass#9845
+4572
+==========
+9/3/2022 - 20:48:38 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 2 cows
+==========
+9/3/2022 - 20:48:39 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+01823
+==========
+9/3/2022 - 20:48:39 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:48:42 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+1096
+==========
+9/3/2022 - 20:48:42 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 0 cows
+==========
+9/3/2022 - 20:48:45 - 🤖-bot-commands-🤖 - kaltass#9845
+4573
+==========
+9/3/2022 - 20:48:46 - 🤖-bot-commands-🤖 - Debeliq#6723
+1 bull 1 cow
+==========
+9/3/2022 - 20:48:53 - 🤖-bot-commands-🤖 - kaltass#9845
+4562
+==========
+9/3/2022 - 20:48:53 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:48:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play joemama
+==========
+9/3/2022 - 20:48:57 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:48:57 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Joe Mama** added to queue!
+==========
+9/3/2022 - 20:48:57 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track Joe Mama added in the queue ✅
+==========
+9/3/2022 - 20:48:58 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+10963
+==========
+9/3/2022 - 20:49:2 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+1093
+==========
+9/3/2022 - 20:49:2 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 0 cows
+==========
+9/3/2022 - 20:49:2 - 🤖-bot-commands-🤖 - Stefcho#4035
+2567
+==========
+9/3/2022 - 20:49:2 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:49:11 - 🤖-bot-commands-🤖 - Stefcho#4035
+2568
+==========
+9/3/2022 - 20:49:11 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 3 cows
+==========
+9/3/2022 - 20:49:15 - 🤖-bot-commands-🤖 - kaltass#9845
+6532
+==========
+9/3/2022 - 20:49:16 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 2 cows
+==========
+9/3/2022 - 20:49:27 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+2587
+==========
+9/3/2022 - 20:49:27 - 🤖-bot-commands-🤖 - Debeliq#6723
+0 bulls 4 cows
+==========
+9/3/2022 - 20:49:33 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+8275
+==========
+9/3/2022 - 20:49:33 - 🤖-bot-commands-🤖 - Debeliq#6723
+4 bulls 0 cows
+==========
+9/3/2022 - 20:49:33 - 🤖-bot-commands-🤖 - Debeliq#6723
+Well done, you guess the number from the 25 time
+==========
+9/3/2022 - 20:49:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa test
+==========
+9/3/2022 - 20:49:39 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ni ba`ka
+==========
+9/3/2022 - 20:49:39 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+jk lol
+==========
+9/3/2022 - 20:49:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play rush b
+==========
+9/3/2022 - 20:49:48 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:49:48 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track RUSH 🅱 added in the queue ✅
+==========
+9/3/2022 - 20:49:49 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **RUSH 🅱**
+==========
+9/3/2022 - 20:49:52 - 🤖-bot-commands-🤖 - Stefcho#4035
+alexa play indian loud music
+==========
+9/3/2022 - 20:49:53 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:49:53 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**loud indian 10h bass boosted** added to queue!
+==========
+9/3/2022 - 20:49:53 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track loud indian 10h bass boosted added in the queue ✅
+==========
+9/3/2022 - 20:50:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+play rush b
+==========
+9/3/2022 - 20:50:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+ejske rush b
+==========
+9/3/2022 - 20:50:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+ejsih rush b
+==========
+9/3/2022 - 20:50:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+ejsih play rush b
+==========
+9/3/2022 - 20:50:45 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:50:46 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track RUSH 🅱 added in the queue ✅
+==========
+9/3/2022 - 20:50:59 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+ce25
+==========
+9/3/2022 - 20:51:0 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+ce25
+==========
+9/3/2022 - 20:51:1 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+ce25ce25
+==========
+9/3/2022 - 20:51:2 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+ce25
+==========
+9/3/2022 - 20:51:2 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+v
+==========
+9/3/2022 - 20:51:3 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+vce25v
+==========
+9/3/2022 - 20:51:3 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+vce25ce25
+==========
+9/3/2022 - 20:51:4 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+vce25
+==========
+9/3/2022 - 20:51:4 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+ce25
+==========
+9/3/2022 - 20:51:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#YHEJ
+==========
+9/3/2022 - 20:51:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#YHEJ
+==========
+9/3/2022 - 20:51:8 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#YHEJ
+==========
+9/3/2022 - 20:51:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#YHEJ
+==========
+9/3/2022 - 20:51:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#YHEJ
+==========
+9/3/2022 - 20:51:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:51:16 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:51:20 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#YHEJ
+==========
+9/3/2022 - 20:51:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+9/3/2022 - 20:51:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+9/3/2022 - 20:51:27 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#YHEJ
+==========
+9/3/2022 - 20:52:34 - 💬-general-chat-💬 - N1tronsZ#6265
+lets gooooooooo <@&918599079045521418>
+==========
+9/3/2022 - 20:53:6 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel play crab rave
+==========
+9/3/2022 - 20:53:8 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:53:8 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track Noisestorm - Crab Rave [Monstercat Release] added in the queue ✅
+==========
+9/3/2022 - 20:53:18 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel stop
+==========
+9/3/2022 - 20:53:19 - 🤖-bot-commands-🤖 - Debeliq#6723
+Music stopped into this server, see you next time ✅
+==========
+9/3/2022 - 20:53:26 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel play crab rave
+==========
+9/3/2022 - 20:53:28 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:53:28 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track Noisestorm - Crab Rave [Monstercat Release] added in the queue ✅
+==========
+9/3/2022 - 20:53:31 - 🤖-bot-commands-🤖 - Debeliq#6723
+Started playing Noisestorm - Crab Rave [Monstercat Release] in **💬| Just Chatting 1 |💬** 🎧
+==========
+9/3/2022 - 20:54:11 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel stop
+==========
+9/3/2022 - 20:54:12 - 🤖-bot-commands-🤖 - Debeliq#6723
+I finished reading the whole queue ✅
+==========
+9/3/2022 - 20:54:12 - 🤖-bot-commands-🤖 - Debeliq#6723
+Music stopped into this server, see you next time ✅
+==========
+9/3/2022 - 20:54:59 - 🤖-bot-commands-🤖 - Stefcho#4035
+alexa play
+==========
+9/3/2022 - 20:54:59 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+You need to send the second argument!
+==========
+9/3/2022 - 20:54:59 - 🤖-bot-commands-🤖 - Debeliq#6723
+Please enter a valid search <@568496102127566873>... Try again? ❌
+==========
+9/3/2022 - 20:55:6 - 🎮-games-chat-🎮 - N1tronsZ#6265
+https://avalon.fun/GAME-ce2503b7-e64c-4261-84e5-7c5c60a03638
+==========
+9/3/2022 - 20:55:6 - 🤖-bot-commands-🤖 - saythealphabet#8331
+debel tap
+==========
+9/3/2022 - 20:55:9 - 🤖-bot-commands-🤖 - Stefcho#4035
+alexa play dababa
+==========
+9/3/2022 - 20:55:11 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Top 12 episodes / Cartoons about tanks** added to queue!
+==========
+9/3/2022 - 20:55:11 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 20:55:11 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track Top 12 episodes / Cartoons about tanks added in the queue ✅
+==========
+9/3/2022 - 20:55:15 - 🤖-bot-commands-🤖 - Debeliq#6723
+Started playing Top 12 episodes / Cartoons about tanks in **💬| Just Chatting 1 |💬** 🎧
+==========
+9/3/2022 - 20:56:38 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇰 🇴 🇮 
+🇹 🇪  🇪  🇵 🇮 🇹 🇦 🇱
+==========
+9/3/2022 - 20:57:17 - 🎮-games-chat-🎮 - N1tronsZ#6265
+ce25
+==========
+9/3/2022 - 20:57:22 - 🤖how-to-use-bots - _Phantoma_#2433
+ce25
+==========
+9/3/2022 - 20:57:37 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#JPCW
+==========
+9/3/2022 - 20:57:40 - 🤖-bot-commands-🤖 - Stefcho#4035
+alexa play dababa
+==========
+9/3/2022 - 20:57:41 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Top 12 episodes / Cartoons about tanks** added to queue!
+==========
+9/3/2022 - 21:0:2 - 🎮-games-chat-🎮 - Amah_1113#1361
+JPCW
+==========
+9/3/2022 - 21:4:49 - 💬-general-chat-💬 - borkan#4695
+хубава профилна
+==========
+9/3/2022 - 21:4:58 - 💬-general-chat-💬 - N1tronsZ#6265
+mersi mersi
+==========
+9/3/2022 - 21:8:37 - 💾-admin-stuff-💾 - N1tronsZ#6265
+предлагам да баннем тетрис
+==========
+9/3/2022 - 21:8:43 - 💾-admin-stuff-💾 - N1tronsZ#6265
+vote:
+==========
+9/3/2022 - 21:11:10 - 🎮-games-chat-🎮 - saythealphabet#8331
+ce25
+==========
+9/3/2022 - 21:11:29 - 💾-admin-stuff-💾 - saythealphabet#8331
+predlagam da bannem stefan
+==========
+9/3/2022 - 21:11:32 - 💾-admin-stuff-💾 - saythealphabet#8331
+vote:
+==========
+9/3/2022 - 21:13:3 - 💾-admin-stuff-💾 - saythealphabet#8331
+аре бе вотвайте
+==========
+9/3/2022 - 21:13:26 - 🤖how-to-use-bots - _Phantoma_#2433
+fuckYOu
+==========
+9/3/2022 - 21:13:57 - 🤣-memes-🤣 - saythealphabet#8331
+
+==========
+9/3/2022 - 21:14:42 - 💬-general-chat-💬 - Stefcho#4035
+pichove
+==========
+9/3/2022 - 21:14:48 - 💬-general-chat-💬 - Stefcho#4035
+imah 30 min za cukane
+==========
+9/3/2022 - 21:15:3 - 💬-general-chat-💬 - Stefcho#4035
+i zaradi kaloqn i aleks zagubihme 30 ot tqh
+==========
+9/3/2022 - 21:16:43 - 💬-general-chat-💬 - Stefcho#4035
+5187
+==========
+9/3/2022 - 21:18:17 - 🎮-games-chat-🎮 - N1tronsZ#6265
+5187
+==========
+9/3/2022 - 21:24:29 - 🎮-games-chat-🎮 - N1tronsZ#6265
+0f66
+==========
+9/3/2022 - 21:25:35 - 🎮-games-chat-🎮 - N1tronsZ#6265
+
+==========
+9/3/2022 - 21:28:27 - 🎮-games-chat-🎮 - N1tronsZ#6265
+563а
+==========
+9/3/2022 - 21:28:28 - 🎮-games-chat-🎮 - Stefcho#4035
+563a
+==========
+9/3/2022 - 21:28:32 - 🎮-games-chat-🎮 - Stefcho#4035
+.
+==========
+9/3/2022 - 21:30:39 - 🤣-memes-🤣 - kaltass#9845
+https://www.youtube.com/watch?v=-4_3RGQ6UP4
+==========
+9/3/2022 - 21:44:57 - 💬-general-chat-💬 - saythealphabet#8331
+фф49
+==========
+9/3/2022 - 21:45:8 - 🎮-games-chat-🎮 - saythealphabet#8331
+ff49
+==========
+9/3/2022 - 21:45:16 - 💬-general-chat-💬 - kaltass#9845
+👍
+==========
+9/3/2022 - 21:45:27 - 💬-general-chat-💬 - kaltass#9845
+zaradi tebe maika ti si e izgubila 9 meseca ot jivota si
+==========
+9/3/2022 - 21:45:27 - 💬-general-chat-💬 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+9/3/2022 - 21:45:34 - 💬-general-chat-💬 - N1tronsZ#6265
+damn
+==========
+9/3/2022 - 21:45:49 - 💬-general-chat-💬 - kaltass#9845
+https://tenor.com/view/do-i-give-a-damn-gif-22725215
+==========
+9/3/2022 - 21:46:25 - 💬-general-chat-💬 - saythealphabet#8331
+
+==========
+9/3/2022 - 21:47:0 - 💬-general-chat-💬 - kaltass#9845
+https://cdn.discordapp.com/attachments/906156598806851605/950807812278198272/244624299_397025152008070_6716579457205159461_n.mp4
+==========
+9/3/2022 - 21:56:38 - 🎮-games-chat-🎮 - N1tronsZ#6265
+
+==========
+9/3/2022 - 22:4:1 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+alexa play john cena prank call
+==========
+9/3/2022 - 22:4:3 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**John Cena Prank Call** added to queue!
+==========
+9/3/2022 - 22:5:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:17 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:17 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:18 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:19 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:19 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:21 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:25 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:5:26 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/
+==========
+9/3/2022 - 22:5:27 - 💬-general-chat-💬 - N1tronsZ#6265
+<@!373186333616898050> vc?
+==========
+9/3/2022 - 22:5:44 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:5:45 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:5:45 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:5:56 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:5:56 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:5:57 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:5:57 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:5:57 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:6:9 - 💬-general-chat-💬 - _Phantoma_#2433
+https://tenor.com/view/rock-one-eyebrow-raised-rock-staring-the-rock-gif-22113367
+==========
+9/3/2022 - 22:6:9 - 💬-general-chat-💬 - Bankenstein#9377
+abe
+==========
+9/3/2022 - 22:6:14 - 💬-general-chat-💬 - Bankenstein#9377
+wtf stava v tva vc
+==========
+9/3/2022 - 22:6:15 - 💬-general-chat-💬 - Amah_1113#1361
+https://tenor.com/view/computer-phone-gif-22852179
+==========
+9/3/2022 - 22:6:21 - 💬-general-chat-💬 - _Phantoma_#2433
+https://tenor.com/view/karlson-vibe-dani-yeet-dance-gif-17483408
+==========
+9/3/2022 - 22:6:22 - 💬-general-chat-💬 - N1tronsZ#6265
+играхме авалон допреди 30сек
+==========
+9/3/2022 - 22:6:31 - 💬-general-chat-💬 - _Phantoma_#2433
+https://tenor.com/view/gifurinha1-gif-20514821
+==========
+9/3/2022 - 22:6:34 - 💬-general-chat-💬 - Amah_1113#1361
+https://tenor.com/view/rape-rapist-rage-gavinthezavin-gif-15178236
+==========
+9/3/2022 - 22:6:38 - 💬-general-chat-💬 - _Phantoma_#2433
+https://tenor.com/view/cat-crazy-cat-keyboard-cat-fast-gif-5753018
+==========
+9/3/2022 - 22:6:41 - 💬-general-chat-💬 - saythealphabet#8331
+https://tenor.com/view/communism-stalin-love-gif-15263229
+==========
+9/3/2022 - 22:6:49 - 💬-general-chat-💬 - saythealphabet#8331
+https://tenor.com/view/foss-no-bitches-no-hoes-0bitches-no-gif-24529727
+==========
+9/3/2022 - 22:6:54 - 💬-general-chat-💬 - Amah_1113#1361
+https://tenor.com/view/joke-jk-penguin-laugh-its-was-a-joke-gif-14574338
+==========
+9/3/2022 - 22:6:55 - 💬-general-chat-💬 - _Phantoma_#2433
+https://tenor.com/view/cat-cute-adorable-punch-gif-17822730
+==========
+9/3/2022 - 22:6:59 - 💬-general-chat-💬 - kaltass#9845
+https://media.discordapp.net/attachments/935989994735169546/944216226966700032/caption.gif
+==========
+9/3/2022 - 22:7:8 - 💬-general-chat-💬 - _Phantoma_#2433
+https://tenor.com/view/cat-cats-funny-light-sabers-light-saber-gif-5483839
+==========
+9/3/2022 - 22:7:9 - 💬-general-chat-💬 - Bankenstein#9377
+please stop the gif spam.
+==========
+9/3/2022 - 22:7:18 - 💬-general-chat-💬 - _Phantoma_#2433
+https://media.discordapp.net/attachments/789300160764444679/890957316411756584/yellowdude_1.gif
+==========
+9/3/2022 - 22:7:25 - 💬-general-chat-💬 - kaltass#9845
+https://tenor.com/view/haha-funny-meme-gun-skill-gif-15020708
+==========
+9/3/2022 - 22:7:39 - 💬-general-chat-💬 - _Phantoma_#2433
+https://tenor.com/view/foss-no-bitches-no-hoes-0bitches-no-gif-24529727
+==========
+9/3/2022 - 22:7:47 - 💬-general-chat-💬 - _Phantoma_#2433
+https://tenor.com/view/cat-meme-funny-gif-5754572
+==========
+9/3/2022 - 22:8:3 - 💬-general-chat-💬 - kaltass#9845
+https://tenor.com/view/spin-gif-22296188
+==========
+9/3/2022 - 22:8:4 - 🤖-bot-commands-🤖 - Bankenstein#9377
+++setResendChannel
+==========
+9/3/2022 - 22:8:8 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:10 - 🤖-bot-commands-🤖 - Bankenstein#9377
+ayo
+==========
+9/3/2022 - 22:8:14 - 💬-general-chat-💬 - kaltass#9845
+nie s mitaka taka si obshtuvame
+==========
+9/3/2022 - 22:8:16 - 🤖-bot-commands-🤖 - Bankenstein#9377
+<@!785747457815347221>
+==========
+9/3/2022 - 22:8:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+bate are stiga
+==========
+9/3/2022 - 22:8:28 - 🤖-bot-commands-🤖 - Bankenstein#9377
+<@!785747457815347221> prefix
+==========
+9/3/2022 - 22:8:31 - 💬-general-chat-💬 - Stefcho#4035
+debel bormashina
+==========
+9/3/2022 - 22:8:32 - 🤖-bot-commands-🤖 - Amah_1113#1361
+koi mi mahna admina
+==========
+9/3/2022 - 22:8:35 - 🤖-bot-commands-🤖 - Amah_1113#1361
+bank ti li beshe
+==========
+9/3/2022 - 22:8:40 - 🎮-games-chat-🎮 - saythealphabet#8331
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:8:46 - 🎮-games-chat-🎮 - N1tronsZ#6265
+golf delete 20
+==========
+9/3/2022 - 22:8:47 - 🎮-games-chat-🎮 - Golf-Bot#6724
+Deleted 20 messages.
+==========
+9/3/2022 - 22:8:53 - 🎮-games-chat-🎮 - Stefcho#4035
+debel delete 1
+==========
+9/3/2022 - 22:8:53 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:54 - 🎮-games-chat-🎮 - Amah_1113#1361
+\https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:54 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:54 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:55 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:55 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:56 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:57 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:57 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:8:58 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:9:0 - 🎮-games-chat-🎮 - Stefcho#4035
+debel delete 20
+==========
+9/3/2022 - 22:9:3 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#PGXA
+==========
+9/3/2022 - 22:9:8 - 🎮-games-chat-🎮 - saythealphabet#8331
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:9:12 - 📜constitution-of-mafia - N1tronsZ#6265
+Spamming tetris links will result in "ebi se".
+==========
+9/3/2022 - 22:9:21 - 🎮-games-chat-🎮 - Stefcho#4035
+debel delete 10
+==========
+9/3/2022 - 22:9:21 - 🎮-games-chat-🎮 - Debeliq#6723
+I have just deleted **10** messages
+==========
+9/3/2022 - 22:9:34 - 🎮-games-chat-🎮 - Stefcho#4035
+missing permisions
+==========
+9/3/2022 - 22:9:37 - 🎮-games-chat-🎮 - saythealphabet#8331
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:9:45 - 🎮-games-chat-🎮 - N1tronsZ#6265
+golf delete 5
+==========
+9/3/2022 - 22:9:45 - 🎮-games-chat-🎮 - Golf-Bot#6724
+Deleted 5 messages.
+==========
+9/3/2022 - 22:10:2 - 🤖-bot-commands-🤖 - Bankenstein#9377
+++isitworking
+==========
+9/3/2022 - 22:10:3 - 🤖-bot-commands-🤖 - Olue-Bot#1493
+IT'S FUCKING WORKING!!
+==========
+9/3/2022 - 22:10:10 - 🤖-bot-commands-🤖 - Bankenstein#9377
+++setResendChannel
+==========
+9/3/2022 - 22:10:10 - 🤖-bot-commands-🤖 - Olue-Bot#1493
+:gear: Set this server's video resend channel to THIS CHANNEL.
+==========
+9/3/2022 - 22:10:29 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel play https://www.youtube.com/watch?v=sbvE3rjo_zI&ab_channel=10Hthemusic
+==========
+9/3/2022 - 22:10:34 - 🎮-games-chat-🎮 - saythealphabet#8331
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:10:36 - 🎮-games-chat-🎮 - saythealphabet#8331
+v
+==========
+9/3/2022 - 22:10:39 - 🤖-bot-commands-🤖 - Stefcho#4035
+debel play https://www.youtube.com/watch?v=sbvE3rjo_zI&ab_channel=10Hthemusic
+==========
+9/3/2022 - 22:10:40 - 🤖-bot-commands-🤖 - Debeliq#6723
+Loading your track... 🎧
+==========
+9/3/2022 - 22:10:40 - 🤖-bot-commands-🤖 - Debeliq#6723
+Track loud indian 10h bass boosted added in the queue ✅
+==========
+9/3/2022 - 22:10:43 - 🤖-bot-commands-🤖 - Debeliq#6723
+Started playing loud indian 10h bass boosted in **💬| Just Chatting 1 |💬** 🎧
+==========
+9/3/2022 - 22:11:3 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:3 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:4 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:4 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:5 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:5 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:6 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:7 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:7 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:7 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:13 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#NUDH
+==========
+9/3/2022 - 22:11:24 - 💬-general-chat-💬 - Stefcho#4035
+
+==========
+9/3/2022 - 22:11:58 - 📜constitution-of-mafia - _Phantoma_#2433
+https://tenor.com/view/rock-one-eyebrow-raised-rock-staring-the-rock-gif-22113367
+==========
+9/3/2022 - 22:12:6 - 🤣-memes-🤣 - saythealphabet#8331
+https://tenor.com/view/i-completely-agree-i-agree-agree-thanos-thanos-talk-gif-22629453
+==========
+9/3/2022 - 22:12:19 - 🤣-memes-🤣 - kaltass#9845
+https://media.discordapp.net/attachments/876574809667022899/929096675484643338/speed-23.gif
+==========
+9/3/2022 - 22:12:32 - 🤣-memes-🤣 - saythealphabet#8331
+тва имам ли позволение да го пратя в конституцията?
+==========
+9/3/2022 - 22:12:42 - 🤣-memes-🤣 - saythealphabet#8331
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:13:0 - 🤖-bot-commands-🤖 - _Phantoma_#2433
+debel play john cena prank call
+==========
+9/3/2022 - 22:13:2 - 💬-general-chat-💬 - saythealphabet#8331
+https://tetr.io/#XKEQ
+==========
+9/3/2022 - 22:13:37 - 💬-general-chat-💬 - Bankenstein#9377
+
+==========
+9/3/2022 - 22:13:57 - 💬-general-chat-💬 - N1tronsZ#6265
+
+==========
+9/3/2022 - 22:14:5 - 💬-general-chat-💬 - _Phantoma_#2433
+nice
+==========
+9/3/2022 - 22:14:9 - 💬-general-chat-💬 - N1tronsZ#6265
+demokratichen server btw
+==========
+9/3/2022 - 22:14:14 - 💬-general-chat-💬 - _Phantoma_#2433
+https://media.discordapp.net/attachments/858789272038539302/858792720536698950/caption.gif
+==========
+9/3/2022 - 22:14:31 - 🤣-memes-🤣 - saythealphabet#8331
+
+==========
+9/3/2022 - 22:14:44 - 💬-general-chat-💬 - _Phantoma_#2433
+koj si ti be
+==========
+9/3/2022 - 22:14:54 - 🤣-memes-🤣 - Bankenstein#9377
+da, ama she ti mahna mod za spam v konstituciqta
+==========
+9/3/2022 - 22:23:7 - 💬-general-chat-💬 - kaltass#9845
+huhn huubhgygiuyb sdfaf
+==========
+9/3/2022 - 22:23:8 - 💬-general-chat-💬 - kaltass#9845
+asdpoijads[
+==========
+9/3/2022 - 22:23:8 - 💬-general-chat-💬 - kaltass#9845
+]asdf
+==========
+9/3/2022 - 22:57:45 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#CYLX
+==========
+9/3/2022 - 23:15:4 - 🎮-games-chat-🎮 - _Phantoma_#2433
+@Kosta cs?
+==========
+11/3/2022 - 21:44:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+11/3/2022 - 21:44:31 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+11/3/2022 - 21:44:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 cota
+==========
+11/3/2022 - 21:44:36 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+11/3/2022 - 21:44:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf delete 2
+==========
+11/3/2022 - 21:44:58 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 2 messages.
+==========
+11/3/2022 - 22:14:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 singapore
+==========
+11/3/2022 - 22:14:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+11/3/2022 - 22:14:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 zaandvort
+==========
+11/3/2022 - 22:14:42 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 22:14:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 dutch
+==========
+11/3/2022 - 22:14:48 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+11/3/2022 - 22:38:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 spa
+==========
+11/3/2022 - 22:38:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+11/3/2022 - 22:38:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf delete a
+==========
+11/3/2022 - 22:38:52 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+11/3/2022 - 23:3:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 suzuka
+==========
+11/3/2022 - 23:3:58 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+11/3/2022 - 23:4:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 mexico
+==========
+11/3/2022 - 23:4:6 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:4:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf delete a
+==========
+11/3/2022 - 23:4:21 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+11/3/2022 - 23:9:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log("mangal")
+==========
+11/3/2022 - 23:9:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:10:10 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log("mangal")
+==========
+11/3/2022 - 23:10:10 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:10:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log("mangal")
+==========
+11/3/2022 - 23:10:57 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:10:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log("mangal")
+==========
+11/3/2022 - 23:10:58 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:11:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 message.channel.send(functions.configValue().clientId)
+==========
+11/3/2022 - 23:11:51 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:13:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 bahrain flag
+==========
+11/3/2022 - 23:13:21 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇧🇭
+==========
+11/3/2022 - 23:14:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+message.channel.send(functions.configValue().clientId)
+==========
+11/3/2022 - 23:14:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 message.channel.send(functions.configValue().clientId)
+==========
+11/3/2022 - 23:14:48 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:15:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+11/3/2022 - 23:15:8 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+11/3/2022 - 23:15:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log(functions.configValue().clientId)
+==========
+11/3/2022 - 23:15:47 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:15:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log(functions.configValue().clientId)
+==========
+11/3/2022 - 23:15:57 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:16:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log(JSON.parse(fs.readFileSync('config.json')).clientId)
+==========
+11/3/2022 - 23:16:47 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:17:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log(JSON.parse(require('fs').readFileSync('config.json')).clientId)
+==========
+11/3/2022 - 23:17:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log(JSON.parse(require('fs').readFileSync('config.json')).clientId)
+==========
+11/3/2022 - 23:19:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+console.log(process.env.TOKEN)
+==========
+11/3/2022 - 23:20:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 console.log(process.env.TOKEN)
+==========
+11/3/2022 - 23:20:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+11/3/2022 - 23:20:9 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+11/3/2022 - 23:20:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear 10
+==========
+11/3/2022 - 23:20:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 10 messages.
+==========
+11/3/2022 - 23:21:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 bahrain
+==========
+11/3/2022 - 23:21:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+11/3/2022 - 23:21:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 saudi
+==========
+11/3/2022 - 23:21:36 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:22:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 saudi
+==========
+11/3/2022 - 23:22:5 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:24:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 saudi
+==========
+11/3/2022 - 23:24:38 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:27:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 saudi
+==========
+11/3/2022 - 23:27:9 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+11/3/2022 - 23:27:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 maika ti
+==========
+11/3/2022 - 23:27:15 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+11/3/2022 - 23:27:15 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+11/3/2022 - 23:42:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+12/3/2022 - 24:0:53 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+12/3/2022 - 24:1:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf log
+==========
+12/3/2022 - 24:1:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+12/3/2022 - 24:1:5 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:1:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf log
+==========
+12/3/2022 - 24:1:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf load
+==========
+12/3/2022 - 24:1:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+12/3/2022 - 24:25:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+12/3/2022 - 24:25:56 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:26:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+12/3/2022 - 24:26:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+12/3/2022 - 24:26:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:26:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:26:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:26:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:32:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+12/3/2022 - 24:32:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+12/3/2022 - 24:32:38 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:32:38 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:32:38 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:32:38 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:33:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+12/3/2022 - 24:33:8 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:33:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf emojify test
+==========
+12/3/2022 - 24:33:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇪 🇸 🇹
+==========
+12/3/2022 - 24:33:45 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf help
+==========
+12/3/2022 - 24:33:45 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+12/3/2022 - 24:35:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf help
+==========
+12/3/2022 - 24:35:1 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+12/3/2022 - 24:35:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf help
+==========
+12/3/2022 - 24:35:41 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+12/3/2022 - 24:35:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear 0
+==========
+12/3/2022 - 24:35:51 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+*Instructions unclear, my bin exploded.* Please try again and enter the amount of messages you want me to delete.
+==========
+12/3/2022 - 24:35:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear
+==========
+12/3/2022 - 24:35:58 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+*Instructions unclear, my bin exploded.* Please try again and enter the amount of messages you want me to delete.
+==========
+12/3/2022 - 24:38:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+12/3/2022 - 24:38:53 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+12/3/2022 - 24:45:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:33 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+6
+==========
+12/3/2022 - 24:46:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:35 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+8
+==========
+12/3/2022 - 24:46:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:36 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+7
+==========
+12/3/2022 - 24:46:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+4
+==========
+12/3/2022 - 24:46:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:40 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+10
+==========
+12/3/2022 - 24:46:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:41 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+4
+==========
+12/3/2022 - 24:46:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:42 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+10
+==========
+12/3/2022 - 24:46:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:43 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+5
+==========
+12/3/2022 - 24:46:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:45 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+3
+==========
+12/3/2022 - 24:46:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 10
+==========
+12/3/2022 - 24:46:46 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+4
+==========
+12/3/2022 - 24:54:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:54:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:54:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Enter a number please
+==========
+12/3/2022 - 24:54:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:4 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Enter a number please
+==========
+12/3/2022 - 24:55:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:34 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:35 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:36 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:38 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:40 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:41 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:41 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:55:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:55:42 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:57:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:57:18 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+1
+==========
+12/3/2022 - 24:57:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:57:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:57:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:57:21 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+1
+==========
+12/3/2022 - 24:57:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rng 1
+==========
+12/3/2022 - 24:57:22 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+0
+==========
+12/3/2022 - 24:59:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear
+==========
+12/3/2022 - 24:59:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+*Instructions unclear, my bin exploded.* Please try again and enter the amount of messages you want me to delete.
+==========
+12/3/2022 - 24:59:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+12/3/2022 - 24:59:31 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+12/3/2022 - 24:59:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+12/3/2022 - 24:59:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+12/3/2022 - 24:59:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+12/3/2022 - 24:59:40 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
 ==========

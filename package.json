@@ -1,6 +1,6 @@
 {
   "name": "golf-bot",
-  "version": "2.0.3",
+  "version": "2.1",
   "description": "Golf bot by OlueTheYeeter",
   "main": "main.js",
   "scripts": {
@@ -24,6 +24,7 @@
     "dotenv": "^15.0.1",
     "fs": "^0.0.1-security",
     "minecraft-server-util": "^3.6.0",
-    "node.js": "^0.0.1-security"
+    "node.js": "^0.0.1-security",
+    "pm2": "^5.2.0"
   }
 }
