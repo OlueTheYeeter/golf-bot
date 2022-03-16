@@ -313,9 +313,7 @@ function f1embed(message, f1object) {
     });
 }
 function secureEval(string) {
-    const regex = /[^A-Za-z_]/g;
-    if (string.indexOf(regex) != -1) {
-        console.log('Log4js s**t.');
+    if (string.indexOf(/[^A-Za-z_]/g) != -1) {
         return null;
     } 
     return eval(string);

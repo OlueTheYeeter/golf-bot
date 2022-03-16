@@ -14264,11 +14264,11 @@ cvb
 ghg
 ==========
 25/1/2022 - 11:57:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
-fs.appendFileSync('data\txt\messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
+fs.appendFileSync('./data\txt\messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
 ==========
 25/1/2022 - 11:58:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
 ```js
-    fs.appendFileSync('data\txt\messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
+    fs.appendFileSync('./data\txt\messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
 ```
 ==========
 25/1/2022 - 11:58:4 - 🤖-bot-commands-🤖 - Terminal-bot#3526
@@ -31757,4 +31757,172 @@ golf clear a
 ==========
 12/3/2022 - 24:59:40 - 🤖-bot-commands-🤖 - Golf-Bot#6724
 Deleted 99 messages.
+==========
+13/21/2022 - 17:52:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 17:52:54 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 17:52:54 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+13/21/2022 - 17:53:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 17:53:54 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 17:54:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 17:54:9 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 17:54:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 17:54:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 17:55:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+13/21/2022 - 17:55:5 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+13/21/2022 - 17:55:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+13/21/2022 - 17:55:50 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+13/21/2022 - 17:55:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear 1
+==========
+13/21/2022 - 17:55:57 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 1 messages.
+==========
+13/21/2022 - 17:56:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+13/21/2022 - 17:56:4 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 99 messages.
+==========
+13/21/2022 - 17:56:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+13/21/2022 - 17:56:58 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+13/21/2022 - 17:57:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+13/21/2022 - 17:57:41 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 2 messages.
+==========
+13/21/2022 - 18:3:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 18:3:29 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 18:3:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 18:3:56 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 18:4:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 18:4:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 18:4:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+13/21/2022 - 18:4:34 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 8 messages.
+==========
+13/21/2022 - 18:14:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf came
+==========
+13/21/2022 - 18:14:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 18:14:7 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 18:14:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 18:14:33 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 18:14:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 18:14:48 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 21:51:1 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+13/21/2022 - 21:51:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+13/21/2022 - 21:51:6 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+13/21/2022 - 21:51:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear a
+==========
+13/21/2022 - 21:51:10 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 16 messages.
+==========
+13/21/2022 - 21:51:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf load
+==========
+13/21/2022 - 21:51:33 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+13/21/2022 - 21:51:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf game
+==========
+13/21/2022 - 21:51:59 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+e
+==========
+13/21/2022 - 22:33:24 - 💬-general-chat-💬 - Bankenstein#9377
+C plus C++
+==========
+13/21/2022 - 22:33:37 - 💬-general-chat-💬 - N1tronsZ#6265
+= C+++
+==========
+13/21/2022 - 22:33:51 - 💬-general-chat-💬 - N1tronsZ#6265
+= C#-
+==========
+13/21/2022 - 22:34:6 - 💬-general-chat-💬 - Bankenstein#9377
+= Java---
+==========
+13/21/2022 - 23:14:34 - 💬-general-chat-💬 - Amah_1113#1361
+Chuval sum go ot nekude
+==========
+13/21/2022 - 23:15:6 - 💬-general-chat-💬 - Amah_1113#1361
+C#-- zashtoto C# = C++++
+==========
+13/21/2022 - 23:15:36 - 💬-general-chat-💬 - Amah_1113#1361
+
+==========
+13/21/2022 - 23:15:36 - 💬-general-chat-💬 - N1tronsZ#6265
+C + C++ = C+++
+==========
+13/21/2022 - 23:19:48 - 💬-general-chat-💬 - Amah_1113#1361
+Ravno e na 2C i posle C si promenq stoinosta na C+1
+==========
+13/21/2022 - 23:26:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 bahrain
+==========
+13/21/2022 - 23:26:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
 ==========

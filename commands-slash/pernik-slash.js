@@ -7,7 +7,7 @@ module.exports = {
 		.setName('golf')
 		.setDescription('Sends image of the greatest car of all time.'),
 	async execute(interaction, client,functions) {
-        const golf = new Discord.MessageAttachment('data/images/golf4.jpg');
+        const golf = new Discord.MessageAttachment('./data/images/golf4.jpg');
         interaction.reply({files:[golf]});
 	},
 };

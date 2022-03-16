@@ -218,8 +218,10 @@ module.exports = {
 		if (!deleteCount || deleteCount < 1 || deleteCount > 100) return;
 		message.channel
 			.bulkDelete(deleteCount + 1,true)
-			.then(messages => console.log(`Bulk deleted ${messages.size} messages`))
-		message.channel.send(`Deleted ${deleteCount} messages.`)
+			.then(messages => {
+				console.log(`Bulk deleted ${messages.size} messages`)
+				message.channel.send(`Deleted ${messages.size} messages.`)
+		})
 			.catch(console.error);
 
 	},

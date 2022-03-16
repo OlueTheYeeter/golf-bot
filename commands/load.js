@@ -6,7 +6,7 @@ module.exports = {
     description : "Load file.",
     execute (message,cmd,args,functions){
         //if(functions.permissionCheck(message,"ADMINISTRATOR")){
-            const log = new MessageAttachment('data\txt\messages.txt');
+            const log = new MessageAttachment('./data/txt/messages.txt');
             message.reply({files:[log]});
         //}
         

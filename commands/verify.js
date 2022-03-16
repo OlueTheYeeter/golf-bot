@@ -8,7 +8,7 @@ module.exports = {
 			if (target) {
 				let memberTarget = message.guild.members.cache.get(target.id);
 				try {
-					memberTarget.roles.add(message.guild.roles.cache.find(role => role.name === "Member").id);
+					memberTarget.roles.add(message.guild.roles.cache.find(role => role.name === functions.configValue().verifyRole).id);
 					//console.log("Added member role to "+target.user.tag);
 				} catch (err) {
 					console.log(err);

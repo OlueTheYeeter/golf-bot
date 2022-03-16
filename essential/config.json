@@ -6,10 +6,9 @@
   "verify": "on",
   "RacismDetection": "on",
   "RickRollDetection": "on",
-  "status": "maika ti",
-  "version": "2.1",
+  "status": "the pinnacle of engineering",
+  "version": "2.1.1",
   "messageLogging": "on",
-  "minecraftSmpIP": "213.214.94.248",
-  "minecraftSmpPort": "25565",
-  "timezone": 2
+  "minecraftSmpIP": "mc.hypixel.net",
+  "minecraftSmpPort": "25565"
 }

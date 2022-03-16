@@ -67,12 +67,8 @@ client.on('messageCreate', message => {
 
 	if (message.guild) {
 		if (config.messageLogging == "on") {
-			var month = message.createdAt.getMonth() + 1;
-			var hour = message.createdAt.getUTCHours() + config.timezone;
-			var date = message.createdAt.getUTCDate;
-			if (message.createdAt.getUTCHours() < 0 && hour > 0) date = date + 1;
 			if (message.guild.name == "Mafia")
-				fs.appendFileSync('data/txt/messages.txt', message.createdAt.getDate() + '/' + month + '/' + message.createdAt.getFullYear() + ' - ' + hour + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
+				fs.appendFileSync('./data/txt/messages.txt', message.createdAt.getDate() + '/' + message.createdAt.getMonth() + 1 + '/' + message.createdAt.getFullYear() + ' - ' + message.createdAt.getHours() + ':' + message.createdAt.getUTCMinutes() + ':' + message.createdAt.getUTCSeconds() + ' - ' + message.channel.name + ' - ' + message.author.tag + '\n' + message.content + '\n==========\n');
 		}
 		if (message.content.includes("825440225999192084")) {
 			console.log(`Bot mentioned.`);
@@ -83,7 +79,6 @@ client.on('messageCreate', message => {
 				message.channel.send('Prefix reset to "golf "');
 				configUpdate();
 				configEmbed(message);
-
 			}
 			else {
 				message.channel.send(`Hello, comrade, I am The Golf 4ka and I am at your service. My prefix is "**${config.prefix}**"`);
@@ -139,11 +134,8 @@ client.on('messageCreate', message => {
 
 client.on('interactionCreate', async interaction => {
 	if (!interaction.isCommand()) return;
-	//if (interaction.commandName === "test") return interaction.reply("Baca");
 	const slashCommand = client.slashCommands.get(interaction.commandName);
-
 	if (!slashCommand) return;
-
 	try {
 		await slashCommand.execute(interaction, client, functions, config);
 	} catch (error) {
