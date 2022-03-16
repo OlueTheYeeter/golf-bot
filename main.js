@@ -44,16 +44,12 @@ client.slashCommands = new Discord.Collection();
 const slashCommandFiles = fs.readdirSync('./commands-slash').filter(file => file.endsWith('.js'));
 for (const file of slashCommandFiles) {
 	const slashCommand = require(`./commands-slash/${file}`);
-	// Set a new item in the Collection
-	// With the key as the command name and the value as the exported module
 	client.slashCommands.set(slashCommand.data.name, slashCommand);
 }
 client.commands = new Discord.Collection();
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 for (const file of commandFiles) {
 	const command = require(`./commands/${file}`);
-	// Set a new item in the Collection
-	// With the key as the command name and the value as the exported module
 	client.commands.set(command.name, command);
 }
 client.on('guildMemberAdd', guildMember => {
