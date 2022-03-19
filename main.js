@@ -122,7 +122,7 @@ client.on('messageCreate', message => {
 	try {
 		command.execute(message, cmd, args, functions, client);
 	} catch (error) {
-		console.error(error);
+		console.log (error);
 		message.channel.send({ content: 'There was an error while executing this command!', ephemeral: true });
 	}
 
@@ -135,7 +135,7 @@ client.on('interactionCreate', async interaction => {
 	try {
 		await slashCommand.execute(interaction, client, functions, config);
 	} catch (error) {
-		console.error(error);
+		console.log(error);
 		await interaction.reply({ content: 'There was an error while executing this command!', ephemeral: true });
 	}
 }); 

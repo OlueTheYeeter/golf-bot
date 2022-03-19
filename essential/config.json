@@ -4,10 +4,10 @@
   "prefix": "golf ",
   "verifyRole": "Member",
   "verify": "on",
-  "RacismDetection": "on",
+  "RacismDetection": "off",
   "RickRollDetection": "on",
   "status": "the pinnacle of engineering",
-  "version": "2.1.1",
+  "version": "2.2",
   "messageLogging": "on",
   "minecraftSmpIP": "mc.hypixel.net",
   "minecraftSmpPort": "25565"

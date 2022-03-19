@@ -1,8 +1,18 @@
-
+let help = {
+    "track": "track",
+    "date": "date",
+    "raceday-day": "raceday-day",
+    "raceday-month": "raceday-month",
+    "round": "round",
+    "country": "country",
+    "flag": "flag",
+    "trackphoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsfKJLoxMeklcHagvs9AkmSxdZH8xagwUTw&usqp=CAU",
+    "laps": "laps",
+}
 let bahrain = {
     "track": "Bahrain International Circuit",
-    "date": "18-20 April 2022",
-    "raceday-day": 18,
+    "date": "18-20 March 2022",
+    "raceday-day": 20,
     "raceday-month": 3,
     "round": 1,
     "country": "Bahrain",
@@ -148,7 +158,7 @@ let france = {
     "laps": 53
 
 }
-let hungary  = {
+let hungary = {
     "track": "CIRCUIT PAUL RICARD",
     "date": "29-31 July 2022",
     "raceday-day": 31,
@@ -160,7 +170,7 @@ let hungary  = {
     "laps": 70
 
 }
-let belgium  = {
+let belgium = {
     "track": "SPA-FRANCORCHAMPS",
     "date": "26-28 August 2022",
     "raceday-day": 28,
@@ -173,7 +183,7 @@ let belgium  = {
 
 }
 let spa = belgium
-let zandvoort  = {
+let zandvoort = {
     "track": "CIRCUIT ZANDVOORT",
     "date": "02-04 September 2022",
     "raceday-day": 4,
@@ -220,7 +230,7 @@ let japan = {
     "trackphoto": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Japan%20carbon.png.transform/4col/image.png",
     "laps": 53
 }
-let suzuka = japan 
+let suzuka = japan
 let cota = {
     "track": "CIRCUIT OF THE AMERICAS",
     "date": "21-23 October 2022",
@@ -269,27 +279,45 @@ let abu_dhabi = {
 let uae = abu_dhabi
 //🇮🇹 🇸🇬 🇯🇵 🇺🇸 🇲🇽 🇧🇷 🇦🇪
 
+let f1races = [bahrain,saudi_arabia,australia,imola,miami,spain,monaco,baku,canada,britain,austria,france,hungary,spa,zandvoort,monza,singapore,suzuka,cota,mexico,brazil,abu_dhabi];
 
 module.exports = {
     name: 'f1',
     aliases: ['formula1', 'formula-1'],
     description: "Clears messages",
     execute(message, cmd, args, functions) {
-        if (args[0]) {
-            let f1object = args[0];
-            f1object = secureEval(f1object);
-            
-            if (args[1]) {
-                let properties = args[1];
-                if (typeof f1object[properties] === 'undefined' || f1object[properties] === null) {
-                    message.channel.send('Error.');
-                }
-                else
-                    message.channel.send(f1object[properties]);
-            }
-            else if(f1object) f1embed(message, f1object);
+        if (args[0] == "until") {
+            let d = Date.now();
+            let race = secureEval(args[1]);
+            if (args[1]) message.reply("Time until " + args[1]+ " - " + dhm(f1date(race) - d));
         }
-        else message.reply('No such F1 GP found.');
+        else if (args[0] == "next") {
+            let d = Date.now();
+            for(let race of f1races){
+                let f1d = f1date(race);
+                if(f1d>d){
+                    f1embed(message, race);
+                    break; 
+                }
+            }
+        }
+        else {
+            if (args[0]) {
+                let f1object = args[0];
+                f1object = secureEval(f1object);
+
+                if (args[1]) {
+                    let properties = args[1];
+                    if (typeof f1object[properties] === 'undefined' || f1object[properties] === null) {
+                        message.channel.send('Error.');
+                    }
+                    else
+                        message.channel.send(f1object[properties] + '');
+                }
+                else if (f1object) f1embed(message, f1object);
+            }
+            else message.reply('No such F1 GP found.');
+        }
 
     }
 }
@@ -315,6 +343,19 @@ function f1embed(message, f1object) {
 function secureEval(string) {
     if (string.indexOf(/[^A-Za-z_]/g) != -1) {
         return null;
-    } 
+    }
     return eval(string);
+}
+function f1date(race) {
+    return new Date(2022, race["raceday-month"] - 1, race["raceday-day"], 16);
+}
+function dhm(ms) {
+    const days = Math.floor(ms / (24 * 60 * 60 * 1000));
+    const daysms = ms % (24 * 60 * 60 * 1000);
+    const hours = Math.floor(daysms / (60 * 60 * 1000));
+    const hoursms = ms % (60 * 60 * 1000);
+    const minutes = Math.floor(hoursms / (60 * 1000));
+    const minutesms = ms % (60 * 1000);
+    const sec = Math.floor(minutesms / 1000);
+    return days + "d " + hours + "h " + minutes + "m " + sec + "s ";
 }

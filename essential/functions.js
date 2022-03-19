@@ -63,6 +63,9 @@ function letterToUnicode(L) {
 }
 module.exports = {
 	test: 1,
+	difference: function(a, b) {
+		return Math.abs(a - b);
+	},
 	permissionCheck: function (messageOrInteraction, permission) {
 		if (messageOrInteraction.member.permissions.has(permission)) {
 			return true;
