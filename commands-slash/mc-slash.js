@@ -23,7 +23,7 @@ module.exports = {
 		if (serverIp === 'hypixel') serverIp = "mc.hypixel.net";
 		if (!serverPort) serverPort = 25565;
 		try{
-		ourcraft.status(serverIp, { port: parseInt(serverPort) }).then((response) => {
+		ourcraft.status(serverIp, parseInt(serverPort)).then((response) => {
 			//console.log(response);
 			if(!response) interaction.reply('Server'+ serverIp + ":")
             console.log("Server IP: " + response.host);

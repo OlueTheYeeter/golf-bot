@@ -33474,3 +33474,3857 @@ sek
 19/21/2022 - 15:47:48 - 🤖-bot-commands-🤖 - Amah_1113#1361
 also
 ==========
+19/21/2022 - 16:58:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 help
+==========
+19/21/2022 - 16:58:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+19/21/2022 - 16:58:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+```js
+let help = {
+    "track": "track",
+    "date": "date",
+    "raceday-day": "raceday-day",
+    "raceday-month": "raceday-month",
+    "round": "round",
+    "country": "country",
+    "flag": "flag",
+    "trackphoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsfKJLoxMeklcHagvs9AkmSxdZH8xagwUTw&usqp=CAU",
+    "laps": "laps",
+}
+```
+==========
+19/21/2022 - 17:0:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+https://www.formula1.com/en/racing/2022.html
+==========
+19/21/2022 - 17:34:25 - 🤖-bot-commands-🤖 - Amah_1113#1361
+
+==========
+19/21/2022 - 17:37:0 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#MGRE
+==========
+19/21/2022 - 17:37:19 - 🤖-bot-commands-🤖 - Amah_1113#1361
+https://tetr.io/#MGRE
+==========
+19/21/2022 - 17:37:55 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#MGRE
+==========
+19/21/2022 - 18:57:37 - 🎮-games-chat-🎮 - kaltass#9845
+nqkoi na cs iska li
+==========
+19/21/2022 - 19:17:48 - 🎮-games-chat-🎮 - Stefcho#4035
+eho subrahme li se za skyfactorito
+==========
+19/21/2022 - 19:18:17 - 🎮-games-chat-🎮 - Stefcho#4035
+<@&815980057319178280>
+==========
+19/21/2022 - 19:29:8 - 🎮-games-chat-🎮 - Stefcho#4035
+ehoo
+==========
+19/21/2022 - 19:29:9 - 🎮-games-chat-🎮 - Stefcho#4035
+kakwo stava
+==========
+19/21/2022 - 19:29:16 - 🎮-games-chat-🎮 - Stefcho#4035
+nali shtqhme da igraem v 6:30
+==========
+19/21/2022 - 19:29:19 - 🎮-games-chat-🎮 - Stefcho#4035
+<@!568356066870689804>
+==========
+19/21/2022 - 19:29:21 - 🎮-games-chat-🎮 - Stefcho#4035
+<@!480326927589179394>
+==========
+19/21/2022 - 19:29:22 - 🎮-games-chat-🎮 - N1tronsZ#6265
+ем не
+==========
+19/21/2022 - 19:29:24 - 🎮-games-chat-🎮 - Stefcho#4035
+<@!373186333616898050>
+==========
+19/21/2022 - 19:29:29 - 🎮-games-chat-🎮 - N1tronsZ#6265
+казахме вечерта не 6:30
+==========
+19/21/2022 - 19:29:38 - 🎮-games-chat-🎮 - N1tronsZ#6265
+еми като дойдем 3-4 тогава ще играя
+==========
+19/21/2022 - 19:29:45 - 🎮-games-chat-🎮 - Stefcho#4035
+ma
+==========
+19/21/2022 - 19:29:51 - 🎮-games-chat-🎮 - Stefcho#4035
+te i drugite go kazvat tova
+==========
+19/21/2022 - 19:29:56 - 🎮-games-chat-🎮 - Stefcho#4035
+i taka nqma kak da se suberem
+==========
+19/21/2022 - 19:29:58 - 🎮-games-chat-🎮 - Stefcho#4035
+of boje
+==========
+19/21/2022 - 19:29:59 - 🎮-games-chat-🎮 - N1tronsZ#6265
+ок който може да казва
+==========
+19/21/2022 - 19:30:3 - 🎮-games-chat-🎮 - N1tronsZ#6265
+аз мога
+==========
+19/21/2022 - 19:30:11 - 🎮-games-chat-🎮 - Stefcho#4035
+<@!735141010971295804>
+==========
+19/21/2022 - 19:31:16 - 🎮-games-chat-🎮 - Stefcho#4035
+kude sa vsichki onlain be
+==========
+19/21/2022 - 19:31:25 - 🎮-games-chat-🎮 - N1tronsZ#6265
+то няма никой онлайн
+==========
+19/21/2022 - 19:31:42 - 🎮-games-chat-🎮 - Stefcho#4035
+taka e
+==========
+19/21/2022 - 19:31:48 - 🎮-games-chat-🎮 - Stefcho#4035
+ama mitaka nikoga ne otgovarq
+==========
+19/21/2022 - 19:47:25 - 🎮-games-chat-🎮 - Stefcho#4035
+emi mai shte vecherqm i posle
+==========
+19/21/2022 - 19:47:31 - 🎮-games-chat-🎮 - Stefcho#4035
+shte se suberem li kum 8:20
+==========
+19/21/2022 - 19:47:43 - 🎮-games-chat-🎮 - Stefcho#4035
+<@&815980057319178280>
+==========
+19/21/2022 - 19:48:43 - 🎮-games-chat-🎮 - _Phantoma_#2433
+аз ще дойда
+==========
+19/21/2022 - 19:48:48 - 🎮-games-chat-🎮 - Stefcho#4035
+ok
+==========
+19/21/2022 - 19:49:20 - 🎮-games-chat-🎮 - _Phantoma_#2433
+ще рестартнеш ли света?
+==========
+19/21/2022 - 19:49:25 - 🎮-games-chat-🎮 - Stefcho#4035
+moje
+==========
+19/21/2022 - 19:49:28 - 🎮-games-chat-🎮 - Stefcho#4035
+kato doidete
+==========
+19/21/2022 - 19:50:12 - 🎮-games-chat-🎮 - _Phantoma_#2433
+е по добре сега а не като се съберем и да трябва да чакаме
+==========
+19/21/2022 - 19:50:35 - 🎮-games-chat-🎮 - Stefcho#4035
+e to e vse taq no ok
+==========
+19/21/2022 - 19:51:5 - 🎮-games-chat-🎮 - Stefcho#4035
+emi slojih go
+==========
+19/21/2022 - 19:51:35 - 🎮-games-chat-🎮 - Stefcho#4035
+ma sega shte izkluicha servera
+==========
+19/21/2022 - 19:52:1 - 🎮-games-chat-🎮 - Stefcho#4035
+ni shte sme dosta hora v nachaloto trqbwa da vnimavame da ne padnem
+==========
+19/21/2022 - 19:52:34 - 🎮-games-chat-🎮 - Stefcho#4035
+<@!568496102127566873> <@!735141010971295804> <@!568356066870689804> <@!471354081387085834> <@!480326927589179394> <@!373186333616898050> <@!804810363300347984> tezi ima shans da cukat
+==========
+19/21/2022 - 19:52:56 - 🎮-games-chat-🎮 - Stefcho#4035
+ama sigurno samo <@!568496102127566873> <@!735141010971295804> <@!568356066870689804> <@!373186333616898050> <@!480326927589179394> shte mojem
+==========
+19/21/2022 - 19:53:58 - 🎮-games-chat-🎮 - N1tronsZ#6265
+банк не говореше ли вчера че няма да може
+==========
+19/21/2022 - 19:54:9 - 🎮-games-chat-🎮 - Stefcho#4035
+emi ok
+==========
+19/21/2022 - 19:54:11 - 🎮-games-chat-🎮 - Stefcho#4035
+tupo
+==========
+19/21/2022 - 19:54:28 - 🎮-games-chat-🎮 - N1tronsZ#6265
+аз сега ще вечерям, после може би ще дойда
+==========
+19/21/2022 - 19:54:31 - 🎮-games-chat-🎮 - Stefcho#4035
+i az
+==========
+19/21/2022 - 19:54:35 - 🎮-games-chat-🎮 - N1tronsZ#6265
+но ако сме само трима ще е мн тъпо
+==========
+20/21/2022 - 20:3:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc 213.214.94.248
+==========
+20/21/2022 - 20:3:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+20/21/2022 - 20:3:28 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+bate
+==========
+20/21/2022 - 20:3:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc hypixel
+==========
+20/21/2022 - 20:3:31 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+20/21/2022 - 20:3:34 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+bruh
+==========
+20/21/2022 - 20:3:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+20/21/2022 - 20:3:36 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+20/21/2022 - 20:3:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc localhost:1
+==========
+20/21/2022 - 20:3:43 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+20/21/2022 - 20:4:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypilxe
+==========
+20/21/2022 - 20:4:17 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+20/21/2022 - 20:4:28 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear
+==========
+20/21/2022 - 20:4:29 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+*Instructions unclear, my bin exploded.* Please try again and enter the amount of messages you want me to delete.
+==========
+20/21/2022 - 20:4:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear 10
+==========
+20/21/2022 - 20:4:33 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 11 messages.
+==========
+20/21/2022 - 20:5:18 - 🎮-games-chat-🎮 - kamen#7777
+<@!373186333616898050>
+==========
+20/21/2022 - 20:5:20 - 🎮-games-chat-🎮 - kamen#7777
+stava li
+==========
+20/21/2022 - 20:5:22 - 🎮-games-chat-🎮 - kamen#7777
+da razuchim
+==========
+20/21/2022 - 20:5:27 - 🎮-games-chat-🎮 - kamen#7777
+smelterity zaedno
+==========
+20/21/2022 - 20:5:31 - 🎮-games-chat-🎮 - kamen#7777
+shtoto mi e interesno
+==========
+20/21/2022 - 20:5:38 - 🎮-games-chat-🎮 - kamen#7777
+a ti si go razuchil do nqkude
+==========
+20/21/2022 - 20:9:18 - 💬-general-chat-💬 - kamen#7777
+<@!568356066870689804>
+==========
+20/21/2022 - 20:9:21 - 💬-general-chat-💬 - kamen#7777
+zhiv li si
+==========
+20/21/2022 - 20:9:24 - 💬-general-chat-💬 - kamen#7777
+tagni me kato replynesh
+==========
+20/21/2022 - 20:10:7 - 🎮-games-chat-🎮 - Stefcho#4035
+toi go napravi
+==========
+20/21/2022 - 20:10:13 - 🎮-games-chat-🎮 - Stefcho#4035
+trqbwalo e da napravim dve drugi chasti
+==========
+20/21/2022 - 20:19:15 - 💬-general-chat-💬 - N1tronsZ#6265
+ем да, ама няма да играя
+==========
+20/21/2022 - 20:20:21 - 💬-general-chat-💬 - kamen#7777
+eee
+==========
+20/21/2022 - 20:20:25 - 💬-general-chat-💬 - kamen#7777
+<@!373186333616898050>
+==========
+20/21/2022 - 20:20:31 - 💬-general-chat-💬 - kamen#7777
+u there?
+==========
+20/21/2022 - 20:22:17 - 🎮-games-chat-🎮 - Bankenstein#9377
+https://tinkers-construct.fandom.com/wiki/Smeltery
+==========
+20/21/2022 - 20:22:36 - 🎮-games-chat-🎮 - Bankenstein#9377
+btw idvaite
+==========
+23/21/2022 - 23:34:37 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ sudo admin -u -r <@!471354081387085834> Linux_User_0
+==========
+23/21/2022 - 23:34:38 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+User Amah_1113 renamed to nux_User_.
+==========
+23/21/2022 - 23:39:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ sudo admin -u -r <@!568356066870689804> maika ti
+==========
+23/21/2022 - 23:39:16 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+23/21/2022 - 23:39:17 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Error: DiscordAPIError: Missing Permissions
+==========
+23/21/2022 - 23:39:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ sudo admin -u -r <@!825440225999192084> maika ti
+==========
+23/21/2022 - 23:39:40 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Hello, comrade, I am The Golf 4ka and I am at your service. My prefix is "**golf **"
+==========
+23/21/2022 - 23:39:40 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Error: DiscordAPIError: Missing Permissions
+==========
+23/21/2022 - 23:39:40 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+23/21/2022 - 23:40:4 - 📜-quotes-📜 - N1tronsZ#6265
+"Pull-вай бе майка ти, pull-вай" - Olue 23/03/22 (git pull)
+==========
+23/21/2022 - 23:40:4 - 📜-quotes-📜 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+23/21/2022 - 23:40:25 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ sudo admin -u -r <@!640282146732245013> maika ti
+==========
+23/21/2022 - 23:40:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇲 🇦 🇮 🇰 🇦 
+🇹 🇮
+==========
+23/21/2022 - 23:40:25 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+User saythealphabet renamed to ik.
+==========
+23/21/2022 - 23:40:43 - 🤖-bot-commands-🤖 - kamen#7777
+$ sudo admin -u -r <@!640282146732245013> maika ti
+==========
+23/21/2022 - 23:40:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+23/21/2022 - 23:41:32 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ sudo admin -u -r <@!640282146732245013> maika_Ti
+==========
+23/21/2022 - 23:41:32 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+User saythealphabet renamed to maika_Ti.
+==========
+23/21/2022 - 23:45:22 - 🤖-bot-commands-🤖 - Amah_1113#1361
+yay
+==========
+23/21/2022 - 23:45:44 - 🤖-bot-commands-🤖 - Amah_1113#1361
+echo "maika ti" > maikati.txt
+==========
+23/21/2022 - 23:46:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+set /p asd=
+==========
+23/21/2022 - 23:46:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+echo %asd% > asd.txt
+==========
+24/21/2022 - 22:9:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc 213.214.94.248
+==========
+24/21/2022 - 22:9:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:9:55 - 💬-general-chat-💬 - Stefcho#4035
+i forgor
+==========
+24/21/2022 - 22:9:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc hypixel
+==========
+24/21/2022 - 22:9:56 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:9:56 - 💬-general-chat-💬 - Stefcho#4035
+lol
+==========
+24/21/2022 - 22:10:2 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ mc hypixel
+==========
+24/21/2022 - 22:10:43 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ mc hypixel
+==========
+24/21/2022 - 22:10:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ mc
+==========
+24/21/2022 - 22:10:48 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+What about minecraft?
+==========
+24/21/2022 - 22:11:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ mc hypixel
+==========
+24/21/2022 - 22:12:0 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ mc hypixel
+==========
+24/21/2022 - 22:13:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc hypixel
+==========
+24/21/2022 - 22:13:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc hypixel
+==========
+24/21/2022 - 22:13:11 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:11 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:11 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:11 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc smp
+==========
+24/21/2022 - 22:13:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc smp
+==========
+24/21/2022 - 22:13:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc smp
+==========
+24/21/2022 - 22:13:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc smp
+==========
+24/21/2022 - 22:13:54 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:13:54 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:14:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc smp
+==========
+24/21/2022 - 22:14:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc smp
+==========
+24/21/2022 - 22:14:24 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:14:24 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:14:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc smp
+==========
+24/21/2022 - 22:14:36 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:14:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+\golf mc smp
+==========
+24/21/2022 - 22:14:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+24/21/2022 - 22:14:40 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+24/21/2022 - 22:14:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+24/21/2022 - 22:14:45 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ mc hypixel
+==========
+24/21/2022 - 22:14:46 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+
+==========
+24/21/2022 - 22:15:6 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+24/21/2022 - 22:16:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+```js
+execute: (message, args, sudo, more) => {
+    if (!args[0]) return message.channel.send('What about minecraft?')
+    if (args[0] === 'hypixel') args[0] = "mc.hypixel.net";
+    if (!args[1]) args[1] = 25565;
+    try {
+        more.ourcraft.status(args[0], parseInt(args[1])).then((response) => {
+            message.channel.send({
+                embeds: [{
+                    color: '#197103',
+                    title: 'Minecraft Server Status',
+                    fields: [
+                        { name: 'Server IP:', value: String(response.host) },
+                        { name: 'Online Players:', value: String(response.onlinePlayers) },
+                        { name: 'Max Players:', value: String(response.maxPlayers) },
+                        { name: 'Minecraft Version:', value: String(response.version) },
+
+                    ],
+                }]
+            });
+        })
+            .catch(console.error);
+    } catch (err) {
+        console.log(err);
+    }
+}```
+==========
+24/21/2022 - 22:18:58 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+24/21/2022 - 22:18:58 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+24/21/2022 - 22:31:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc hypixel\
+==========
+24/21/2022 - 22:32:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc hypixel
+==========
+24/21/2022 - 22:32:1 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:32:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+24/21/2022 - 22:32:14 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+There was an error while executing this command!
+==========
+24/21/2022 - 22:33:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+24/21/2022 - 22:33:1 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+24/21/2022 - 22:34:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+24/21/2022 - 22:34:59 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+24/21/2022 - 22:35:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+24/21/2022 - 22:35:2 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+24/21/2022 - 22:35:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+24/21/2022 - 22:36:0 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+24/21/2022 - 22:36:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+24/21/2022 - 22:37:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+24/21/2022 - 22:45:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+24/21/2022 - 22:45:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf minecraft hypixel
+==========
+26/21/2022 - 2:9:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ rps
+==========
+26/21/2022 - 2:10:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf rps
+==========
+26/21/2022 - 2:10:9 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+RPS: Rock 🤜, Paper ✋, Scissors ✌️
+==========
+26/21/2022 - 15:48:49 - 🤖-bot-commands-🤖 - Amah_1113#1361
+q
+==========
+26/21/2022 - 15:48:49 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 15:48:50 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 15:48:51 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 15:48:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 15:48:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+v
+==========
+26/21/2022 - 15:48:55 - 🤖-bot-commands-🤖 - Amah_1113#1361
+w
+==========
+26/21/2022 - 15:48:55 - 🤖-bot-commands-🤖 - Amah_1113#1361
+x
+==========
+26/21/2022 - 15:48:56 - 🤖-bot-commands-🤖 - Amah_1113#1361
+y
+==========
+26/21/2022 - 15:48:57 - 🤖-bot-commands-🤖 - Amah_1113#1361
+z
+==========
+26/21/2022 - 15:49:11 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 15:49:11 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 27 ```_ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 15:49:22 - 🤖-bot-commands-🤖 - Amah_1113#1361
+eto sa moem vsichki da cukame
+==========
+26/21/2022 - 15:49:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 15:49:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 15:49:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 15:49:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 15:49:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 15:49:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 15:49:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 15:49:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 15:49:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 15:49:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 15:49:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 15:49:52 - 🤖-bot-commands-🤖 - Amah_1113#1361
+b
+==========
+26/21/2022 - 15:49:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 15:50:10 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 15:54:19 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman
+==========
+26/21/2022 - 15:54:19 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 27 ```_ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 15:54:21 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 15:54:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 15:54:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 15:56:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman
+==========
+26/21/2022 - 15:56:17 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 27 ```_ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 15:56:25 - 🤖-bot-commands-🤖 - Amah_1113#1361
+assertively
+==========
+26/21/2022 - 15:56:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 15:56:29 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 15:56:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman
+==========
+26/21/2022 - 15:56:35 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 27 ```_ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 15:56:35 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 15:56:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 15:56:39 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 15:56:41 - 🤖-bot-commands-🤖 - Amah_1113#1361
+g
+==========
+26/21/2022 - 15:56:43 - 🤖-bot-commands-🤖 - Amah_1113#1361
+d
+==========
+26/21/2022 - 15:56:49 - 🤖-bot-commands-🤖 - Amah_1113#1361
+b
+==========
+26/21/2022 - 15:56:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 15:57:0 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 15:57:3 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 15:57:4 - 🤖-bot-commands-🤖 - Amah_1113#1361
+o
+==========
+26/21/2022 - 15:57:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+mislish li
+==========
+26/21/2022 - 15:58:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman
+==========
+26/21/2022 - 15:58:9 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 15:58:25 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 15:58:29 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 15:58:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 15:58:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 15:58:36 - 🤖-bot-commands-🤖 - Amah_1113#1361
+b
+==========
+26/21/2022 - 15:58:44 - 🤖-bot-commands-🤖 - Amah_1113#1361
+o
+==========
+26/21/2022 - 15:58:46 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 15:58:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 15:59:5 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman
+==========
+26/21/2022 - 15:59:5 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 17 ```_ _ _ _ _ _ _```
+==========
+26/21/2022 - 15:59:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 15:59:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+asesad
+==========
+26/21/2022 - 15:59:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+as
+==========
+26/21/2022 - 15:59:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+dae
+==========
+26/21/2022 - 15:59:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 15:59:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 15:59:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 15:59:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 15:59:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 15:59:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 15:59:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 15:59:36 - 🤖-bot-commands-🤖 - Amah_1113#1361
+misdoes
+==========
+26/21/2022 - 15:59:41 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 15:59:42 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 30 ```_ _ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 15:59:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 15:59:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 15:59:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:0:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:0:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:0:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:0:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:0:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:0:24 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 16:0:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:0:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+v
+==========
+26/21/2022 - 16:0:34 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:0:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+q
+==========
+26/21/2022 - 16:0:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:0:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:0:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+y
+==========
+26/21/2022 - 16:0:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:0:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:0:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:0:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:1:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:1:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:1:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+x
+==========
+26/21/2022 - 16:1:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:1:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:1:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:1:39 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:1:45 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:1:49 - 🤖-bot-commands-🤖 - Amah_1113#1361
+b
+==========
+26/21/2022 - 16:1:53 - 🤖-bot-commands-🤖 - Amah_1113#1361
+v
+==========
+26/21/2022 - 16:1:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:1:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:1:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:1:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:1:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:2:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:2:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:2:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:2:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:2:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:2:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:2:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:2:10 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:2:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+q
+==========
+26/21/2022 - 16:2:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:2:17 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:2:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:2:34 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 27 ```_ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:2:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:2:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:2:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:2:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:2:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:2:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:2:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:2:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:2:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:2:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+j
+==========
+26/21/2022 - 16:2:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:2:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:2:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:2:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:2:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:2:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:2:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+q
+==========
+26/21/2022 - 16:2:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:2:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:2:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:2:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:2:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+v
+==========
+26/21/2022 - 16:2:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:3:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+x
+==========
+26/21/2022 - 16:3:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+y
+==========
+26/21/2022 - 16:3:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+z
+==========
+26/21/2022 - 16:3:11 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:3:11 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:3:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:3:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:3:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:3:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:3:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:3:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:3:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:3:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:3:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:3:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:3:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:3:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:3:28 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:3:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:3:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:3:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:3:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:3:41 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 25 ```_ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:3:51 - 🤖-bot-commands-🤖 - Amah_1113#1361
+muttonhead
+==========
+26/21/2022 - 16:3:59 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:3:59 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 12 ```_ _ _ _ _```
+==========
+26/21/2022 - 16:4:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:4:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:4:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:4:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:4:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:4:10 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:4:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:4:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:4:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:4:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:4:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:4:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+flank
+==========
+26/21/2022 - 16:4:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:4:40 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 25 ```_ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:4:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:4:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:4:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:4:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:4:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:4:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:5:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:5:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:5:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:5:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:5:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:5:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:5:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:5:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:5:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:5:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:5:51 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:5:51 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:5:51 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:5:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:5:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:6:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:6:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:6:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:6:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:6:10 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:6:14 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:6:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:6:21 - 🤖-bot-commands-🤖 - Amah_1113#1361
+h
+==========
+26/21/2022 - 16:6:26 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 16:6:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+m
+==========
+26/21/2022 - 16:6:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:6:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+z
+==========
+26/21/2022 - 16:6:41 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 16:6:47 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:7:3 - 🤖-bot-commands-🤖 - Amah_1113#1361
+d
+==========
+26/21/2022 - 16:7:14 - 🤖-bot-commands-🤖 - Amah_1113#1361
+b
+==========
+26/21/2022 - 16:7:25 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 16:7:35 - 🤖-bot-commands-🤖 - Amah_1113#1361
+p
+==========
+26/21/2022 - 16:7:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:7:43 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 22 ```_ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:7:45 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:7:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:7:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:7:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:7:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:7:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:7:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:7:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:7:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:7:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:8:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:8:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+j
+==========
+26/21/2022 - 16:8:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 16:8:10 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:8:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:8:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:8:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 16:8:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:8:27 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 30 ```_ _ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:8:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:8:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:8:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:8:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:8:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:8:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:8:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:8:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:8:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:8:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+j
+==========
+26/21/2022 - 16:8:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:8:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:8:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:8:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:8:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:8:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:8:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+q
+==========
+26/21/2022 - 16:8:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:8:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:8:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:8:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:8:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+v
+==========
+26/21/2022 - 16:8:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:8:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+x
+==========
+26/21/2022 - 16:8:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+y
+==========
+26/21/2022 - 16:8:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+z
+==========
+26/21/2022 - 16:9:3 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:9:4 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 22 ```_ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:9:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:9:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:9:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:9:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:9:10 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:9:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:9:12 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:9:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:9:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:9:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:9:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:9:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:9:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:9:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:9:45 - 🤖-bot-commands-🤖 - Amah_1113#1361
+x
+==========
+26/21/2022 - 16:9:52 - 🤖-bot-commands-🤖 - Amah_1113#1361
+h
+==========
+26/21/2022 - 16:10:2 - 🤖-bot-commands-🤖 - Amah_1113#1361
+y
+==========
+26/21/2022 - 16:10:3 - 🤖-bot-commands-🤖 - Amah_1113#1361
+z
+==========
+26/21/2022 - 16:10:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:10:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:10:15 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 27 ```_ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:10:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:10:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:10:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:10:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:10:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:10:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:10:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:10:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:10:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:10:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:10:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+q
+==========
+26/21/2022 - 16:10:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:10:34 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:10:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:10:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:10:43 - 🤖-bot-commands-🤖 - Amah_1113#1361
+y
+==========
+26/21/2022 - 16:10:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:10:50 - 🤖-bot-commands-🤖 - Amah_1113#1361
+o
+==========
+26/21/2022 - 16:10:52 - 🤖-bot-commands-🤖 - Amah_1113#1361
+d
+==========
+26/21/2022 - 16:11:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:11:0 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:11:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:11:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:11:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:11:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:11:10 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:11:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:11:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:11:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:11:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:11:23 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:11:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:11:33 - 🤖-bot-commands-🤖 - Amah_1113#1361
+d
+==========
+26/21/2022 - 16:11:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:11:37 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 16:11:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:11:42 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 25 ```_ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:11:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:11:45 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:11:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:11:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:11:47 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+j
+==========
+26/21/2022 - 16:11:53 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 16:11:55 - 🤖-bot-commands-🤖 - Amah_1113#1361
+p
+==========
+26/21/2022 - 16:11:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:12:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:12:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:12:10 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:12:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 16:12:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:12:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:12:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:12:28 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:12:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:12:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:12:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:12:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:12:49 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:12:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:12:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:12:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:13:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:13:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:13:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+z
+==========
+26/21/2022 - 16:13:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:14:5 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:14:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:14:19 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 42 ```_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:14:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:14:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:14:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:14:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:14:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:14:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:14:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:14:28 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:14:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:14:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:14:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+j
+==========
+26/21/2022 - 16:14:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+kl
+==========
+26/21/2022 - 16:14:34 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:14:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:14:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+m
+==========
+26/21/2022 - 16:14:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:14:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:14:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:14:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+q
+==========
+26/21/2022 - 16:14:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:14:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:14:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:14:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:14:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+v
+==========
+26/21/2022 - 16:14:43 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:14:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:14:43 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 15 ```_ _ _ _ _ _```
+==========
+26/21/2022 - 16:14:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+x
+==========
+26/21/2022 - 16:14:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:14:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:14:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:14:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:14:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:15:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:15:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:15:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:15:12 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+c
+==========
+26/21/2022 - 16:15:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+k
+==========
+26/21/2022 - 16:15:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+k
+==========
+26/21/2022 - 16:15:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+k
+==========
+26/21/2022 - 16:15:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+k
+==========
+26/21/2022 - 16:15:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:15:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:15:41 - 🤖-bot-commands-🤖 - Amah_1113#1361
+h
+==========
+26/21/2022 - 16:15:45 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:15:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:15:51 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 22 ```_ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:15:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:15:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:15:57 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:15:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:15:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:16:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:16:2 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:16:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:16:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+m
+==========
+26/21/2022 - 16:16:8 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:16:8 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 16:16:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+k
+==========
+26/21/2022 - 16:16:10 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:16:11 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:16:11 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 16:16:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:16:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:16:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:16:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:16:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+x
+==========
+26/21/2022 - 16:16:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:16:21 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:16:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:16:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:16:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:16:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:16:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:16:29 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:16:34 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:16:34 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 25 ```_ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:16:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:16:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:16:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:16:39 - 🤖-bot-commands-🤖 - Amah_1113#1361
+b
+==========
+26/21/2022 - 16:16:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+c
+==========
+26/21/2022 - 16:16:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+d
+==========
+26/21/2022 - 16:16:41 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 16:16:41 - 🤖-bot-commands-🤖 - Amah_1113#1361
+f
+==========
+26/21/2022 - 16:16:42 - 🤖-bot-commands-🤖 - Amah_1113#1361
+g
+==========
+26/21/2022 - 16:16:43 - 🤖-bot-commands-🤖 - Amah_1113#1361
+h
+==========
+26/21/2022 - 16:16:44 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 16:16:46 - 🤖-bot-commands-🤖 - Amah_1113#1361
+j
+==========
+26/21/2022 - 16:16:48 - 🤖-bot-commands-🤖 - Amah_1113#1361
+k
+==========
+26/21/2022 - 16:16:49 - 🤖-bot-commands-🤖 - Amah_1113#1361
+m
+==========
+26/21/2022 - 16:16:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:16:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:16:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:16:56 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 16:16:57 - 🤖-bot-commands-🤖 - Amah_1113#1361
+o
+==========
+26/21/2022 - 16:16:58 - 🤖-bot-commands-🤖 - Amah_1113#1361
+p
+==========
+26/21/2022 - 16:16:59 - 🤖-bot-commands-🤖 - Amah_1113#1361
+q
+==========
+26/21/2022 - 16:16:59 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 16:17:0 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:17:1 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:17:5 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 16:17:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:17:11 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 15 ```_ _ _ _ _ _```
+==========
+26/21/2022 - 16:17:12 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:17:13 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:17:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:17:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:17:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:17:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:17:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:17:19 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 16:17:21 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 16:17:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:17:22 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 16:17:22 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 16:17:23 - 🤖-bot-commands-🤖 - Amah_1113#1361
+x
+==========
+26/21/2022 - 16:17:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+b
+==========
+26/21/2022 - 16:17:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:17:32 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 22 ```_ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:17:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:17:34 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:17:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:17:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:17:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+x
+==========
+26/21/2022 - 16:17:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:17:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:17:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:17:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:17:42 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:17:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:17:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:17:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:17:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:18:6 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:18:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+m
+==========
+26/21/2022 - 16:18:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:18:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:18:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+om
+==========
+26/21/2022 - 16:18:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+y
+==========
+26/21/2022 - 16:18:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:18:23 - 🤖-bot-commands-🤖 - Amah_1113#1361
+h
+==========
+26/21/2022 - 16:18:26 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 16:18:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+k
+==========
+26/21/2022 - 16:18:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 16:18:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+q
+==========
+26/21/2022 - 16:18:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:18:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:18:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:18:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:18:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+y
+==========
+26/21/2022 - 16:18:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:18:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:18:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+d
+==========
+26/21/2022 - 16:18:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:18:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:18:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:18:52 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 17 ```_ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:18:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:18:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:18:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:18:55 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:18:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+or
+==========
+26/21/2022 - 16:18:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:18:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:18:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:19:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:19:12 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:19:13 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:19:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:19:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:19:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:19:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:19:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+or
+==========
+26/21/2022 - 16:19:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:19:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:19:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:19:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:19:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+l
+==========
+26/21/2022 - 16:19:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:19:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:19:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:19:26 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+x
+==========
+26/21/2022 - 16:19:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:19:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:19:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+n
+==========
+26/21/2022 - 16:19:36 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:19:37 - 🤖-bot-commands-🤖 - Amah_1113#1361
+v
+==========
+26/21/2022 - 16:19:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+o
+==========
+26/21/2022 - 16:19:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+q
+==========
+26/21/2022 - 16:19:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:19:41 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:19:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:19:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:19:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+w
+==========
+26/21/2022 - 16:19:43 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:19:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:19:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:19:52 - 🤖-bot-commands-🤖 - Amah_1113#1361
+although
+==========
+26/21/2022 - 16:19:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:19:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:19:58 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 25 ```_ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:19:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:20:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:20:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:20:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:20:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:20:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:20:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:20:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 16:20:14 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 16:20:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:20:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:20:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+v
+==========
+26/21/2022 - 16:20:23 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:20:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+d
+==========
+26/21/2022 - 16:20:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:20:30 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 15 ```_ _ _ _ _ _```
+==========
+26/21/2022 - 16:20:32 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:20:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 16:20:34 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+maika ti
+==========
+26/21/2022 - 16:20:35 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:20:35 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 16:20:37 - 🤖-bot-commands-🤖 - Amah_1113#1361
+p
+==========
+26/21/2022 - 16:20:39 - 🤖-bot-commands-🤖 - Amah_1113#1361
+o
+==========
+26/21/2022 - 16:20:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 16:20:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:20:42 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:20:55 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 16:20:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:20:59 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+z
+==========
+26/21/2022 - 16:21:1 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:21:3 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:21:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+y
+==========
+26/21/2022 - 16:21:7 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+v
+==========
+26/21/2022 - 16:21:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+v
+==========
+26/21/2022 - 16:21:12 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ hangman --all
+==========
+26/21/2022 - 16:21:12 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:21:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:21:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:21:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:21:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:21:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:21:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+r
+==========
+26/21/2022 - 16:21:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:21:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+s
+==========
+26/21/2022 - 16:21:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:21:21 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 16:21:22 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+g
+==========
+26/21/2022 - 16:21:22 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 16:21:23 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 16:21:24 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 16:21:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+p
+==========
+26/21/2022 - 16:21:42 - 🤖-bot-commands-🤖 - Amah_1113#1361
+ez
+==========
+26/21/2022 - 16:21:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:21:54 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 20 ```_ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:22:4 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:22:5 - 🤖-bot-commands-🤖 - Amah_1113#1361
+b
+==========
+26/21/2022 - 16:22:5 - 🤖-bot-commands-🤖 - Amah_1113#1361
+c
+==========
+26/21/2022 - 16:22:6 - 🤖-bot-commands-🤖 - Amah_1113#1361
+d
+==========
+26/21/2022 - 16:22:6 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 16:22:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+f
+==========
+26/21/2022 - 16:22:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+g
+==========
+26/21/2022 - 16:22:11 - 🤖-bot-commands-🤖 - Amah_1113#1361
+h
+==========
+26/21/2022 - 16:22:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 16:22:13 - 🤖-bot-commands-🤖 - Amah_1113#1361
+j
+==========
+26/21/2022 - 16:22:14 - 🤖-bot-commands-🤖 - Amah_1113#1361
+k
+==========
+26/21/2022 - 16:22:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 16:22:15 - 🤖-bot-commands-🤖 - Amah_1113#1361
+m
+==========
+26/21/2022 - 16:22:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 16:22:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+o
+==========
+26/21/2022 - 16:22:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+p
+==========
+26/21/2022 - 16:22:21 - 🤖-bot-commands-🤖 - Amah_1113#1361
+q
+==========
+26/21/2022 - 16:22:21 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 16:22:22 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:22:23 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:22:25 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 16:22:25 - 🤖-bot-commands-🤖 - Amah_1113#1361
+v
+==========
+26/21/2022 - 16:22:26 - 🤖-bot-commands-🤖 - Amah_1113#1361
+w
+==========
+26/21/2022 - 16:22:26 - 🤖-bot-commands-🤖 - Amah_1113#1361
+x
+==========
+26/21/2022 - 16:22:27 - 🤖-bot-commands-🤖 - Amah_1113#1361
+y
+==========
+26/21/2022 - 16:22:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+z
+==========
+26/21/2022 - 16:23:59 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:23:59 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 9 ```_ _ _ _ _ _```
+==========
+26/21/2022 - 16:24:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+e
+==========
+26/21/2022 - 16:24:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+a
+==========
+26/21/2022 - 16:24:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+o
+==========
+26/21/2022 - 16:24:18 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+u
+==========
+26/21/2022 - 16:24:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+i
+==========
+26/21/2022 - 16:24:26 - 🤖-bot-commands-🤖 - Amah_1113#1361
+n
+==========
+26/21/2022 - 16:24:27 - 🤖-bot-commands-🤖 - Amah_1113#1361
+g
+==========
+26/21/2022 - 16:24:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+f
+==========
+26/21/2022 - 16:24:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+t
+==========
+26/21/2022 - 16:24:35 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 16:24:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+h
+==========
+26/21/2022 - 16:24:39 - 🤖-bot-commands-🤖 - Amah_1113#1361
+w
+==========
+26/21/2022 - 16:24:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all
+==========
+26/21/2022 - 16:24:54 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 13 ```_ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:25:20 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 16:25:20 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:25:22 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:25:25 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:25:26 - 🤖-bot-commands-🤖 - Amah_1113#1361
+p
+==========
+26/21/2022 - 16:25:27 - 🤖-bot-commands-🤖 - Amah_1113#1361
+o
+==========
+26/21/2022 - 16:25:27 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 16:25:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:25:29 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:25:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+g
+==========
+26/21/2022 - 16:25:37 - 🤖-bot-commands-🤖 - Amah_1113#1361
+m
+==========
+26/21/2022 - 16:28:32 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all --hard
+==========
+26/21/2022 - 16:28:58 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all --hard
+==========
+26/21/2022 - 16:29:40 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ hangman --all --hard
+==========
+26/21/2022 - 16:29:40 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Tries: 16 ```_ _ _ _ _ _ _ _ _ _ _```
+==========
+26/21/2022 - 16:29:45 - 🤖-bot-commands-🤖 - Amah_1113#1361
+a
+==========
+26/21/2022 - 16:29:46 - 🤖-bot-commands-🤖 - Amah_1113#1361
+e
+==========
+26/21/2022 - 16:29:48 - 🤖-bot-commands-🤖 - Amah_1113#1361
+r
+==========
+26/21/2022 - 16:29:50 - 🤖-bot-commands-🤖 - Amah_1113#1361
+s
+==========
+26/21/2022 - 16:29:51 - 🤖-bot-commands-🤖 - Amah_1113#1361
+t
+==========
+26/21/2022 - 16:29:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+u
+==========
+26/21/2022 - 16:29:56 - 🤖-bot-commands-🤖 - Amah_1113#1361
+v
+==========
+26/21/2022 - 16:29:57 - 🤖-bot-commands-🤖 - Amah_1113#1361
+w
+==========
+26/21/2022 - 16:30:0 - 🤖-bot-commands-🤖 - Amah_1113#1361
+m
+==========
+26/21/2022 - 16:30:4 - 🤖-bot-commands-🤖 - Amah_1113#1361
+l
+==========
+26/21/2022 - 16:30:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+p
+==========
+26/21/2022 - 16:30:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+i
+==========
+26/21/2022 - 18:38:24 - 🎮-games-chat-🎮 - N1tronsZ#6265
+bois
+==========
+26/21/2022 - 18:38:26 - 🎮-games-chat-🎮 - N1tronsZ#6265
+we now have:
+==========
+26/21/2022 - 18:38:28 - 🎮-games-chat-🎮 - N1tronsZ#6265
+plastic
+==========
+26/21/2022 - 18:38:30 - 🎮-games-chat-🎮 - N1tronsZ#6265
+copper
+==========
+26/21/2022 - 18:38:32 - 💬-general-chat-💬 - Bankenstein#9377
+много е добре
+==========
+26/21/2022 - 18:38:38 - 🎮-games-chat-🎮 - N1tronsZ#6265
+and bronze (sort of)
+==========
+26/21/2022 - 18:38:40 - 💬-general-chat-💬 - Stefcho#4035
+qko
+==========
+26/21/2022 - 18:38:43 - 💬-general-chat-💬 - N1tronsZ#6265
+nice
+==========
+26/21/2022 - 18:38:47 - 🎮-games-chat-🎮 - Stefcho#4035
+i 10 mashini
+==========
+26/21/2022 - 18:38:49 - 🎮-games-chat-🎮 - Stefcho#4035
+i energy
+==========
+26/21/2022 - 18:41:38 - 🎮-games-chat-🎮 - N1tronsZ#6265
+
+==========
+26/21/2022 - 18:47:12 - 💬-general-chat-💬 - saythealphabet#8331
+егати  ние що нямаме такова
+==========
+26/21/2022 - 18:47:21 - 💬-general-chat-💬 - saythealphabet#8331
+най-близкото до това е ндк
+==========
+26/21/2022 - 18:47:30 - 💬-general-chat-💬 - saythealphabet#8331
+мн як фонтан
+==========
+26/21/2022 - 18:47:42 - 💬-general-chat-💬 - saythealphabet#8331
+а иначе кп там банк
+==========
+26/21/2022 - 18:47:56 - 💬-general-chat-💬 - N1tronsZ#6265
+във варна пред общината има яко, ама не е дори близо до това
+==========
+26/21/2022 - 18:48:7 - 💬-general-chat-💬 - N1tronsZ#6265
+всъщност и ндк си е доста яко
+==========
+26/21/2022 - 18:48:47 - 🤣-memes-🤣 - saythealphabet#8331
+e e e e e e e e
+==========
+26/21/2022 - 18:53:37 - 💬-general-chat-💬 - Bankenstein#9377
+бтв тва е в един парк пълен с папагали
+==========
+26/21/2022 - 18:54:2 - 💬-general-chat-💬 - Bankenstein#9377
+баш като софийските гълъби
+==========
+26/21/2022 - 18:54:13 - 💬-general-chat-💬 - Bankenstein#9377
+ама по-малки, зелени и звучат по-яко
+==========
+26/21/2022 - 18:54:18 - 💬-general-chat-💬 - N1tronsZ#6265
+nice
+==========
+26/21/2022 - 18:55:44 - 💬-general-chat-💬 - Bankenstein#9377
+majestic гларус moment
+==========
+26/21/2022 - 18:55:57 - 💬-general-chat-💬 - N1tronsZ#6265
+*anger*
+==========
+26/21/2022 - 18:56:8 - 💬-general-chat-💬 - N1tronsZ#6265
+тва е баш като варненските
+==========
+26/21/2022 - 18:56:20 - 💬-general-chat-💬 - saythealphabet#8331
+*faints*
+==========
+26/21/2022 - 18:56:31 - 💬-general-chat-💬 - Bankenstein#9377
+не бе тоя пич просто си обикаляше все едно е кмет на барселона
+==========
+26/21/2022 - 18:56:45 - 💬-general-chat-💬 - N1tronsZ#6265
+откраднал ли е всяка храна в 1км радиус?
+==========
+26/21/2022 - 18:56:51 - 💬-general-chat-💬 - Bankenstein#9377
+всъщност не
+==========
+26/21/2022 - 18:56:53 - 💬-general-chat-💬 - saythealphabet#8331
+те гларусите са си все тъй нахални
+==========
+26/21/2022 - 18:57:27 - 💬-general-chat-💬 - Stefcho#4035
+edin mi vse dunera :(
+==========
+26/21/2022 - 18:57:56 - 💬-general-chat-💬 - Bankenstein#9377
+ето една снимка право нагоре в саграда фамилия
+==========
+26/21/2022 - 18:59:39 - 💬-general-chat-💬 - Bankenstein#9377
+също така имат ебаси големите таксита
+==========
+26/21/2022 - 19:7:11 - 🎮-games-chat-🎮 - Stefcho#4035
+umm
+==========
+26/21/2022 - 19:7:12 - 🎮-games-chat-🎮 - Stefcho#4035
+
+==========
+26/21/2022 - 19:7:17 - 🎮-games-chat-🎮 - Stefcho#4035
+samo se doblijih do fermata
+==========
+26/21/2022 - 19:7:21 - 🎮-games-chat-🎮 - Stefcho#4035
+i stanah level 96
+==========
+26/21/2022 - 19:16:49 - 💬-general-chat-💬 - saythealphabet#8331
+дънера? 🤨
+==========
+26/21/2022 - 19:17:24 - 💬-general-chat-💬 - saythealphabet#8331
+те испанците са големи хора с големи 
+
+
+
+сърца
+==========
+26/21/2022 - 19:18:12 - 💬-general-chat-💬 - saythealphabet#8331
+най-сетне, такси, в което майката на вим ще се поббере
+==========
+26/21/2022 - 19:21:12 - 🎮-games-chat-🎮 - N1tronsZ#6265
+нице
+==========
+26/21/2022 - 19:24:55 - 🎮-games-chat-🎮 - Stefcho#4035
+213.214.94.248
+==========
+26/21/2022 - 19:26:31 - 💬-general-chat-💬 - Bankenstein#9377
+from the Sagrada Familia audio guide
+==========
+26/21/2022 - 19:26:39 - 💬-general-chat-💬 - Bankenstein#9377
+
+==========
+26/21/2022 - 19:26:43 - 💬-general-chat-💬 - Bankenstein#9377
+
+==========
+26/21/2022 - 19:26:45 - 💬-general-chat-💬 - Bankenstein#9377
+
+==========
+26/21/2022 - 19:26:56 - 💬-general-chat-💬 - N1tronsZ#6265
+🅱️ased
+==========
+26/21/2022 - 20:1:16 - 🎮-games-chat-🎮 - Stefcho#4035
+
+==========
+26/21/2022 - 20:4:58 - 🎮-games-chat-🎮 - Stefcho#4035
+
+==========
+26/21/2022 - 20:5:3 - 🎮-games-chat-🎮 - Stefcho#4035
+tva pravi plastmasa
+==========
+26/21/2022 - 20:5:20 - 🎮-games-chat-🎮 - Stefcho#4035
+mnogo qko
+==========
+26/21/2022 - 20:17:6 - 🎮-games-chat-🎮 - Stefcho#4035
+<@!373186333616898050> shte zamenq crateovete s chestove che ni trqbwat i saplingi
+==========
+26/21/2022 - 20:17:16 - 🎮-games-chat-🎮 - Stefcho#4035
+i drugi neshta moje da ni potrqbwat
+==========
+26/21/2022 - 20:35:3 - 🎮-games-chat-🎮 - borkan#4695
+<@!568356066870689804>
+==========
+26/21/2022 - 20:35:6 - 🎮-games-chat-🎮 - borkan#4695
+mango
+==========
+26/21/2022 - 20:35:13 - 🎮-games-chat-🎮 - borkan#4695
+govori be
+==========
+26/21/2022 - 21:6:19 - 📜-quotes-📜 - Amah_1113#1361
+Bojko: "Stefcho ubicha geisko porno"
+stefan: "Ne, az ubicham s muje" - 26/03/22
+==========
+26/21/2022 - 21:23:40 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#LSVL
+==========
+26/21/2022 - 21:23:44 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#LSVL
+==========
+26/21/2022 - 21:23:44 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#LSVL
+==========
+26/21/2022 - 21:23:45 - 🎮-games-chat-🎮 - Amah_1113#1361
+https://tetr.io/#LSVL
+==========
+26/21/2022 - 22:44:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc 213.214.94.248
+==========
+26/21/2022 - 22:44:15 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc 213.214.94.248
+==========
+26/21/2022 - 22:44:16 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc 213.214.94.248
+==========
+26/21/2022 - 22:44:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc 213.214.94.248
+==========
+26/21/2022 - 22:44:23 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ mc 213.214.94.248
+==========
+26/21/2022 - 22:44:30 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ test
+==========
+26/21/2022 - 22:44:32 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ echo test
+==========
+26/21/2022 - 22:44:33 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+```test```
+==========
+26/21/2022 - 22:44:37 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ sudo apt install minecraft
+==========
+26/21/2022 - 22:44:38 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Installed minecraft!
+==========
+26/21/2022 - 22:44:45 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ mc 213.214.94.248
+==========
+26/21/2022 - 22:44:54 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ minecraft 213.214.94.248
+==========
+26/21/2022 - 22:45:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+$ minecraft 213.214.94.248
+==========
+26/21/2022 - 22:46:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc $ minecraft 213.214.94.248
+==========
+26/21/2022 - 22:47:33 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 22:47:33 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 22:47:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf mc hypixel
+==========
+26/21/2022 - 22:47:38 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+26/21/2022 - 22:47:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ help
+==========
+26/21/2022 - 22:48:7 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+26/21/2022 - 22:48:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ restart
+==========
+26/21/2022 - 22:48:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ help
+==========
+26/21/2022 - 22:48:9 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+PS1 of the terminal is `$ `. The syntax is: `$ [command] [arguments]`
+
+ This bot is based on the linux terminal and is currently in beta.
+
+Commands:
+
+help : ```Commands are stored in /bin. Use 'cd' to navigate to the dir and use 'pwd' to see in which dir you are currently at.```
+
+cd : ```navigate directories```
+
+pwd : ```show current path```
+
+ls : ```list files and directories```
+
+cat : ```displays the contents of a file```
+
+touch : ```creates a empty file```
+
+rm : ```removes a file```
+
+mkdir : ```creates a directory```
+
+rmdir : ```removes a directory```
+
+clear : ```clears the terminal```
+
+echo : ```displays a string```
+
+exit : ```exits the terminal (goes to '/' and clears the terminal)```
+
+log : ```displays the log of the terminal```
+
+Use `$ help [command]` to get more information about a command.
+==========
+26/21/2022 - 22:48:35 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+майка ти
+==========
+26/21/2022 - 22:48:35 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 22:49:4 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ ls
+==========
+26/21/2022 - 22:49:4 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+**bin/**
+**home/**
+**records/**
+**sys/**
+==========
+26/21/2022 - 22:49:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ ls sys
+==========
+26/21/2022 - 22:49:9 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+golf
+trans
+**mines/**
+==========
+26/21/2022 - 22:49:22 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ cat /sys/trans
+==========
+26/21/2022 - 22:49:22 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+File is empty
+==========
+26/21/2022 - 22:49:50 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ ls /home/Desktop
+==========
+26/21/2022 - 22:49:50 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+No files or directories found.
+==========
+26/21/2022 - 22:56:50 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play honda 10000 rpm
+==========
+26/21/2022 - 22:56:52 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Honda Integra VTEC TURBO 0-320 🔥🔥11000 RPM ACCELERATION**
+==========
+26/21/2022 - 22:57:8 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play honda f1 10000 rpm
+==========
+26/21/2022 - 22:57:9 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Honda F1 Engine at 20000 RPM** added to queue!
+==========
+26/21/2022 - 22:57:19 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear 10-
+==========
+26/21/2022 - 22:57:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 11 messages.
+==========
+26/21/2022 - 22:57:46 - 🤖-bot-commands-🤖 - borkan#4695
+майка ти
+==========
+26/21/2022 - 22:57:47 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 22:57:50 - 🤖-bot-commands-🤖 - borkan#4695
+пхахаха
+==========
+26/21/2022 - 22:57:57 - 🤖-bot-commands-🤖 - borkan#4695
+majka ti
+==========
+26/21/2022 - 22:57:57 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 22:58:2 - 🤖-bot-commands-🤖 - borkan#4695
+siuuuuu
+==========
+26/21/2022 - 22:58:8 - 🤖-bot-commands-🤖 - Amah_1113#1361
+skakauec
+==========
+26/21/2022 - 22:59:17 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 saudi_arabia
+==========
+26/21/2022 - 22:59:17 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+26/21/2022 - 22:59:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 next
+==========
+26/21/2022 - 22:59:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+
+==========
+26/21/2022 - 22:59:47 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ reddit f1
+==========
+26/21/2022 - 22:59:49 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+
+==========
+26/21/2022 - 22:59:56 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf f1 until australia
+==========
+26/21/2022 - 22:59:56 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Time until australia - 14d 16h 0m
+==========
+26/21/2022 - 23:0:17 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ reddit tvoqta maika
+==========
+26/21/2022 - 23:0:17 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 23:0:17 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+No results found.
+==========
+26/21/2022 - 23:0:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ reddit r/bulgaria
+==========
+26/21/2022 - 23:0:31 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+
+==========
+26/21/2022 - 23:1:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+siuuuu
+==========
+26/21/2022 - 23:1:9 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+siuuuu
+==========
+26/21/2022 - 23:1:9 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:9 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:18 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ reddit technicly ignore
+==========
+26/21/2022 - 23:1:18 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ reddit technicly ignore
+==========
+26/21/2022 - 23:1:19 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+
+==========
+26/21/2022 - 23:1:19 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+
+==========
+26/21/2022 - 23:1:20 - 🤖-bot-commands-🤖 - kamen#7777
+siuuuu]
+==========
+26/21/2022 - 23:1:20 - 🤖-bot-commands-🤖 - kamen#7777
+siuuuu]
+==========
+26/21/2022 - 23:1:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:20 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:22 - 🤖-bot-commands-🤖 - borkan#4695
+siu
+==========
+26/21/2022 - 23:1:22 - 🤖-bot-commands-🤖 - borkan#4695
+siu
+==========
+26/21/2022 - 23:1:23 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:23 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:23 - 🤖-bot-commands-🤖 - kamen#7777
+siuuu
+==========
+26/21/2022 - 23:1:23 - 🤖-bot-commands-🤖 - kamen#7777
+siuuu
+==========
+26/21/2022 - 23:1:24 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:24 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:32 - 🤖-bot-commands-🤖 - borkan#4695
+siuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+==========
+26/21/2022 - 23:1:32 - 🤖-bot-commands-🤖 - borkan#4695
+siuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+==========
+26/21/2022 - 23:1:32 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:1:32 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:2:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+сиууууууу
+==========
+26/21/2022 - 23:2:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:5 - 🤖-bot-commands-🤖 - Amah_1113#1361
+сйууу
+==========
+26/21/2022 - 23:3:5 - 🤖-bot-commands-🤖 - Amah_1113#1361
+сйууу
+==========
+26/21/2022 - 23:3:18 - 🤖-bot-commands-🤖 - borkan#4695
+siuuuuuuuuuuuuuuuuuuuu
+==========
+26/21/2022 - 23:3:18 - 🤖-bot-commands-🤖 - borkan#4695
+siuuuuuuuuuuuuuuuuuuuu
+==========
+26/21/2022 - 23:3:19 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:19 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:19 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:19 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:26 - 🤖-bot-commands-🤖 - borkan#4695
+siuu
+==========
+26/21/2022 - 23:3:26 - 🤖-bot-commands-🤖 - borkan#4695
+siuu
+==========
+26/21/2022 - 23:3:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:26 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:3:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 23:3:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 23:3:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:3:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:3:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:3:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:3:52 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 23:3:52 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:3:58 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+siuu
+==========
+26/21/2022 - 23:3:59 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:4:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear 69
+==========
+26/21/2022 - 23:4:4 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf clear 69
+==========
+26/21/2022 - 23:4:4 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 70 messages.
+==========
+26/21/2022 - 23:4:4 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 70 messages.
+==========
+26/21/2022 - 23:4:6 - 🤖-bot-commands-🤖 - Amah_1113#1361
+сйууу
+==========
+26/21/2022 - 23:4:6 - 🤖-bot-commands-🤖 - Amah_1113#1361
+сйууу
+==========
+26/21/2022 - 23:4:8 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 70 messages.
+==========
+26/21/2022 - 23:4:8 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Deleted 70 messages.
+==========
+26/21/2022 - 23:4:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+сйуу
+==========
+26/21/2022 - 23:4:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+сйуу
+==========
+26/21/2022 - 23:4:13 - 🤖-bot-commands-🤖 - Amah_1113#1361
+сйуу
+==========
+26/21/2022 - 23:4:13 - 🤖-bot-commands-🤖 - Amah_1113#1361
+сйуу
+==========
+26/21/2022 - 23:4:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+maika ti
+==========
+26/21/2022 - 23:4:25 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+maika ti
+==========
+26/21/2022 - 23:4:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 23:4:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 23:4:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 23:4:25 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 23:4:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ echo Golf bot e shchupen
+==========
+26/21/2022 - 23:4:35 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+```Golf bot e shchupen```
+==========
+26/21/2022 - 23:4:35 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+Baca be momche, baca
+==========
+26/21/2022 - 23:4:38 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 23:4:39 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:4:41 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 23:4:41 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:4:44 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ dc 1234 maika ti
+==========
+26/21/2022 - 23:4:44 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Seed: 1234```vncàæ```
+==========
+26/21/2022 - 23:4:44 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 23:4:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:4:55 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:4:56 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:4:57 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:4:58 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:4:58 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:4:59 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:4:59 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ dc 1234 vncàæ
+==========
+26/21/2022 - 23:5:16 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Seed: 1234```maika ti```
+==========
+26/21/2022 - 23:5:23 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+maika ti
+==========
+26/21/2022 - 23:5:23 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇲 🇦 🇮 🇰 🇦 
+🇹 🇮
+==========
+26/21/2022 - 23:5:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 23:5:27 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 23:5:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:5:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:5:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:5:27 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:5:27 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:27 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:29 - 🤖-bot-commands-🤖 - borkan#4695
+siuuuuuuu
+==========
+26/21/2022 - 23:5:29 - 🤖-bot-commands-🤖 - borkan#4695
+siuuuuuuu
+==========
+26/21/2022 - 23:5:29 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:29 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:29 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:5:29 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:5:29 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:5:29 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif
+==========
+26/21/2022 - 23:5:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:32 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:32 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+vncàæ
+==========
+26/21/2022 - 23:5:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+vncàæ
+==========
+26/21/2022 - 23:5:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:5:34 - 🤖-bot-commands-🤖 - Amah_1113#1361
+vncàæ
+==========
+26/21/2022 - 23:7:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ dc 69420
+==========
+26/21/2022 - 23:7:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ dc 69420
+==========
+26/21/2022 - 23:7:38 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Seed: 69420``````
+==========
+26/21/2022 - 23:7:38 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Seed: 69420``````
+==========
+26/21/2022 - 23:8:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ dc 1 shtefan e gei
+==========
+26/21/2022 - 23:8:7 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ dc 1 shtefan e gei
+==========
+26/21/2022 - 23:8:7 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Seed: 1```ðDS@.lÃF ®```
+==========
+26/21/2022 - 23:8:7 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Seed: 1```ðDS@.lÃF ®```
+==========
+26/21/2022 - 23:8:18 - 🤖-bot-commands-🤖 - Amah_1113#1361
+ðDS@.lÃF ®
+==========
+26/21/2022 - 23:8:18 - 🤖-bot-commands-🤖 - Amah_1113#1361
+ðDS@.lÃF ®
+==========
+26/21/2022 - 23:8:42 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ dc 1 ðDS@.lÃF ®
+==========
+26/21/2022 - 23:8:42 - 🤖-bot-commands-🤖 - Amah_1113#1361
+$ dc 1 ðDS@.lÃF ®
+==========
+26/21/2022 - 23:8:42 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Seed: 1```shtefan e gei```
+==========
+26/21/2022 - 23:8:42 - 🤖-bot-commands-🤖 - Terminal-bot#3526
+Seed: 1```shtefan e gei```
+==========
+26/21/2022 - 23:8:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+ðDS@.lÃF ®
+==========
+26/21/2022 - 23:8:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+ðDS@.lÃF ®
+==========
+26/21/2022 - 23:10:14 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf test
+==========
+26/21/2022 - 23:10:14 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+baca
+==========
+26/21/2022 - 23:15:13 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play geishin impact
+==========
+26/21/2022 - 23:15:16 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Only Day One Genshin Players Will Remember This**
+==========
+26/21/2022 - 23:15:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa geistva
+==========
+26/21/2022 - 23:15:40 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play honda f1 engine 20000rpm
+==========
+26/21/2022 - 23:15:42 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Honda F1 Engine at 20000 RPM**
+==========
+26/21/2022 - 23:15:45 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa skip
+==========
+26/21/2022 - 23:15:50 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa stop
+==========
+26/21/2022 - 23:15:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa kill
+==========
+26/21/2022 - 23:16:1 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa geistvai!!!!
+==========
+26/21/2022 - 23:16:16 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play skakauec
+==========
+26/21/2022 - 23:16:18 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Hipodil   Skakauec**
+==========
+26/21/2022 - 23:16:38 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa volume 100
+==========
+26/21/2022 - 23:17:26 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:28 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Rob Zombie - Dragula (Official Music Video)**
+==========
+26/21/2022 - 23:17:37 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa maika ti
+==========
+26/21/2022 - 23:17:37 - 🤖-bot-commands-🤖 - Golf-Bot#6724
+🇹 🇼 🇴 🇶 🇹 🇦 
+🇲 🇦 🇯 🇰 🇦
+==========
+26/21/2022 - 23:17:39 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:39 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:17:46 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:46 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:17:49 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:50 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:17:51 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:51 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:17:52 - 🤖-bot-commands-🤖 - borkan#4695
+alexa play хиляда пъти
+==========
+26/21/2022 - 23:17:52 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:17:52 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:53 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:17:56 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:56 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:17:57 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:57 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:17:58 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:17:58 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:18:0 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:18:0 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:18:1 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:18:1 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:18:2 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:18:2 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:18:3 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:18:3 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:18:8 - 🤖-bot-commands-🤖 - borkan#4695
+ebi se
+==========
+26/21/2022 - 23:18:11 - 🤖-bot-commands-🤖 - borkan#4695
+ebi se
+==========
+26/21/2022 - 23:18:14 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa da  eba muhata da iba
+==========
+26/21/2022 - 23:18:14 - 🤖-bot-commands-🤖 - borkan#4695
+ebi se
+==========
+26/21/2022 - 23:18:20 - 🤖-bot-commands-🤖 - borkan#4695
+kur
+==========
+26/21/2022 - 23:18:21 - 🤖-bot-commands-🤖 - borkan#4695
+kur
+==========
+26/21/2022 - 23:18:22 - 🤖-bot-commands-🤖 - borkan#4695
+kur
+==========
+26/21/2022 - 23:18:23 - 🤖-bot-commands-🤖 - borkan#4695
+kur
+==========
+26/21/2022 - 23:18:24 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa i ti da se ebesh
+==========
+26/21/2022 - 23:18:24 - 🤖-bot-commands-🤖 - borkan#4695
+kur
+==========
+26/21/2022 - 23:18:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:18:46 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:18:46 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:18:54 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa bahti geq
+==========
+26/21/2022 - 23:18:59 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa boi shtesh li
+==========
+26/21/2022 - 23:19:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+gang bang alexa
+==========
+26/21/2022 - 23:19:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:19:28 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:19:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:19:28 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:19:29 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:19:30 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:19:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:19:30 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:19:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:19:30 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:19:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:19:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:19:32 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:19:34 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:19:35 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:19:35 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+ebi se.
+==========
+26/21/2022 - 23:19:43 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa geistva poveche ot kolkoto trqbva
+==========
+26/21/2022 - 23:20:11 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:20:13 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Rob Zombie - Dragula (Official Music Video)**
+==========
+26/21/2022 - 23:20:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa gay
+==========
+26/21/2022 - 23:20:28 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:21:34 - 🤖-bot-commands-🤖 - borkan#4695
+alexa play aughhhhh tiktok meme sound
+==========
+26/21/2022 - 23:21:43 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:21:44 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:21:45 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:21:45 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:21:46 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:22:4 - 🤖-bot-commands-🤖 - borkan#4695
+alexa play aughhhhh tiktok meme sound
+==========
+26/21/2022 - 23:22:5 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+There was an error while executing this command!
+==========
+26/21/2022 - 23:22:58 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:22:59 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+There was an error while executing this command!
+==========
+26/21/2022 - 23:23:9 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa e mangal
+==========
+26/21/2022 - 23:23:10 - 🤖-bot-commands-🤖 - borkan#4695
+alexa play аз съм от сежлиежо
+==========
+26/21/2022 - 23:23:31 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play ti pa si laino
+==========
+26/21/2022 - 23:23:33 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Ти пък си лайно**
+==========
+26/21/2022 - 23:23:46 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa gay
+==========
+26/21/2022 - 23:23:53 - 🤖-bot-commands-🤖 - borkan#4695
+alexa play аз съм от сежлиежо
+==========
+26/21/2022 - 23:24:3 - 🤖-bot-commands-🤖 - borkan#4695
+alexa play аз съм от севлиежо
+==========
+26/21/2022 - 23:24:19 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play az sum ot sevlievo
+==========
+26/21/2022 - 23:24:27 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa geistva pak
+==========
+26/21/2022 - 23:25:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play аз съм от севлиево
+==========
+26/21/2022 - 23:25:51 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play аз съм от севлиево
+==========
+26/21/2022 - 23:25:52 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Аз съм от Севлиево,..не се еб*вай с мен..!!**
+==========
+26/21/2022 - 23:26:6 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play welcome to pernik
+==========
+26/21/2022 - 23:26:8 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Welcome to The Pernik (Добре дошли в Перник)** added to queue!
+==========
+26/21/2022 - 23:27:29 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Welcome to The Pernik (Добре дошли в Перник)**
+==========
+26/21/2022 - 23:27:52 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:27:53 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**Rob Zombie - Dragula (Official Music Video)** added to queue!
+==========
+26/21/2022 - 23:27:58 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa skip
+==========
+26/21/2022 - 23:27:59 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Force Skipped.
+==========
+26/21/2022 - 23:27:59 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Rob Zombie - Dragula (Official Music Video)**
+==========
+26/21/2022 - 23:28:0 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa golfa pali li?
+==========
+26/21/2022 - 23:28:4 - 🤖-bot-commands-🤖 - borkan#4695
+alexa play aughhhhh tiktok meme sound
+==========
+26/21/2022 - 23:28:11 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:28:11 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf palish li?
+==========
+26/21/2022 - 23:28:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:28:12 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:28:13 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:29:23 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:29:30 - 🤖-bot-commands-🤖 - Amah_1113#1361
+alexa play Dragula - Rob Zombie
+==========
+26/21/2022 - 23:29:31 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Rob Zombie - Dragula (Official Music Video)**
+==========
+26/21/2022 - 23:29:39 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf palish li
+==========
+26/21/2022 - 23:29:39 - 🤖-bot-commands-🤖 - borkan#4695
+alexa play aughhhhh tiktok meme sound
+==========
+26/21/2022 - 23:29:40 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+**aughhhhh tiktok meme sound** added to queue!
+==========
+26/21/2022 - 23:29:48 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golfe kak e viwota
+==========
+26/21/2022 - 23:29:49 - 🤖-bot-commands-🤖 - borkan#4695
+alexa skip
+==========
+26/21/2022 - 23:29:50 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+Skipped **1/2**
+==========
+26/21/2022 - 23:29:53 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+golf testche
+==========
+26/21/2022 - 23:32:20 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa kak e viwotwa
+==========
+26/21/2022 - 23:32:24 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa kak e
+==========
+26/21/2022 - 23:32:31 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa play super max
+==========
+26/21/2022 - 23:32:33 - 🤖-bot-commands-🤖 - Olue Alexa#3971
+🎶 Now playing **Pitstop Boys - Super Max  F1 fans Max Verstappen (originele video)**
+==========
+26/21/2022 - 23:32:36 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa kak si
+==========
+26/21/2022 - 23:32:44 - 🤖-bot-commands-🤖 - N1tronsZ#6265
+alexa stop
+==========

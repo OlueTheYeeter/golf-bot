@@ -1,4 +1,5 @@
 .env
+nikoi.env
 node_modules
 start-stop
 commands/gametest.js

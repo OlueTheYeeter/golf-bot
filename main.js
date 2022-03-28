@@ -98,8 +98,7 @@ client.on('messageCreate', message => {
 		if (functions.rng(0,2)) message.channel.send(functions.emojify("twoqta majka"));
 		else message.channel.send(functions.emojify("maika ti"));
 	}
-
-
+	if(message.content.includes("siu") || message.content.includes('sui') || message.content.includes("сиу")) { message.channel.send("https://c.tenor.com/yIWsA_YgyiMAAAAC/sarhosternal-ronaldo.gif")}
 	if (config.RacismDetection === 'on'){
 	const RacistFilters = ["nigga", "niger", "негър", 'nigger',]
 	if (message.content.split(" ").filter(w => RacistFilters.indexOf(w) != -1).length > 0) {
@@ -107,6 +106,9 @@ client.on('messageCreate', message => {
 		message.channel.send(`${message.author} was racist.`);
 		console.log(`${message.author.username} was racist.`)
 	}}
+
+
+
 	if (message.content.indexOf(config.prefix) != 0 || message.author.bot) return;
 	const args = message.content.slice(config.prefix.length).split(/ +/);
 	const cmd = args.shift().toLowerCase();
